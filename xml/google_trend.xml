@@ -6,8 +6,38 @@
 		<link>https://trends.google.com/trending/rss?geo=KR</link>
 		<atom:link href="https://trends.google.com/trending/rss?geo=KR" rel="self" type="application/rss+xml"/>
 		<item>
+			<title>문화누리카드</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Thu, 26 Jun 2025 04:00:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRr1_DXzcwESNHmXkavIRg-nNJlFnT1BawayaUFAT3TS1tLMzvtRb7iohz0w0</ht:picture>
+			<ht:picture_source>뉴스핌</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>예술위, 문화누리카드 &apos;아트트럭&apos;으로 전국 8개지역 1만3000여 명 만났다</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.newspim.com/news/view/20250626000806</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRr1_DXzcwESNHmXkavIRg-nNJlFnT1BawayaUFAT3TS1tLMzvtRb7iohz0w0</ht:news_item_picture>
+				<ht:news_item_source>뉴스핌</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>금산군, 찾아가는 문화배달 아트트럭 개최</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>http://www.mediatoday.asia/1430265</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvx_1Va80g8VKShWeuCo89gy4ZrXEqCiqP2OjoUHV1nh4D5eEx5AI3jcCA7wY</ht:news_item_picture>
+				<ht:news_item_source>미디어투데이</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>충남문화관광재단, 21일 ‘2025 찾아가는 문화배달 아트트럭’ 개최</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.ccnnews.co.kr/news/articleView.html?idxno=375402</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_qIwGXMBd8NzCEr-M3_Yx1T2ooGN37x-6Aesx8i14eWro0Jo0xWwWcJMRv90</ht:news_item_picture>
+				<ht:news_item_source>충청뉴스</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
 			<title>류현경</title>
-			<ht:approx_traffic>1000+</ht:approx_traffic>
+			<ht:approx_traffic>2000+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
 			<pubDate>Thu, 26 Jun 2025 03:50:00 -0700</pubDate>
@@ -15,7 +45,7 @@
 			<ht:picture_source/>
 		</item>
 		<item>
-			<title>민생회복지원금</title>
+			<title>민생회복지원금 신청</title>
 			<ht:approx_traffic>500+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
@@ -46,32 +76,62 @@
 		</item>
 		<item>
 			<title>이용규</title>
-			<ht:approx_traffic>500+</ht:approx_traffic>
+			<ht:approx_traffic>200+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
 			<pubDate>Thu, 26 Jun 2025 03:40:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeKX8AoOa5NHkE0ylQRc_Kg-qOQUZwbU5yVUwBfMFDcdRmUJ--pugZBVqLSG4</ht:picture>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoE7AogmJHCKgmKpmWPTRwy4yqv4UjoPSO_KBQHmk34svpS0bHqm6G-Z-OzRY</ht:picture>
 			<ht:picture_source>조선일보</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>[사진]이호민,&apos;박찬호 선배 최고&apos;</ht:news_item_title>
+				<ht:news_item_title>[사진]이용규,&apos;잡을 수 있었는데...&apos;</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.chosun.com/sports/sports_photo/2025/06/26/CNRVNC642HDSTFKCUYVHDSVTQY/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeKX8AoOa5NHkE0ylQRc_Kg-qOQUZwbU5yVUwBfMFDcdRmUJ--pugZBVqLSG4</ht:news_item_picture>
+				<ht:news_item_url>https://www.chosun.com/sports/sports_photo/2025/06/26/IFXEIJSBSSDZXHM7KBF22CFQ2Y/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoE7AogmJHCKgmKpmWPTRwy4yqv4UjoPSO_KBQHmk34svpS0bHqm6G-Z-OzRY</ht:news_item_picture>
 				<ht:news_item_source>조선일보</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>[사진]이호민,&apos;선배들 덕분에 막았어요&apos;</ht:news_item_title>
+				<ht:news_item_title>KIA 위즈덤의 조용한 활약…200안타 장인보다 OPS 우위</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.chosun.com/sports/sports_photo/2025/06/26/3WMJUBXYGGYAEKJCXFJ55PWH3Y/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREnJLPQAaKmT-c8b-9-9sVe2pDfd2L20erjvgZfzDrSSiSNHdf49JfU2aJi8k</ht:news_item_picture>
-				<ht:news_item_source>조선일보</ht:news_item_source>
+				<ht:news_item_url>https://www.yna.co.kr/view/AKR20250625118900007</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYfsXxWc0AsZhm_cwl8ooLTdwaxYFamliIlll332hahBCamXO37zJrOiXThuc</ht:news_item_picture>
+				<ht:news_item_source>연합뉴스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>[사진]김대유,&apos;병살 놓쳐 아쉬워&apos; - 조선비즈</ht:news_item_title>
+				<ht:news_item_title>‘만루찬스에서 삼진 당한 위즈덤, 지켜보는 이범호 감독’ [MK포토]</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://biz.chosun.com/sports/sports_photo/2025/06/26/YSFKONFHIJCQTWK33CJPRLVTO4/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmrGj1fudtAG8GsmQTAIZExm3OD-euE7oud8f7a0Al2eEsnBF1qHdNWJTshdI</ht:news_item_picture>
-				<ht:news_item_source>Chosun Biz</ht:news_item_source>
+				<ht:news_item_url>https://www.mk.co.kr/news/sports/11352478</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoXIGzYm0ez0_6SOAL7U00w6X7u2ZBK_VxuW70iPfbRuR-v-T6qbXfCabO19g</ht:news_item_picture>
+				<ht:news_item_source>매일경제</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>헤르손 가라비토</title>
+			<ht:approx_traffic>1000+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Thu, 26 Jun 2025 03:30:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRI6IzbbgcMp6HDX426cxTOC2WDxF7aPn8v_yvIX1509P3XGEL6MD7ESWZplN8</ht:picture>
+			<ht:picture_source>연합뉴스</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>삼성 대체 외국인투수 가라비토, 첫 등판서 5이닝 1안타 무실점</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.yna.co.kr/view/AKR20250626166700007</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRI6IzbbgcMp6HDX426cxTOC2WDxF7aPn8v_yvIX1509P3XGEL6MD7ESWZplN8</ht:news_item_picture>
+				<ht:news_item_source>연합뉴스</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>삼성 새 외인 가라비토, KBO 데뷔전서 5이닝 무사사구 무실점</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.donga.com/news/Sports/article/all/20250626/131892620/1</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWLFChpFE1ZlgVFAzegTTE4QdX7L5UFRmBp19cmnD3FP6oxzkLQPAYJFGjobQ</ht:news_item_picture>
+				<ht:news_item_source>동아일보</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>&quot;워낙 구위가 좋다, 무리할 생각 없다&quot; 7억 빅리거 개봉박두, 사령탑도 폭풍 기대…&apos;타격 1위&apos; 왜 선발에서 빠졌나 [MD대구]</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://m.news.nate.com/view/20250626n36753</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7esbK6GQ0XHjAwUgBFPWv1vilZNbR38zMLhRga8Xe-vCzzV_6-KqJbJovD8s</ht:news_item_picture>
+				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -101,6 +161,66 @@
 				<ht:news_item_snippet/>
 				<ht:news_item_url>https://m.news.nate.com/view/20250626n03929?mid=e03&amp;list=recent&amp;cpcd=</ht:news_item_url>
 				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTaWQKWw_Q76SyFJU41TF-16K02Z1wY-I7vor5ILkSLcZD4Ead0EX0_blB9FLI</ht:news_item_picture>
+				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>우찬</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Thu, 26 Jun 2025 02:50:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3C2GUkacLZYoR8Nq0eKoloSBWyl1Tnx7AzN9ExR9K59HSQn6PtEUCmhIrQ94</ht:picture>
+			<ht:picture_source>조선일보</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>“회장님 오십니다”...신세계 외손녀, 라방 속 포착된 ‘찐재벌’ 일상</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.chosun.com/national/people/2025/06/26/PUJJZWVP6BHQJAQPB264VSMVOQ/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3C2GUkacLZYoR8Nq0eKoloSBWyl1Tnx7AzN9ExR9K59HSQn6PtEUCmhIrQ94</ht:news_item_picture>
+				<ht:news_item_source>조선일보</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>&quot;회장님 들어오십니다&quot;…&apos;신세계 3세&apos; 애니, 재벌 일상 포착</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.newsis.com/view/NISX20250625_0003227333</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIufZI6PsUl2v6Zw1MmKY2515dQ4JoW4y-5D6yxCDvgdotioJLsG_KgZ79ObY</ht:news_item_picture>
+				<ht:news_item_source>뉴시스</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>올데이 프로젝트, 오늘(26일) &apos;엠카&apos;로 음방 데뷔 무대 펼친다</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://news.nate.com/view/20250626n35625</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS18OYZVjTw7VQvN7uBguscKbFwWWNkOblLNx_r62GzNr11IbJi02xCb1G9lzw</ht:news_item_picture>
+				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>김건국</title>
+			<ht:approx_traffic>500+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Thu, 26 Jun 2025 02:40:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5_2iiT26ncWdH-VkkMqKyrdtHbO8HPelFsCwfQ8Cy6WDYd1WqodWhlUbRBnI</ht:picture>
+			<ht:picture_source>네이트 뉴스</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>[사진]박찬호,&apos;득점 슬라이딩&apos; : 네이트 스포츠</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://m.news.nate.com/view/20250626n38582?mid=s01&amp;list=recent&amp;cpcd=</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5_2iiT26ncWdH-VkkMqKyrdtHbO8HPelFsCwfQ8Cy6WDYd1WqodWhlUbRBnI</ht:news_item_picture>
+				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>[사진]김대유,&apos;병살 놓쳐 아쉬워&apos; - 조선비즈</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://biz.chosun.com/sports/sports_photo/2025/06/26/YSFKONFHIJCQTWK33CJPRLVTO4/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmrGj1fudtAG8GsmQTAIZExm3OD-euE7oud8f7a0Al2eEsnBF1qHdNWJTshdI</ht:news_item_picture>
+				<ht:news_item_source>Chosun Biz</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>[사진]이호민,&apos;박찬호 선배 최고&apos;</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://m.news.nate.com/view/20250626n40682?issue_sq=10352</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQztL8-G2qFFW_y36kGA1YIUBzu9tzTHp4nvs0VlEIs6yKsT9RxM-wb-5NF-U</ht:news_item_picture>
 				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
 			</ht:news_item>
 		</item>
@@ -162,126 +282,6 @@
 				<ht:news_item_url>https://news.nate.com/view/20250626n40073</ht:news_item_url>
 				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVL_w2aJ0B_k71Y58UmM6khuIpwGU9cqe47SWQizvsx9TmiMWg7_ztRCXPg8I</ht:news_item_picture>
 				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>베이비돈크라이</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Thu, 26 Jun 2025 02:40:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSngVYUrudkSnVq4o7zWZH9a7F_fs81Io9QpMVbUHxrZxc2Rxc_wXjOtCnUib4</ht:picture>
-			<ht:picture_source>네이트 뉴스</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>베이비돈크라이, &apos;에프 걸&apos; 완성형 퍼포먼스 예고…&apos;엠카&apos; 신고식</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.nate.com/view/20250626n38094</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSngVYUrudkSnVq4o7zWZH9a7F_fs81Io9QpMVbUHxrZxc2Rxc_wXjOtCnUib4</ht:news_item_picture>
-				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>멜론, 베돈크 함께 &apos;특별 데뷔 선물&apos; 예고</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.etnews.com/20250623000116</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQfvXg9dcXdKD-1FL-VyyQBr70WZeOzapVAyDB0FHb9T8sOy6E7PRNsrdmvqE</ht:news_item_picture>
-				<ht:news_item_source>전자신문</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>베이비돈크라이 베니, &apos;사랑스러운 하트&apos;</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.newspim.com/news/view/20250623000918</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwOKC3YPNdCKcZqjnYElUqk--m6GY-5pEsGqso_GKIWJ-BJaFc6JV27V2nC9Y</ht:news_item_picture>
-				<ht:news_item_source>뉴스핌</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>임성근</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Thu, 26 Jun 2025 02:20:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxtB6p4vWxYr7Vfnl3xR1OZ4KB2tex6KOqGGBzKVhvnkBR7jl_LciCPU4joxs</ht:picture>
-			<ht:picture_source>오마이뉴스</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>일방 면담요청 임성근, 결국 쫓기듯 떠나... 특검 &quot;피의자 말에 답해야 하나&quot;</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003143703</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxtB6p4vWxYr7Vfnl3xR1OZ4KB2tex6KOqGGBzKVhvnkBR7jl_LciCPU4joxs</ht:news_item_picture>
-				<ht:news_item_source>오마이뉴스</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>해병 특검 “박정훈 항명죄 성립 안돼”...前 해병대 1사단장 면담 거절</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.chosun.com/national/court_law/2025/06/26/NHVRQHOJORHZBKYDRCVF6SZGI4/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJlzTRi64YExXM8ilAvT8TQ_csx249YmHmqo5tWWFlnZMz6Tad090X29bwKsI</ht:news_item_picture>
-				<ht:news_item_source>조선일보</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>이명현 채해병 특검 “이첩한 수사기록의 회수 명령은 위법”</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.khan.co.kr/article/202506261344001</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUY1RvDM5QPrkANX3slcOJ66zuJ32Gq9o6V5UginjATZdXyE64DoqoXqwxskc</ht:news_item_picture>
-				<ht:news_item_source>경향신문</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>김성민</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Thu, 26 Jun 2025 01:00:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ88wPpvEudxec5bTjXEys5zhf5qOrX5ADOLL2p897w3WBMWioT09HElK9xXjg</ht:picture>
-			<ht:picture_source>매일경제</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>5명에 새 삶 주고 떠났다…故 김성민 오늘 9주기 - 스타투데이</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.mk.co.kr/news/hot-issues/11352648</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ88wPpvEudxec5bTjXEys5zhf5qOrX5ADOLL2p897w3WBMWioT09HElK9xXjg</ht:news_item_picture>
-				<ht:news_item_source>매일경제</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>故 김성민, 오늘(26일) 9주기…장기기증하고 떠난 ★</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.sportsseoul.com/news/read/1525976</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-uGBYxBrTu2c2NfzbLJ7DbJwVbIzWwbBhmvzBmhsro4bRpDkOBBqI-6E1kD4</ht:news_item_picture>
-				<ht:news_item_source>스포츠서울</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>故김성민, 의식 잃은 채 발견…마약 과오 딛고 5명 살리고 떠났다[Oh!쎈 이슈]</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.nate.com/view/20250626n03836?mid=n1101</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxYCgn7BLawi7PqI26veKQtYIWJjPZao_Rh9p147NDKP9ynrp_WYPEl33OtqA</ht:news_item_picture>
-				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>소버린 ai</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Thu, 26 Jun 2025 01:00:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSudrmZrlQUcysTs5Zb5hQeMJNSkLPbhP4IXnxhJGlG3Opq1Gk1pp8jMuYv9Tc</ht:picture>
-			<ht:picture_source>AI타임스</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>&apos;리더보드 세계 1위&apos; 업스테이지·모티프, ‘K-AI 모델’ 프로젝트 도전</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.aitimes.com/news/articleView.html?idxno=200094</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSudrmZrlQUcysTs5Zb5hQeMJNSkLPbhP4IXnxhJGlG3Opq1Gk1pp8jMuYv9Tc</ht:news_item_picture>
-				<ht:news_item_source>AI타임스</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>1.5조원 GPU 사업 수주전, 쿠팡은 왜 참전했을까?</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://m.ddaily.co.kr/page/view/2025062513264630562</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0a4L3UpyqK6I1XUno4wTHAD4qw9eg1wui_-8br_pvXFoAfDCs6KI6E0gB_2E</ht:news_item_picture>
-				<ht:news_item_source>디지털데일리</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>KT &apos;소버린AI&apos; 힘준다 … 자체 모델 고도화</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.mk.co.kr/news/it/11352259</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRxpqSOsarJriNsn9T31dWrPfzCYO0ZtzHVkr6pKmpr4vA4x6ZEwht3oHkH_0</ht:news_item_picture>
-				<ht:news_item_source>매일경제</ht:news_item_source>
 			</ht:news_item>
 		</item>
 	</channel>
