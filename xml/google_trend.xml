@@ -6,112 +6,20 @@
 		<link>https://trends.google.com/trending/rss?geo=KR</link>
 		<atom:link href="https://trends.google.com/trending/rss?geo=KR" rel="self" type="application/rss+xml"/>
 		<item>
-			<title>토트넘 뉴캐슬</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
+			<title>김현수</title>
+			<ht:approx_traffic>1000+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Thu, 26 Jun 2025 04:30:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRphnn-LNxI0pKaFUnprQpWxuZN8dC08hNvSn1ue2659sLS7_tkHEuWwlLLd90</ht:picture>
-			<ht:picture_source>연합뉴스</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>아이브, 7월 쿠팡플레이 시리즈 K리그-뉴캐슬 하프타임 공연</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.yna.co.kr/view/AKR20250625049000007</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRphnn-LNxI0pKaFUnprQpWxuZN8dC08hNvSn1ue2659sLS7_tkHEuWwlLLd90</ht:news_item_picture>
-				<ht:news_item_source>연합뉴스</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>&apos;팀 K리그 vs 뉴캐슬&apos; 선 예매 시작 30분 만에 전석 매진</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://m.news.nate.com/view/20250626n11213?mid=s02&amp;list=recent&amp;cpcd=</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQR1zn27EpSfde2vG1tfv34gM14TItdLp0PwWFsnKGddO1D0EIkYuWCEmtNi5E</ht:news_item_picture>
-				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>올해, 손흥민 꼭 본다...‘쿠팡플레이 시리즈’ 예매 25일 시작 “스포츠패스, 선예매 혜택”</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.ddaily.co.kr/page/view/2025062412371184088</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXNxFJdW45-367EAUBN0wnGugQlQLSvPjstzXwOZRPMHG3xc9BpdpoMN_fzjE</ht:news_item_picture>
-				<ht:news_item_source>디지털데일리</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>문화누리카드</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Thu, 26 Jun 2025 04:00:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRr1_DXzcwESNHmXkavIRg-nNJlFnT1BawayaUFAT3TS1tLMzvtRb7iohz0w0</ht:picture>
-			<ht:picture_source>뉴스핌</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>예술위, 문화누리카드 &apos;아트트럭&apos;으로 전국 8개지역 1만3000여 명 만났다</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.newspim.com/news/view/20250626000806</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRr1_DXzcwESNHmXkavIRg-nNJlFnT1BawayaUFAT3TS1tLMzvtRb7iohz0w0</ht:news_item_picture>
-				<ht:news_item_source>뉴스핌</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>금산군, 찾아가는 문화배달 아트트럭 개최</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>http://www.mediatoday.asia/1430265</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvx_1Va80g8VKShWeuCo89gy4ZrXEqCiqP2OjoUHV1nh4D5eEx5AI3jcCA7wY</ht:news_item_picture>
-				<ht:news_item_source>미디어투데이</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>충남문화관광재단, 21일 ‘2025 찾아가는 문화배달 아트트럭’ 개최</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.ccnnews.co.kr/news/articleView.html?idxno=375402</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_qIwGXMBd8NzCEr-M3_Yx1T2ooGN37x-6Aesx8i14eWro0Jo0xWwWcJMRv90</ht:news_item_picture>
-				<ht:news_item_source>충청뉴스</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>류현경</title>
-			<ht:approx_traffic>2000+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Thu, 26 Jun 2025 03:50:00 -0700</pubDate>
-			<ht:picture/>
-			<ht:picture_source/>
-		</item>
-		<item>
-			<title>민생회복지원금 신청</title>
-			<ht:approx_traffic>500+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Thu, 26 Jun 2025 03:40:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeRCrwFB-vZ8jkbZIUpHZIxw6fCD-EgLJLKHEM4Yt7kUFkTg-WPUxHD5-YYg</ht:picture>
-			<ht:picture_source>정책브리핑</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>새 정부 30조 5000억 추경안 확정, 전 국민에 15만~50만 원 소비쿠폰</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.korea.kr/news/policyNewsView.do?newsId=148944698</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeRCrwFB-vZ8jkbZIUpHZIxw6fCD-EgLJLKHEM4Yt7kUFkTg-WPUxHD5-YYg</ht:news_item_picture>
-				<ht:news_item_source>정책브리핑</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>이재명표 민생지원금, 경기도에 3조4천억원…내수 회복 마중물 될까 [집중취재]</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.kyeonggi.com/article/20250625580409</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzy9K67Y4_4XDyMES17LrgDlcTrQcKXdBV5OjgeBg_hj3HjVFwfpvQJwC-eJQ</ht:news_item_picture>
-				<ht:news_item_source>경기일보</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>기재차관 &quot;추경, 소비여력 보강혜택 국민에 빠짐없이 전달돼야&quot;</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.yna.co.kr/view/AKR20250626078500002</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSj2QMbu7cmmM-00iH5mztggxsAyNJCh7kHpa1y877upceGxoF07z4cAZJ-Y_M</ht:news_item_picture>
-				<ht:news_item_source>연합뉴스</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>이용규</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Thu, 26 Jun 2025 03:40:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoE7AogmJHCKgmKpmWPTRwy4yqv4UjoPSO_KBQHmk34svpS0bHqm6G-Z-OzRY</ht:picture>
+			<pubDate>Thu, 26 Jun 2025 06:40:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREnJLPQAaKmT-c8b-9-9sVe2pDfd2L20erjvgZfzDrSSiSNHdf49JfU2aJi8k</ht:picture>
 			<ht:picture_source>조선일보</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>[사진]이호민,&apos;선배들 덕분에 막았어요&apos;</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.chosun.com/sports/sports_photo/2025/06/26/3WMJUBXYGGYAEKJCXFJ55PWH3Y/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREnJLPQAaKmT-c8b-9-9sVe2pDfd2L20erjvgZfzDrSSiSNHdf49JfU2aJi8k</ht:news_item_picture>
+				<ht:news_item_source>조선일보</ht:news_item_source>
+			</ht:news_item>
 			<ht:news_item>
 				<ht:news_item_title>[사진]이용규,&apos;잡을 수 있었는데...&apos;</ht:news_item_title>
 				<ht:news_item_snippet/>
@@ -120,168 +28,281 @@
 				<ht:news_item_source>조선일보</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>KIA 위즈덤의 조용한 활약…200안타 장인보다 OPS 우위</ht:news_item_title>
+				<ht:news_item_title>[사진]키움,&apos;무승부로 끝냈다&apos;</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.yna.co.kr/view/AKR20250625118900007</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYfsXxWc0AsZhm_cwl8ooLTdwaxYFamliIlll332hahBCamXO37zJrOiXThuc</ht:news_item_picture>
-				<ht:news_item_source>연합뉴스</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>‘만루찬스에서 삼진 당한 위즈덤, 지켜보는 이범호 감독’ [MK포토]</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.mk.co.kr/news/sports/11352478</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoXIGzYm0ez0_6SOAL7U00w6X7u2ZBK_VxuW70iPfbRuR-v-T6qbXfCabO19g</ht:news_item_picture>
-				<ht:news_item_source>매일경제</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>노이즈</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Thu, 26 Jun 2025 03:20:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpleOm6kep8An2y-QT7w5mXfZPrhn-j0BWCfdrxe-Tk9rLslw6jBP2MzSgCeA</ht:picture>
-			<ht:picture_source>씨네21</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>[리뷰] 정교한 사운드 연출부터 넘쳐흐르는 야심까지 모든 것을 응원하고 싶은,</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://cine21.com/news/view/?mag_id=107807</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpleOm6kep8An2y-QT7w5mXfZPrhn-j0BWCfdrxe-Tk9rLslw6jBP2MzSgCeA</ht:news_item_picture>
-				<ht:news_item_source>씨네21</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>[시네프리뷰]노이즈- 사회파 스릴러의 선을 넘은 공포영화</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://weekly.khan.co.kr/khnm.html?mode=view&amp;dept=119&amp;art_id=202506250600041</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJmRHoer7gaTWvP1G2FjVF4xCFOwQvWHeVdvxYi3Ro11wgqiRGiptKBXEabnI</ht:news_item_picture>
-				<ht:news_item_source>주간경향</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>[스한:BOX] &apos;F1 더 무비&apos; 개봉 첫날 1위…이선빈→류경수 &apos;노이즈&apos;는 2위</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://m.news.nate.com/view/20250626n03929?mid=e03&amp;list=recent&amp;cpcd=</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTaWQKWw_Q76SyFJU41TF-16K02Z1wY-I7vor5ILkSLcZD4Ead0EX0_blB9FLI</ht:news_item_picture>
+				<ht:news_item_url>https://m.news.nate.com/view/20250626n42828?issue_sq=8588</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzKzPXCKOvLiY_T3zVWw1tzgXVU-QglgHWv1hsklEED1PDOTFX6PsrwmmWhN4</ht:news_item_picture>
 				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>우찬</title>
+			<title>기아 타이거즈</title>
 			<ht:approx_traffic>100+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Thu, 26 Jun 2025 02:50:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3C2GUkacLZYoR8Nq0eKoloSBWyl1Tnx7AzN9ExR9K59HSQn6PtEUCmhIrQ94</ht:picture>
-			<ht:picture_source>조선일보</ht:picture_source>
+			<pubDate>Thu, 26 Jun 2025 06:40:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQq4kLAJ1Bl4HYHrdgSpe2Dyy3JQirml188-mRVRG7HpdfTKmuV4qbhCcBnjGo</ht:picture>
+			<ht:picture_source>한겨레</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>“회장님 오십니다”...신세계 외손녀, 라방 속 포착된 ‘찐재벌’ 일상</ht:news_item_title>
+				<ht:news_item_title>훈련 중 아니면 보호도 없다…KIA 황동하 사례가 보여준 KBO 규정의 허점</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.chosun.com/national/people/2025/06/26/PUJJZWVP6BHQJAQPB264VSMVOQ/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3C2GUkacLZYoR8Nq0eKoloSBWyl1Tnx7AzN9ExR9K59HSQn6PtEUCmhIrQ94</ht:news_item_picture>
+				<ht:news_item_url>https://www.hani.co.kr/arti/sports/baseball/1204789.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQq4kLAJ1Bl4HYHrdgSpe2Dyy3JQirml188-mRVRG7HpdfTKmuV4qbhCcBnjGo</ht:news_item_picture>
+				<ht:news_item_source>한겨레</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>[사진]이호민,&apos;선배들 덕분에 막았어요&apos;</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.chosun.com/sports/sports_photo/2025/06/26/3WMJUBXYGGYAEKJCXFJ55PWH3Y/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREnJLPQAaKmT-c8b-9-9sVe2pDfd2L20erjvgZfzDrSSiSNHdf49JfU2aJi8k</ht:news_item_picture>
 				<ht:news_item_source>조선일보</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>&quot;회장님 들어오십니다&quot;…&apos;신세계 3세&apos; 애니, 재벌 일상 포착</ht:news_item_title>
+				<ht:news_item_title>[사진]이용규,&apos;잡을 수 있었는데...&apos;</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.newsis.com/view/NISX20250625_0003227333</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIufZI6PsUl2v6Zw1MmKY2515dQ4JoW4y-5D6yxCDvgdotioJLsG_KgZ79ObY</ht:news_item_picture>
-				<ht:news_item_source>뉴시스</ht:news_item_source>
+				<ht:news_item_url>https://www.chosun.com/sports/sports_photo/2025/06/26/IFXEIJSBSSDZXHM7KBF22CFQ2Y/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoE7AogmJHCKgmKpmWPTRwy4yqv4UjoPSO_KBQHmk34svpS0bHqm6G-Z-OzRY</ht:news_item_picture>
+				<ht:news_item_source>조선일보</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>김원중</title>
+			<ht:approx_traffic>200+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Thu, 26 Jun 2025 06:10:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScj2zEF26tE-Fc3oZm2ZdWdDEhFZJJTBBAp5VkStR6I08YiZnRmNDe7CaHi2Q</ht:picture>
+			<ht:picture_source>네이트 뉴스</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>세이브왕 나오면 100% 포시 진출? &apos;롯데 수호신&apos; 김원중, 기분 좋은 징크스 만들까</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://news.nate.com/view/20250625n00205</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScj2zEF26tE-Fc3oZm2ZdWdDEhFZJJTBBAp5VkStR6I08YiZnRmNDe7CaHi2Q</ht:news_item_picture>
+				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>올데이 프로젝트, 오늘(26일) &apos;엠카&apos;로 음방 데뷔 무대 펼친다</ht:news_item_title>
+				<ht:news_item_title>롯데 김원중 벌써 ‘20 세이브’…커리어 하이 찍는다</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.nate.com/view/20250626n35625</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS18OYZVjTw7VQvN7uBguscKbFwWWNkOblLNx_r62GzNr11IbJi02xCb1G9lzw</ht:news_item_picture>
+				<ht:news_item_url>https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&amp;key=20250621.99099006901</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIj9l5Qt3kql5QaC-JkPfJ2FULAMnQYnOG5QPEYy6nFFgtGAAkJBcOLS1oFP0</ht:news_item_picture>
+				<ht:news_item_source>국제신문</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>[프로야구] &apos;대표 마무리&apos; 롯데 김원중, 첫 세이브왕 도전 나선다</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.newspim.com/news/view/20250624000358</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLzsQ5qcY0va5xI3RLJXhnBsbPLaaLiHyMTjPX7RVF1gD-cZueS-RTKqjOAdw</ht:news_item_picture>
+				<ht:news_item_source>뉴스핌</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>찰스 올리베이라</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Thu, 26 Jun 2025 05:40:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPEt5NsTmsOTeVEHVEFukqhrQbKaNCyZyWLTduEWtD9h4n39Lv8VlU-a5PETk</ht:picture>
+			<ht:picture_source>ESPN</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Experts&apos; picks, best bets: Who should bettors back at UFC 317 and PFL?</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.espn.com/mma/story/_/id/45575711/ufc-317-experts-picks-best-bets-charles-oliveira-ilia-topuria-alexandre-pantoja-kai-kara-france-pfl</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPEt5NsTmsOTeVEHVEFukqhrQbKaNCyZyWLTduEWtD9h4n39Lv8VlU-a5PETk</ht:news_item_picture>
+				<ht:news_item_source>ESPN</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>&apos;Every part of it was miserable&apos;: Why is Ilia Topuria done cutting to 145? One retired UFC fighter understands</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://sports.yahoo.com/mma/article/ufc-317-why-is-ilia-topuria-done-cutting-to-145-one-retired-fighter-understands-215417676.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc-OySZtHV2JitOiki7Vs17gx69yUEjVfsdemgizNXMxhEd_ztTdryi2dPM6g</ht:news_item_picture>
+				<ht:news_item_source>Yahoo Sports</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Fight By Fight Preview | UFC 317: Topuria vs Oliveira</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.ufc.com/news/fight-by-fight-preview-ufc-317-topuria-vs-oliveira</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2RIrFfjtnwo817MPKCkocQWWkPbkKkeIrBEGaMrDzYaA8DZJd9lx1iTGX-g0</ht:news_item_picture>
+				<ht:news_item_source>UFC.com</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>선우용여</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Thu, 26 Jun 2025 05:40:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnW53VNSbuS_jW6qFYhWVUcoAFqc7SWFZaW19WxsaZ67wO6UF65ZizFDV16fI</ht:picture>
+			<ht:picture_source>조선일보</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>선우용여, 뇌경색 알려준 건 사별한 남편 &quot;꿈에 나타나더니 사라져&quot;(&apos;옥문아들&apos;)</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.chosun.com/entertainments/broadcast/2025/06/26/QXO6AKMHHXTUR3R6KV7OHTYKSU/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnW53VNSbuS_jW6qFYhWVUcoAFqc7SWFZaW19WxsaZ67wO6UF65ZizFDV16fI</ht:news_item_picture>
+				<ht:news_item_source>조선일보</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>선우용여 “호텔 조식 영상 이후 매출 올라”…달라진 근황</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.donga.com/news/Entertainment/article/all/20250626/131892799/1</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHC22yG92Uv-NKEyxI8vO09gF4acTYpB-9eFdajr2a8tgjYBvwYLejOvZ0UvI</ht:news_item_picture>
+				<ht:news_item_source>동아일보</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>&apos;옥문아&apos; 선우용여 &quot;딸 최연제, 내 생활해서 기쁘다고…미국에서도 인기 폭발&quot; [TV캡처]</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://news.nate.com/view/20250626n40845</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLseRSNIXQESA7LuR6iXhn2l83GBWOSt7kYGIH3pk8BwQDzX5QQ3GUkT8qYQ</ht:news_item_picture>
 				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>김건국</title>
+			<title>나승엽</title>
 			<ht:approx_traffic>500+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Thu, 26 Jun 2025 02:40:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPrtLsojqOUSxRi6DHYebCzsAgfzZoadjTk0RMAz-U8060TXvMTX3r7V89C7Q</ht:picture>
-			<ht:picture_source>조선일보</ht:picture_source>
+			<pubDate>Thu, 26 Jun 2025 05:30:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2WkSMzCbRDb2ERsQJG6_8rzC1VyWup-V01vU9DJpcEQPTLUNmiEFux13IOFo</ht:picture>
+			<ht:picture_source>연합뉴스</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>[사진]역투하는 이호민</ht:news_item_title>
+				<ht:news_item_title>롯데 레이예스 추격 솔로포·대타 나승엽 역전 3점포 &apos;쾅·쾅&apos;(종합2보)</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.chosun.com/sports/sports_photo/2025/06/26/CG5WK767JHPPWDZA4J5R6Q2VVU/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPrtLsojqOUSxRi6DHYebCzsAgfzZoadjTk0RMAz-U8060TXvMTX3r7V89C7Q</ht:news_item_picture>
+				<ht:news_item_url>https://www.yna.co.kr/view/AKR20250626175051007</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2WkSMzCbRDb2ERsQJG6_8rzC1VyWup-V01vU9DJpcEQPTLUNmiEFux13IOFo</ht:news_item_picture>
+				<ht:news_item_source>연합뉴스</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>결정적 실책 → 속죄의 역전 3점포! &apos;부산갈매기&apos; 떼창 부른 나승엽의 한방…57일간의 침묵 끝 [부산현장]</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.chosun.com/sports/baseball/2025/06/26/N55FKEPWUBINCWB24CZH4IP4VA/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKa3sbtFirsbLap0u20_O8pyH8hjkNezClEenXjr2toz4P10px9wERVCqqw5M</ht:news_item_picture>
 				<ht:news_item_source>조선일보</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>[사진]이호민,&apos;박찬호 선배 최고&apos;</ht:news_item_title>
+				<ht:news_item_title>“괜찮아”…말 한마디의 힘 깨우친 어린 롯데, 수비 실수에도 흔들리지 않을 이유</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://m.news.nate.com/view/20250626n40682?issue_sq=10352</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQztL8-G2qFFW_y36kGA1YIUBzu9tzTHp4nvs0VlEIs6yKsT9RxM-wb-5NF-U</ht:news_item_picture>
-				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>[사진]박찬호,&apos;득점 슬라이딩&apos; : 네이트 스포츠</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://m.news.nate.com/view/20250626n38582?mid=s01&amp;list=recent&amp;cpcd=</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5_2iiT26ncWdH-VkkMqKyrdtHbO8HPelFsCwfQ8Cy6WDYd1WqodWhlUbRBnI</ht:news_item_picture>
-				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
+				<ht:news_item_url>https://sports.donga.com/sports/article/all/20250626/131885438/1</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUNHvbv-joPdbfGf9zTyR5xA9f4UzKI4bPXK3tXDmd86nCTM2ObAZ06Hx_8EQ</ht:news_item_picture>
+				<ht:news_item_source>스포츠동아</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>문동주</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Thu, 26 Jun 2025 02:40:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_sPWOtaW5r8i8WNJxsvF4QhkevSUZyHaq6Ol_Z97JWFwu07bDD9wusb_hBIs</ht:picture>
-			<ht:picture_source>조선일보</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>[사진] 황동재, 아쉬운 견제 실책</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.chosun.com/sports/sports_photo/2025/06/26/ZBXYOOCW6AEI5SPHQLWWCPO33M/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_sPWOtaW5r8i8WNJxsvF4QhkevSUZyHaq6Ol_Z97JWFwu07bDD9wusb_hBIs</ht:news_item_picture>
-				<ht:news_item_source>조선일보</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>강민호, 딱! 안타</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://m.news.nate.com/view/20250626n40341?mid=m03&amp;list=recent&amp;cpcd=</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9esQJtprTjWw79dyQfwW-wFQ3OkceIELtRv7meCxlEmYTMqv-N3peKuH_fpQ</ht:news_item_picture>
-				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>[사진] 포효하는 한승혁</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.chosun.com/sports/sports_photo/2025/06/26/VEKPYB6DJUR6FCG6CK4G23LPPQ/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhfm9GcKbioffPBZklCCg1NmdT1zG0XknjbAiSGXZS_SYX3Eh_j0J-kqA0qXI</ht:news_item_picture>
-				<ht:news_item_source>조선일보</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>채은성</title>
+			<title>김학래</title>
 			<ht:approx_traffic>100+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Thu, 26 Jun 2025 02:40:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTUbavV06xtlBUwYKdHuw8-ohmYsq9ZMEMli52wcE3OC_T3uy7CYc_lLl7XNE0</ht:picture>
-			<ht:picture_source>조선일보</ht:picture_source>
+			<pubDate>Thu, 26 Jun 2025 05:30:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiiA0V5K_PepO2HqK7jkWHKVHQXn8MzGsKP0GMx3oBF4ZYM_LcSeV4QILS2rU</ht:picture>
+			<ht:picture_source>스포츠동아</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>채은성, 양도근과 1루 충돌로 교체 &quot;가슴 통증, 보호 차원…병원 진료 계획 없다&quot;</ht:news_item_title>
+				<ht:news_item_title>‘불륜·도박’ 김학래, 이호선에 혼쭐…변할까 (1호가될 순없어2)[TV종합]</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.chosun.com/sports/baseball/2025/06/26/362RNJLUIFARYITYIAPUCJBQOU/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTUbavV06xtlBUwYKdHuw8-ohmYsq9ZMEMli52wcE3OC_T3uy7CYc_lLl7XNE0</ht:news_item_picture>
+				<ht:news_item_url>https://sports.donga.com/ent/article/all/20250626/131885798/1</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiiA0V5K_PepO2HqK7jkWHKVHQXn8MzGsKP0GMx3oBF4ZYM_LcSeV4QILS2rU</ht:news_item_picture>
+				<ht:news_item_source>스포츠동아</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>&quot;외도는 했지만 사랑은 아니야&quot; 김학래 망언에 임미숙 눈물</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.newsis.com/view/NISX20250625_0003227772</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuK7JTcwD-Y5d9Ykxhh3SlloMwNo-MTrWnGqevAAhAlTe-B0AWB1H330PLb1U</ht:news_item_picture>
+				<ht:news_item_source>뉴시스</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>김학래, ♥임미숙에 &quot;갱년기 때문에 죽은 사람 없어&quot; 막말</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://news.mt.co.kr/mtview.php?no=2025062608164157811</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzevZhguw87B1UxrqkwzCunRQWdScD6xHf2wLizdww7HixoqrJfpuPxrPheSQ</ht:news_item_picture>
+				<ht:news_item_source>머니투데이</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>양양군수</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Thu, 26 Jun 2025 05:10:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSpTKjFfcJL7VUOWI_uftH4qmE3q8m5GfoD5Ajym0Q1B-p4iCrBH-1IM17Nu0I</ht:picture>
+			<ht:picture_source>경향신문</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>민원해결 대가로 성관계···김진하 양양군수 징역 2년 선고</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.khan.co.kr/article/202506261153001</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSpTKjFfcJL7VUOWI_uftH4qmE3q8m5GfoD5Ajym0Q1B-p4iCrBH-1IM17Nu0I</ht:news_item_picture>
+				<ht:news_item_source>경향신문</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>&apos;성비위·뇌물수수&apos; 김진하 양양군수 징역 2년 선고</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.hankyung.com/article/2025062612867</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxLMplPOA4NJkjB2DW9oQVejR7K0I1VWj5ivIlqM_pzsY0UJEm2GFvSG8e0MQ</ht:news_item_picture>
+				<ht:news_item_source>한국경제</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>청탁 대가로 여성 민원인에 뇌물 받은 김진하 양양군수, ‘징역 2년’</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.chosun.com/national/court_law/2025/06/26/NFFBBGLZVNB7JDMCO3BJKBNPTM/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMi6RzrfoFVjobahNlWh8V80EqN6CMi32vuQXU6W7tUzbMIzEutFWLlDzgWRs</ht:news_item_picture>
 				<ht:news_item_source>조선일보</ht:news_item_source>
 			</ht:news_item>
+		</item>
+		<item>
+			<title>오승환</title>
+			<ht:approx_traffic>1000+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Thu, 26 Jun 2025 05:10:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDpMQSS9ehdTPV5CF9myeTIVUHZ_Yk7QQY6AWiv8CSmm-QLb81R95oXnlFie0</ht:picture>
+			<ht:picture_source>연합뉴스</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>[속보] &apos;한화 초비상&apos; 채은성, 1회말 수비하다 주자와 충돌→끝내 쓰러졌다…김태연과 교체 (대구 라이브)</ht:news_item_title>
+				<ht:news_item_title>&apos;사자 킬러&apos; 문동주, 5⅔이닝 1실점…한화, 삼성에 뒤집기</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.xportsnews.com/article/2019403</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-RFUQJvVMCXYyJuhAzcxGKxj8NRjc4uX6Sl0GiTivA_IHEv_3z3GdyACLwl8</ht:news_item_picture>
-				<ht:news_item_source>엑스포츠뉴스</ht:news_item_source>
+				<ht:news_item_url>https://www.yna.co.kr/view/AKR20250626173000007</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDpMQSS9ehdTPV5CF9myeTIVUHZ_Yk7QQY6AWiv8CSmm-QLb81R95oXnlFie0</ht:news_item_picture>
+				<ht:news_item_source>연합뉴스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>양도근, 도루 실패</ht:news_item_title>
+				<ht:news_item_title>‘문동주 6승·김서현 19SV’ 한화, 삼성 3-1로 꺾고 단독 선두 수성</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.nate.com/view/20250626n40073</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVL_w2aJ0B_k71Y58UmM6khuIpwGU9cqe47SWQizvsx9TmiMWg7_ztRCXPg8I</ht:news_item_picture>
+				<ht:news_item_url>https://www.donga.com/news/Sports/article/all/20250626/131893449/1</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSsBnkCo8AokYbW5u768b027EPOjgSu_Qjg4fEqSve4Jb1Cmk1az805mMGIeN4</ht:news_item_picture>
+				<ht:news_item_source>동아일보</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>&apos;안방마님&apos; 강민호, 홈런 축하</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://news.nate.com/view/20250626n39770</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDVKxilTlS4ZzemmV_sYhvG65E17w7TZjXs8M7dBmmx64uEdYMlDOPCdMZqf0</ht:news_item_picture>
 				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>최저임금</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Thu, 26 Jun 2025 05:10:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1Tc6_IANkZVsPJJwukig1R0j9X9YYbhDB6gs_UI2lHSgkAJd8dR6lQ2Gb578</ht:picture>
+			<ht:picture_source>한겨레</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>“1만1460원 vs 1만70원”…내년 최저임금도 법정 시한 넘긴다</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.hani.co.kr/arti/society/labor/1204950.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1Tc6_IANkZVsPJJwukig1R0j9X9YYbhDB6gs_UI2lHSgkAJd8dR6lQ2Gb578</ht:news_item_picture>
+				<ht:news_item_source>한겨레</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>최저임금 심의 법정 기한 또 넘겨…노사 수정안 격차 1천390원(종합)</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.yna.co.kr/view/AKR20250626130651530</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRshUNuhWUU5-NYhh70Ggq_Vp9PSSW5bjVkXh79M3Wkin5V0mpQeJ9zDxwnNys</ht:news_item_picture>
+				<ht:news_item_source>연합뉴스</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>자영업자 63% &quot;올해 경영 상황 지난해보다 나빠져&quot;</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.hankookilbo.com/News/Read/A2025062614190002644</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfOZ_KgdJs-Lzl511KKmX5Eh1Y8AMh9caLN5MIwI3-skiYXnWl1zgRcwTB4s4</ht:news_item_picture>
+				<ht:news_item_source>한국일보</ht:news_item_source>
 			</ht:news_item>
 		</item>
 	</channel>
