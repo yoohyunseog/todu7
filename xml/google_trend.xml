@@ -6,26 +6,132 @@
 		<link>https://trends.google.com/trending/rss?geo=KR</link>
 		<atom:link href="https://trends.google.com/trending/rss?geo=KR" rel="self" type="application/rss+xml"/>
 		<item>
+			<title>f1</title>
+			<ht:approx_traffic>500+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Sat, 28 Jun 2025 07:00:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIU0jIP4fiLdOd9NP98fiGAlyKTqQhLhRxpBwaEglx26zV4DmE6rH_sZzLWwI</ht:picture>
+			<ht:picture_source>F1</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>LIVE COVERAGE: Qualifying for the Austrian GP</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.formula1.com/en/latest/article/live-coverage-qualifying-in-austria-205.4IVTK6TLFI1X7HFDnG1w4L</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIU0jIP4fiLdOd9NP98fiGAlyKTqQhLhRxpBwaEglx26zV4DmE6rH_sZzLWwI</ht:news_item_picture>
+				<ht:news_item_source>F1</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Austrian Grand Prix: Lando Norris quickest ahead of Oscar Piastri in Friday practice</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.bbc.com/sport/formula1/articles/c20nx1p8wg2o</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4Rf3l2deAkq81STikBk6kdmgIDWUyn2InYs_Pyul3AS2cAL0zsQMb_kau-yg</ht:news_item_picture>
+				<ht:news_item_source>BBC</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>McLaren sets the pace with thorn-on-their-side Verstappen dangerously close</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.gpblog.com/en/breaking-news/mclaren-sets-the-pace-with-thorn-on-their-side-verstappen-dangerously-close</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAmq86Y3OjL2JRaY6S6gO7zeQl1caF2UkWy2-1-Ap2KHt06Nku-pGBMGBj77M</ht:news_item_picture>
+				<ht:news_item_source>GPblog</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>무코코</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Sat, 28 Jun 2025 07:00:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuVKoYbk5AkD8pyNDinkOwI-ZRWfKR-xfydf5yA9viZkHD-bKIjSVW_IPB4ps</ht:picture>
+			<ht:picture_source>네이트 뉴스</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>[오피셜] 인생무상 &apos;세계 최고 유망주→나이 조작 논란 FW&apos; 유럽 5대 리그 떠나 덴마크 &apos;코펜하겐行&apos; &quot;2030년까지 계약&quot;</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://news.nate.com/view/20250628n13748</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuVKoYbk5AkD8pyNDinkOwI-ZRWfKR-xfydf5yA9viZkHD-bKIjSVW_IPB4ps</ht:news_item_picture>
+				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>&apos;신동&apos; 무코코의 탈출구</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.vietnam.vn/ko/loi-thoat-cho-than-dong-moukoko</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR00hGeHxV_im6wxhl7NeWhSuQu3Dx71XxvCbzOw26SJuoNfWFYAjB1prbDGzw</ht:news_item_picture>
+				<ht:news_item_source>Vietnam.vn</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>보루시아 도르트문트, 유망주 유수파 무코코를 코펜하겐에 이적시키다</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.footboom1.com/ko/news/football/2635207-borussia-dortmund-transfers-prodigy-youssoufa-moukoko-to-copenhagen</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8DBSl0hbjpOELiMZKmcJECqfbHIHy5gSvoXldeMByp1lPOekKSamRZp8X0Ms</ht:news_item_picture>
+				<ht:news_item_source>FootBoom</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>케이팝데몬헌터스</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Sat, 28 Jun 2025 07:00:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxbh3q2EkdMmmNFneKNos3YZYPb7GCkL5jG5WmST_4kXs3cAqXFucc6jJL1bE</ht:picture>
+			<ht:picture_source>매일경제</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>“롯데타워 못 써서 남산타워로?”…넷플 1위 ‘케이팝 데몬헌터스’가 불 지핀 건축물 저작권 논란</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.mk.co.kr/news/realestate/11354603</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxbh3q2EkdMmmNFneKNos3YZYPb7GCkL5jG5WmST_4kXs3cAqXFucc6jJL1bE</ht:news_item_picture>
+				<ht:news_item_source>매일경제</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>[OTT리뷰]</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://cine21.com/news/view/?mag_id=107842</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6xHUW5wSfTyMHSi4yzJV1XY03vG9liFEj7QHTxXKIjjfrq8X7xJZUTBPuAtI</ht:news_item_picture>
+				<ht:news_item_source>씨네21</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>&apos;케이팝 데몬 헌터스&apos; 안효섭 &quot;진우의 내면 속 악마는…&quot;[일문일답]</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.nocutnews.co.kr/news/6361665</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS583tvBA2PmtI6chIY8d5nhdzmBs4EevggOFMigAFEqdS-rWPzxxuuIKipXsg</ht:news_item_picture>
+				<ht:news_item_source>노컷뉴스</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>프나틱</title>
+			<ht:approx_traffic>200+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Sat, 28 Jun 2025 06:40:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOb9tjW_WaQbuiVL3XX5UgZDwy2HJpwfHADEilSHPxb_DxLCfSi7hZKCuhaGY</ht:picture>
+			<ht:picture_source>Esports Insider</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>“Performing well was one of my goals”: Fnatic Kaajak on VALORANT Masters debut</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://esportsinsider.com/2025/06/performing-well-fnc-kaajak-valorant-masters-debut-interview</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOb9tjW_WaQbuiVL3XX5UgZDwy2HJpwfHADEilSHPxb_DxLCfSi7hZKCuhaGY</ht:news_item_picture>
+				<ht:news_item_source>Esports Insider</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Valorant EWC 2025 Groups announced: Fnatic in ‘Group of Death’</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://esports-news.co.uk/2025/06/26/valorant-ewc-2025-groups-announced-fnatic-in-group-of-death/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfm6c6eq0UnvH6998C_dRaIwctpjGt5wCol67JVPMXmkA5-CfGTw2fJX8ehQs</ht:news_item_picture>
+				<ht:news_item_source>Esports News UK</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
 			<title>지누</title>
 			<ht:approx_traffic>200+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
 			<pubDate>Sat, 28 Jun 2025 06:10:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwPXQ3QU2SpgOB9MmEUO0vghmUShVUK2TtyG7ao6oMhKeh1FHXe5Zyn-20lx4</ht:picture>
-			<ht:picture_source>뉴시스</ht:picture_source>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmE1vkXA9YN63SBRLIBZxRp10pIT6fnMKzpn6XJwa7f-FtUzFbfdUK6MV9HkM</ht:picture>
+			<ht:picture_source>네이트 뉴스</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>지누션 지누, 13세 연하 아내♥ 최초 공개…한고은 닮은꼴</ht:news_item_title>
+				<ht:news_item_title>임사라♥지누, 방배동 집 공개 &quot;子 &apos;700평 법원&apos; 유치원 다녀&quot; [살림남][◆밤TView]</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.newsis.com/view/NISX20250628_0003231156</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwPXQ3QU2SpgOB9MmEUO0vghmUShVUK2TtyG7ao6oMhKeh1FHXe5Zyn-20lx4</ht:news_item_picture>
-				<ht:news_item_source>뉴시스</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>＂지누션의 지누입니다~＂ 살림남을 찾아온 지누! | KBS 250628 방송</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.kbs.co.kr/index.html?source=smr&amp;sname=vod&amp;stype=vod&amp;contents_id=K02_PS-2025104221-01-000_MFSC11&amp;program_code=T2016-0651&amp;program_id=PS-2025104221-01-000&amp;section_code=04&amp;broadcast_complete_yn=N&amp;section_id=10737</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSv7qNoK_2FE4JszMP1-KCka7gbSFA8Hqljr5RabcXsEsevV9zT4RZSSK0ZA5w</ht:news_item_picture>
-				<ht:news_item_source>대한민국 대표 공영미디어 KBS</ht:news_item_source>
+				<ht:news_item_url>https://news.nate.com/view/20250628n13494</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmE1vkXA9YN63SBRLIBZxRp10pIT6fnMKzpn6XJwa7f-FtUzFbfdUK6MV9HkM</ht:news_item_picture>
+				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
 				<ht:news_item_title>지누션 지누, ‘한고은 닮은’ 13세 연하 변호사 아내 공개 (살림남2)</ht:news_item_title>
@@ -34,13 +140,20 @@
 				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHQIWxD0i8wJs_I-6IuvMEAphQPzjT8JZD__h49CUZCu7GEqwenQMort4B5vI</ht:news_item_picture>
 				<ht:news_item_source>스포츠동아</ht:news_item_source>
 			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>‘13세 연하 한고은 닮은 꼴♥’ 지누, 장원영도 거절했다(&apos;살림남2&apos;)[순간포착]</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.chosun.com/entertainments/broadcast/2025/06/28/3DGHCAWNHTEJ5GCNTUVENCUBWY/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSS0zHPKMAjjLkdbwDdWBpLv32A9yTW_QXjSv1pxBS70M5kSIXnR-XRO6X-pjI</ht:news_item_picture>
+				<ht:news_item_source>조선일보</ht:news_item_source>
+			</ht:news_item>
 		</item>
 		<item>
-			<title>고준</title>
+			<title>육준서</title>
 			<ht:approx_traffic>500+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Sat, 28 Jun 2025 06:00:00 -0700</pubDate>
+			<pubDate>Sat, 28 Jun 2025 05:40:00 -0700</pubDate>
 			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1qJyw-LT0u6yPFNKOWqc9oVEB-h2hmY5oiC4XolqxNwf9ScXqmsy5lflu_oE</ht:picture>
 			<ht:picture_source>네이트 뉴스</ht:picture_source>
 			<ht:news_item>
@@ -58,11 +171,11 @@
 				<ht:news_item_source>제민일보</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>이상준, 몰래 진행된 개명에 &apos;깜짝&apos;…&quot;원래 이름 이대호, 母가 혼자 바꿔&quot; (아는 형님)</ht:news_item_title>
+				<ht:news_item_title>박준형 “팬 god 출신 아이유, 기특하고 자랑스러워”</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.xportsnews.com/article/2020193</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqtiopiUq7Q8mF53ApZzgrkrqmfA28hmE3Ir1h0mEg9DVDr5BzZTzQsqvBVAQ</ht:news_item_picture>
-				<ht:news_item_source>엑스포츠뉴스</ht:news_item_source>
+				<ht:news_item_url>https://sports.khan.co.kr/article/202506282250003</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwSVAxe9JlnqjF0oFp-LTMVAwMtf-tzuB2Ovn9qSJGe4v-fQYrKXZWsl2xslw</ht:news_item_picture>
+				<ht:news_item_source>스포츠경향</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -81,11 +194,11 @@
 				<ht:news_item_source>조선일보</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>박서진 父, 영정 사진 찍었다···박서진·은지원 눈물 펑펑(&apos;살림남2&apos;)[순간포착]</ht:news_item_title>
+				<ht:news_item_title>박서진, 아버지 영정 촬영에 오열 &quot;마지막을 준비하는 것 같다&quot;</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.chosun.com/entertainments/broadcast/2025/06/28/YARPBMEG7BEPJJX64SVWIGWDIA/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzeGMSXwZF_AO8QRVPcZOmpf2Q7UIrAVRrsXih__swnRT1Thd_REDSlJtYlQQ</ht:news_item_picture>
-				<ht:news_item_source>조선일보</ht:news_item_source>
+				<ht:news_item_url>https://www.news1.kr/entertain/broadcast-tv/5828923</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRTB_WEc3YYuEoKkwd40bKvVRn9ikx10VPLOS37zeo_zhCxK2ffXwHNWbXl4yU</ht:news_item_picture>
+				<ht:news_item_source>뉴스1</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
 				<ht:news_item_title>＂왜 모인 건지 알지?＂ 아버지 칠순을 위해 모인 박서진과 가족! | KBS 250628 방송</ht:news_item_title>
@@ -96,33 +209,63 @@
 			</ht:news_item>
 		</item>
 		<item>
+			<title>ufc 317 한국 시간</title>
+			<ht:approx_traffic>200+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Sat, 28 Jun 2025 05:30:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLa6MzE8RvUxHDQqNH6iQXFKNVYhTa8Xz-nB0pINtrUUR133taFCCjCJfBTfM</ht:picture>
+			<ht:picture_source>더팩트</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>&apos;기세&apos; 토푸리아 vs &apos;관록&apos; 올리베이라, UFC 317 라이트급 새 벨트 주인은? [오앤이 길로틴]</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://news.tf.co.kr/read/video/2219099.htm</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLa6MzE8RvUxHDQqNH6iQXFKNVYhTa8Xz-nB0pINtrUUR133taFCCjCJfBTfM</ht:news_item_picture>
+				<ht:news_item_source>더팩트</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>&quot;올리베이라 꺾고 새 역사 또 쓸 것&quot;…&apos;MMA 16전 전승&apos; 토푸리아, UFC 두 체급 석권 확신</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://m.news.nate.com/view/20250628n07661</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjxu5LvLt37OCBOxdULb-HGt0texyO8sorhzhYmP4w5xu0Q2xX3OfWK7jy9nE</ht:news_item_picture>
+				<ht:news_item_source>네이트</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>[스포츠 이슈]토푸리아의 두 체급 정복이냐, 올리베이라의 왕좌 탈환이냐…UFC 317 라이트급 타이틀전 맞불</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.lawissue.co.kr/view.php?ud=20250628010202911207f28b58b8_12</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSa5gA4w9EShPKzB6YbpJS58klsQoh42M7HbIZHc2ZCxZ2FsCRL3_RX7jv8DMc</ht:news_item_picture>
+				<ht:news_item_source>로이슈</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
 			<title>기아 타이거즈</title>
 			<ht:approx_traffic>100+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
 			<pubDate>Sat, 28 Jun 2025 05:30:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWYCO-BnXXHxUjNOIky-lxyk70xu6kbQJjlWl3PL6JYO1WnvpxRYvdiB76B7s</ht:picture>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRs-s8W9KTSJOdIYkNEmStZhlhQ6z99ZnZ5QoW9_6Uh6noqsV_sfxUXCY76vrA</ht:picture>
 			<ht:picture_source>조선일보</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>연장 11회말 동점 허용→2군행, 왜 감독은 &apos;특별 칭찬&apos;하며 “열흘 뒤 콜업” 약속했을까</ht:news_item_title>
+				<ht:news_item_title>KIA 정해영, 선동렬오승환도 이루지 못한 대기록 도전</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.chosun.com/sports/baseball/2025/06/28/3IW3TMIXNWMAWFF4TXUIZV33MU/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWYCO-BnXXHxUjNOIky-lxyk70xu6kbQJjlWl3PL6JYO1WnvpxRYvdiB76B7s</ht:news_item_picture>
+				<ht:news_item_url>https://www.chosun.com/sports/baseball/2025/06/27/3NQKBX7ODIJLVM27GFZSSLBDTU/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRs-s8W9KTSJOdIYkNEmStZhlhQ6z99ZnZ5QoW9_6Uh6noqsV_sfxUXCY76vrA</ht:news_item_picture>
 				<ht:news_item_source>조선일보</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>꼴찌 키움 앞에서 작아지는 KIA…이범호 감독 &quot;다른 팀 더 이길 것&quot;</ht:news_item_title>
+				<ht:news_item_title>에레디아 &apos;이제는 1점차&apos;[포토]</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://m.news.nate.com/view/20250627n28545</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZe9Z5HL07i8uPnF-uVF80TUBquYnWpE3Tip120xPoJwPBr4Jy4Etxw2uE97A</ht:news_item_picture>
+				<ht:news_item_url>https://news.nate.com/view/20250621n10671</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBMk0X-qyLz82iW2qttuRp_y4ZS1lnsqj8Cxl1_ATz3bswS_fBomN-4fFIN7M</ht:news_item_picture>
 				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>동점 3루타 치고 끝내기 기회까지 만든 송성문의 빛바랜 &apos;원맨쇼&apos;</ht:news_item_title>
+				<ht:news_item_title>&apos;KBO 살아있는 레전드&apos; 구대성·손승락 소환→KIA 최강 클로저 역대 3번째 대기록까지 &apos;단 1개&apos; 남았다</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.hankookilbo.com/News/Read/A2025062623170003321</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrtqSZ_9RSy4tQRb6uPndzoNs4pEcpGv7PsLCXxWN1d8GDecS_uTXAADJlflE</ht:news_item_picture>
-				<ht:news_item_source>한국일보</ht:news_item_source>
+				<ht:news_item_url>https://v.daum.net/v/20250626051244364</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtmir8rdkk4bC665V4-FCBccYM6HvyD2ZNcvELTFSEk0qQ99ZDoi0tcltvC_Q</ht:news_item_picture>
+				<ht:news_item_source>Daum</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -152,156 +295,6 @@
 				<ht:news_item_snippet/>
 				<ht:news_item_url>https://m.news.nate.com/view/20250628n12555?mid=s02&amp;list=recent&amp;cpcd=</ht:news_item_url>
 				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEnG6WN-rTLCqmbReDoElar12GcXEjPCeSvp9CtmaUGP90qNf4VDMVkhTY3U4</ht:news_item_picture>
-				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>사자보이즈</title>
-			<ht:approx_traffic>500+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Sat, 28 Jun 2025 05:10:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6xHUW5wSfTyMHSi4yzJV1XY03vG9liFEj7QHTxXKIjjfrq8X7xJZUTBPuAtI</ht:picture>
-			<ht:picture_source>씨네21</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>[OTT리뷰]</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://cine21.com/news/view/?mag_id=107842</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6xHUW5wSfTyMHSi4yzJV1XY03vG9liFEj7QHTxXKIjjfrq8X7xJZUTBPuAtI</ht:news_item_picture>
-				<ht:news_item_source>씨네21</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>&apos;케이팝 데몬 헌터스&apos; 안효섭 &quot;진우의 내면 속 악마는…&quot;[일문일답]</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.nocutnews.co.kr/news/6361665</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS583tvBA2PmtI6chIY8d5nhdzmBs4EevggOFMigAFEqdS-rWPzxxuuIKipXsg</ht:news_item_picture>
-				<ht:news_item_source>노컷뉴스</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>가요계도 &apos;데몬 헌터스&apos; 붐…TXT &apos;Eternally&apos;, 제작진도 샤라웃</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.nate.com/view/20250628n02213</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT0uPKuzUzgwYK9YcBOCkNDJlFiEO_CgO7OnOQuISEA5aP-5WrSxmFrtQSmoM</ht:news_item_picture>
-				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>로또1178</title>
-			<ht:approx_traffic>2000+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Sat, 28 Jun 2025 04:50:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7U9syHaY0vYz_iSEvJJhTMHkJEAke6moCJZfc2o1cwcOpBbU79rIkiTNuN34</ht:picture>
-			<ht:picture_source>경향신문</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>1178회 로또 1등 12명···당첨금 각 23억9161만원</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.khan.co.kr/article/202506282101001</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7U9syHaY0vYz_iSEvJJhTMHkJEAke6moCJZfc2o1cwcOpBbU79rIkiTNuN34</ht:news_item_picture>
-				<ht:news_item_source>경향신문</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>1178회 6월28일 로또 당첨 번호 떴다</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.nate.com/view/20250628n12237</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_FTvPW5Cs_9Z8rlk_t3GM19DlRAuN4vCIoG-hDSrSmx8u2xz4BXWnOYA43B8</ht:news_item_picture>
-				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>&apos;5000만원&apos; 로또 2등만 89명, 로또 1등은 12명 각 24억원씩…당첨 판매점은?</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.sedaily.com/NewsView/2GU91LDANC</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6yF413SOhrKBpeytxlWqbOpJuzlV3_PSY8r96ivdR-K6VR1sppblO6vK9fDk</ht:news_item_picture>
-				<ht:news_item_source>서울경제</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>정성호</title>
-			<ht:approx_traffic>2000+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Sat, 28 Jun 2025 04:40:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmNRyStBIVG6yE29GNR2g2cwgiTIFzhgR5_PmthXWmr9q13NRu_ChViDDCzcc</ht:picture>
-			<ht:picture_source>한겨레</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>여당 중진 추가 입각할듯…‘법무’ 정성호·‘행안’ 윤호중 유력</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.hani.co.kr/arti/politics/bluehouse/1205218.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmNRyStBIVG6yE29GNR2g2cwgiTIFzhgR5_PmthXWmr9q13NRu_ChViDDCzcc</ht:news_item_picture>
-				<ht:news_item_source>한겨레</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>법무장관 정성호·행안장관 윤호중 내정... 민정수석 봉욱 유력</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.chosun.com/politics/politics_general/2025/06/28/S3VWARMMTFG4ZMJYJZG7RU7HHA/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4o-gnM_1I7eIYnHVvm8V_ePcE1wfiBQAJbeVsPpAwdptm067h63AErwbXuGw</ht:news_item_picture>
-				<ht:news_item_source>조선일보</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>검찰개혁 이끌까, 대통령 로펌 될까…다시 힘 받는 민정수석실</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.khan.co.kr/article/202506281500001</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsLskScMRvjyrOcIsOQJ9_FwO_q_PeSYy-UbE2qZUNNjzzuIhZ8lKeMUC-2A</ht:news_item_picture>
-				<ht:news_item_source>경향신문</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>추자현</title>
-			<ht:approx_traffic>500+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Sat, 28 Jun 2025 04:40:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpWidKp-kNZXp__dBuj-IG8CbePdi1lkbQf4IN_ScazgeFs_K5EW4bN8tuaS8</ht:picture>
-			<ht:picture_source>MHN / 엠에이치앤</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>조이현, 받쓰 멘사 인증…추영우·추자현까지 폭소 유발 3인 3색 매력 (놀라운 토요일)</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.mhnse.com/news/articleView.html?idxno=419437</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpWidKp-kNZXp__dBuj-IG8CbePdi1lkbQf4IN_ScazgeFs_K5EW4bN8tuaS8</ht:news_item_picture>
-				<ht:news_item_source>MHN / 엠에이치앤</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>추영우 &quot;잘 생겨서 죽기 아까운 캐릭터&quot; 셀프 외모 극찬</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.newsis.com/view/NISX20250628_0003231319</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTyw-SGAE0JDoU4ASdlnlvhrJlYsGvmxe9-4O0rXr76fAUbbdRgF_ZmqGjLbos</ht:news_item_picture>
-				<ht:news_item_source>뉴시스</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>추자현, 후배들 기강 잡았다…&quot;너희들은 나이 안 먹냐&quot;(&apos;놀토&apos;)</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.tenasia.co.kr/article/2025062860054</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ4BVPXLOO0fEABPHyb3_TebcGtegQ7PCH6dsqG783j8aDybM7GtzodNDsbpzk</ht:news_item_picture>
-				<ht:news_item_source>텐아시아</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>박정수</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Sat, 28 Jun 2025 04:40:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVpeX8HgU40R8V2h0APVpVRCp6J4Bt8SIWRFUeug7OG2gpZzuzwwoELo6wEh0</ht:picture>
-			<ht:picture_source>대한민국 대표 공영미디어 KBS</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>43화 하이라이트]＂잠잠해지니까 장모가 나타나서 훼방을 놔!＂박정수의 말이 신경 쓰이는 엄지원😥 [독수리 5형제를 부탁해!] | KBS 250628 방송</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.kbs.co.kr/index.html?source=smr&amp;sname=vod&amp;stype=vod&amp;contents_id=K02_PS-2025109381-01-000_MFSC14&amp;program_code=T2024-0604&amp;program_id=PS-2025109381-01-000&amp;section_code=03&amp;broadcast_complete_yn=N&amp;section_id=24443</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVpeX8HgU40R8V2h0APVpVRCp6J4Bt8SIWRFUeug7OG2gpZzuzwwoELo6wEh0</ht:news_item_picture>
-				<ht:news_item_source>대한민국 대표 공영미디어 KBS</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>&apos;독수리5형제&apos; 박정수, 안재욱·엄지원 재혼 반대 &quot;안 어울려…유감&quot;(종합)</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.news1.kr/entertain/broadcast-tv/5828911</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_fvDr7h9tRp0KrEKPD4ZGThRdDTYo9m8MJuSoU6iOchmjk8Rlu8pB8L16E8E</ht:news_item_picture>
-				<ht:news_item_source>뉴스1</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>&apos;독수리5형제&apos; 엄지원, 스팀 배관 터져 부상…안재욱 &quot;가여워서 못보겠다 나한테 와요&quot; 프로포즈</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.nate.com/view/20250628n13125</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjxt6ZupwnijfeONYy0jBCDP-ytwxckB-2M-3KIefXKg-z307ao4SpMrDKtow</ht:news_item_picture>
 				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
 			</ht:news_item>
 		</item>
