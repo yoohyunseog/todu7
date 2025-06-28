@@ -11,28 +11,28 @@
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
 			<pubDate>Sat, 28 Jun 2025 07:00:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIU0jIP4fiLdOd9NP98fiGAlyKTqQhLhRxpBwaEglx26zV4DmE6rH_sZzLWwI</ht:picture>
-			<ht:picture_source>F1</ht:picture_source>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQwqsHEyu_P3DoJ4fMMGyfOmcylkK5HL5jATcin0JW-TyFOukfCJYnZdvlS7Y</ht:picture>
+			<ht:picture_source>The New York Times</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>LIVE COVERAGE: Qualifying for the Austrian GP</ht:news_item_title>
+				<ht:news_item_title>Everything that happened as Lando Norris topped Friday free practice for F1’s 2025 Austrian GP</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.formula1.com/en/latest/article/live-coverage-qualifying-in-austria-205.4IVTK6TLFI1X7HFDnG1w4L</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIU0jIP4fiLdOd9NP98fiGAlyKTqQhLhRxpBwaEglx26zV4DmE6rH_sZzLWwI</ht:news_item_picture>
-				<ht:news_item_source>F1</ht:news_item_source>
+				<ht:news_item_url>https://www.nytimes.com/athletic/live-blogs/f1-austrian-gp-live-updates-fp1-fp2-times-results/WlXX1IcvRJsu/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQwqsHEyu_P3DoJ4fMMGyfOmcylkK5HL5jATcin0JW-TyFOukfCJYnZdvlS7Y</ht:news_item_picture>
+				<ht:news_item_source>The New York Times</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Austrian Grand Prix: Lando Norris quickest ahead of Oscar Piastri in Friday practice</ht:news_item_title>
+				<ht:news_item_title>How to Watch the 2025 Austrian GP on a Free Channel</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.bbc.com/sport/formula1/articles/c20nx1p8wg2o</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4Rf3l2deAkq81STikBk6kdmgIDWUyn2InYs_Pyul3AS2cAL0zsQMb_kau-yg</ht:news_item_picture>
-				<ht:news_item_source>BBC</ht:news_item_source>
+				<ht:news_item_url>https://gizmodo.com/how-to-watch-the-2025-austrian-gp-on-a-free-channel-2000618906</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXZ4cKJ61yu5TEm2KtgRCy6rJrh44Q5IxjLhPnjhrYQ6AlTWyomd_D6vBlOtQ</ht:news_item_picture>
+				<ht:news_item_source>Gizmodo</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>McLaren sets the pace with thorn-on-their-side Verstappen dangerously close</ht:news_item_title>
+				<ht:news_item_title>Austrian Grand Prix Qualifying Preview and F1 Betting Odds</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.gpblog.com/en/breaking-news/mclaren-sets-the-pace-with-thorn-on-their-side-verstappen-dangerously-close</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAmq86Y3OjL2JRaY6S6gO7zeQl1caF2UkWy2-1-Ap2KHt06Nku-pGBMGBj77M</ht:news_item_picture>
-				<ht:news_item_source>GPblog</ht:news_item_source>
+				<ht:news_item_url>https://www.101greatgoals.com/free-bets/austrian-grand-prix-qualifying-preview-and-f1-betting-odds/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQq3OUuAAmiXATBY0pRaq4NbIGiFXEgQ84giMmToHVn4rUaFEEW2flm2NfbB7g</ht:news_item_picture>
+				<ht:news_item_source>101greatgoals.com</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -93,6 +93,36 @@
 				<ht:news_item_url>https://www.nocutnews.co.kr/news/6361665</ht:news_item_url>
 				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS583tvBA2PmtI6chIY8d5nhdzmBs4EevggOFMigAFEqdS-rWPzxxuuIKipXsg</ht:news_item_picture>
 				<ht:news_item_source>노컷뉴스</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>평생교육이용권</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Sat, 28 Jun 2025 06:50:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROqrX7ZYhGsowL2kZWpyzjEtcaxWF4TWuEyXbwZyCfoywnlhCYVy-oaQaGD8M</ht:picture>
+			<ht:picture_source>서울특별시</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>소득 관계없이 35만원…&apos;평생교육이용권&apos; 신청방법은?</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://mediahub.seoul.go.kr/archives/2014905</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROqrX7ZYhGsowL2kZWpyzjEtcaxWF4TWuEyXbwZyCfoywnlhCYVy-oaQaGD8M</ht:news_item_picture>
+				<ht:news_item_source>서울특별시</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>군포시 &apos;2025년 평생교육이용권&apos; 251명 추가 모집</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://news.nate.com/view/20250628n08719</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLVt0srKggEC-UXBUdYxtKA6iX4mg6li5zgLlGtOJ8MxRmiD6ZL37JKtv0ds8</ht:news_item_picture>
+				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>[군포소식]&quot;연 35만원&quot;…시, 평생교육 이용권 2차 접수 등</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.newsis.com/view/NISX20250628_0003231164</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxCwoyFu_Sh-NKvv0w8NpWrNI5w02ptqy11E8HZc4GGDckf3G0ehImjmL6DnI</ht:news_item_picture>
+				<ht:news_item_source>뉴시스</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -244,58 +274,28 @@
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
 			<pubDate>Sat, 28 Jun 2025 05:30:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRs-s8W9KTSJOdIYkNEmStZhlhQ6z99ZnZ5QoW9_6Uh6noqsV_sfxUXCY76vrA</ht:picture>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWYCO-BnXXHxUjNOIky-lxyk70xu6kbQJjlWl3PL6JYO1WnvpxRYvdiB76B7s</ht:picture>
 			<ht:picture_source>조선일보</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>KIA 정해영, 선동렬오승환도 이루지 못한 대기록 도전</ht:news_item_title>
+				<ht:news_item_title>연장 11회말 동점 허용→2군행, 왜 감독은 &apos;특별 칭찬&apos;하며 “열흘 뒤 콜업” 약속했을까</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.chosun.com/sports/baseball/2025/06/27/3NQKBX7ODIJLVM27GFZSSLBDTU/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRs-s8W9KTSJOdIYkNEmStZhlhQ6z99ZnZ5QoW9_6Uh6noqsV_sfxUXCY76vrA</ht:news_item_picture>
+				<ht:news_item_url>https://www.chosun.com/sports/baseball/2025/06/28/3IW3TMIXNWMAWFF4TXUIZV33MU/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWYCO-BnXXHxUjNOIky-lxyk70xu6kbQJjlWl3PL6JYO1WnvpxRYvdiB76B7s</ht:news_item_picture>
 				<ht:news_item_source>조선일보</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>에레디아 &apos;이제는 1점차&apos;[포토]</ht:news_item_title>
+				<ht:news_item_title>꼴찌 키움 앞에서 작아지는 KIA…이범호 감독 &quot;다른 팀 더 이길 것&quot;</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.nate.com/view/20250621n10671</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBMk0X-qyLz82iW2qttuRp_y4ZS1lnsqj8Cxl1_ATz3bswS_fBomN-4fFIN7M</ht:news_item_picture>
+				<ht:news_item_url>https://m.news.nate.com/view/20250627n28545</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZe9Z5HL07i8uPnF-uVF80TUBquYnWpE3Tip120xPoJwPBr4Jy4Etxw2uE97A</ht:news_item_picture>
 				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>&apos;KBO 살아있는 레전드&apos; 구대성·손승락 소환→KIA 최강 클로저 역대 3번째 대기록까지 &apos;단 1개&apos; 남았다</ht:news_item_title>
+				<ht:news_item_title>동점 3루타 치고 끝내기 기회까지 만든 송성문의 빛바랜 &apos;원맨쇼&apos;</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://v.daum.net/v/20250626051244364</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtmir8rdkk4bC665V4-FCBccYM6HvyD2ZNcvELTFSEk0qQ99ZDoi0tcltvC_Q</ht:news_item_picture>
-				<ht:news_item_source>Daum</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>k리그1 순위</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Sat, 28 Jun 2025 05:20:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxKxxsqgwo3oLIqvZYSZ06cyGrCTc6-9Cq058NlKnl7qqFFV5FYqQcgd1ZNYc</ht:picture>
-			<ht:picture_source>네이트 뉴스</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>[K리그1] 중간 순위(27일)</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.nate.com/view/20250627n32337?mid=n1101</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxKxxsqgwo3oLIqvZYSZ06cyGrCTc6-9Cq058NlKnl7qqFFV5FYqQcgd1ZNYc</ht:news_item_picture>
-				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>반환점 돈 K리그1, 파이널 경쟁 구도도 서서히 윤곽…태풍의 핵은 &apos;레벨업&apos; 울산?</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.chosun.com/sports/football/2025/06/25/3ZPXR45P42CL5J7YLLMT4GV3XQ/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSj1NN8BFspbpn0v1G_3gSwCt_AaqcBcTr5xZupX07VJhl5zsOJAD73GzCylfM</ht:news_item_picture>
-				<ht:news_item_source>조선일보</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>[프로축구 중간순위] 28일</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://m.news.nate.com/view/20250628n12555?mid=s02&amp;list=recent&amp;cpcd=</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEnG6WN-rTLCqmbReDoElar12GcXEjPCeSvp9CtmaUGP90qNf4VDMVkhTY3U4</ht:news_item_picture>
-				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
+				<ht:news_item_url>https://www.hankookilbo.com/News/Read/A2025062623170003321</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrtqSZ_9RSy4tQRb6uPndzoNs4pEcpGv7PsLCXxWN1d8GDecS_uTXAADJlflE</ht:news_item_picture>
+				<ht:news_item_source>한국일보</ht:news_item_source>
 			</ht:news_item>
 		</item>
 	</channel>
