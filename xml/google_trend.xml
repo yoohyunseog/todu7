@@ -6,303 +6,282 @@
 		<link>https://trends.google.com/trending/rss?geo=KR</link>
 		<atom:link href="https://trends.google.com/trending/rss?geo=KR" rel="self" type="application/rss+xml"/>
 		<item>
-			<title>박천휴</title>
-			<ht:approx_traffic>500+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Wed, 2 Jul 2025 05:00:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBsfv6uyweowKOGNWTnA0Lds0nfVmULwpw3WILv1pRISuONED22duY_0ykGEs</ht:picture>
-			<ht:picture_source>더뮤지컬</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>인터뷰 | 박천휴 작가, 브로드웨이에 닿은 진심</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.themusical.co.kr/Magazine/Detail?num=5473</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBsfv6uyweowKOGNWTnA0Lds0nfVmULwpw3WILv1pRISuONED22duY_0ykGEs</ht:news_item_picture>
-				<ht:news_item_source>더뮤지컬</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>[취재파일] 토니상 6관왕 &apos;어쩌면 해피엔딩&apos;을 둘러싼 &apos;오해&apos;</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.sbs.co.kr/news/endPage.do?news_id=N1008159124</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0DMkI3_rLKaUNRs36RzYhd7uky3MflgeC2OdVI_MiJ-rrgbfxia2pF-w7KBk</ht:news_item_picture>
-				<ht:news_item_source>SBS 뉴스</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>&apos;토니상 6관왕&apos; 박천휴 &quot;스티븐 스필버그와 통화, 듣는 순간 눈물&quot; (유퀴즈)</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.nate.com/view/20250702n38234</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQQU_VS72h9Ba0cuSXP9F4gET-rMjS5-fyQfweg90YyIh90qlPrPp4Q2mUIUw</ht:news_item_picture>
-				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>한화 이글스</title>
-			<ht:approx_traffic>500+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Wed, 2 Jul 2025 05:00:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdSZzCF4YgGNs8uqICz9WQZ7D9kqXjfXwekCZS6lHp1Es-F-PNZmwZxITDzl0</ht:picture>
-			<ht:picture_source>조선일보</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>&apos;목지훈 3승 호투+데이비슨 쐐기 홈런&apos; NC 2연패 탈출…한화 무득점 침묵, 문동주 1실점 호투에도 패전 [대전 리뷰]</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.chosun.com/sports/baseball/2025/07/02/MDEFIDL7MJQRJDGOLH3427XBQQ/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdSZzCF4YgGNs8uqICz9WQZ7D9kqXjfXwekCZS6lHp1Es-F-PNZmwZxITDzl0</ht:news_item_picture>
-				<ht:news_item_source>조선일보</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>NC, 선두 한화에 2-0 영봉승…&apos;5이닝 무실점&apos; 목지훈, 49일만에 승리</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.newsis.com/view/NISX20250702_0003237043</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHB9GuwO3yFC45rs8JYfmZo9-G0OHQsPf8fr7JfoezpDw9BE231pfaSw3Edto</ht:news_item_picture>
-				<ht:news_item_source>뉴시스</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>한화에 승리한 NC</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.nate.com/view/20250702n38203</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRP0iBSiNX8y4TDCzeljVc-r31SC_3NOnymowGZ3_DbCHuNooAUJunL9ZRY2BM</ht:news_item_picture>
-				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>3호선</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Wed, 2 Jul 2025 04:50:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYkOWLOzHmKAXsPOv3of6gntK0wsnA59lpaN7HgtVkmQ_aso8jvUUyoBKchD0</ht:picture>
-			<ht:picture_source>영남일보</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>“대구 도시철도망 5호선 평리네거리 와야”“당초 계획대로 진행돼야”</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.yeongnam.com/web/view.php?key=20250701026290128</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYkOWLOzHmKAXsPOv3of6gntK0wsnA59lpaN7HgtVkmQ_aso8jvUUyoBKchD0</ht:news_item_picture>
-				<ht:news_item_source>영남일보</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>&quot;주거단지 대신 노후산단 지나&quot;…서구 주민 1천여명, 도시철도 순환선 반발</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.imaeil.com/page/view/2025070116452468084</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSs9uLCxIMYU1Pg8wF4n1tWNzdHDPnrNcAvWSBctsA_IRYCeQC7nWUqTo4BfU</ht:news_item_picture>
-				<ht:news_item_source>매일신문</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>대구시 도시 미래발전 대비, 기존 1·2·3호선 모두 연장</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.idaegu.com/news/articleView.html?idxno=641433</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGUENhbbr_PjaS9jw-StxauO9Q9Sxx4qDCltN575K0Nff8suSxorjq4Ayye3s</ht:news_item_picture>
-				<ht:news_item_source>대구일보</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>리박스쿨</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Wed, 2 Jul 2025 04:40:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxfJdg2rqwXC2omrBi5Kk9p5FYU_LL-HNCJEAeaKSNsWE3V3ZHGSMH-UQctqc</ht:picture>
-			<ht:picture_source>한겨레</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>김민전 “리박스쿨, 50명 갖고…” 김준혁 “5명이 나라도 팔았다”</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.hani.co.kr/arti/politics/politics_general/1205909.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxfJdg2rqwXC2omrBi5Kk9p5FYU_LL-HNCJEAeaKSNsWE3V3ZHGSMH-UQctqc</ht:news_item_picture>
-				<ht:news_item_source>한겨레</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>&quot;손자 생일잔치&quot;…리박스쿨 청문회 증인 불참 사유 논란</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.nate.com/view/20250702n16775</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTyVVPP8IuIX5lPIq9nDfN-OAPQOq3OzWxEjajMr2k8b4h374tbUipyj8183c</ht:news_item_picture>
-				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>&quot;좌파는 사람까지 죽인다&quot;던 역사기관 이사장, 尹 계엄 불법·위헌성 묻자 &quot;답 않겠다&quot;</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.hankookilbo.com/News/Read/A2025070104210003664</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQOp4NiJodtnOWWGlkkWJubw88ATKhLGD7cvABW-LJSnvXEZy-M3v6AQzwhY</ht:news_item_picture>
-				<ht:news_item_source>한국일보</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>김광현</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Wed, 2 Jul 2025 04:30:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyFPliMW9Sp7zI4hWYQ93E685-ognpBf678ypUHAHHuEcCpDOi4NOw0kI58-0</ht:picture>
-			<ht:picture_source>네이트 뉴스</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>두 번의 방출, 불굴의 20년차 저니맨 빛나는 팀 퍼스트…역전 이끈 4⅓이닝도 고마운데 &quot;5회 채워야 했다&quot;</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.nate.com/view/20250702n02198?mid=n1101</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyFPliMW9Sp7zI4hWYQ93E685-ognpBf678ypUHAHHuEcCpDOi4NOw0kI58-0</ht:news_item_picture>
-				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>&apos;12안타&apos; SSG, KIA 4연승 저지…김광현 시즌 5승</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.newsis.com/view/NISX20250702_0003237064</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVPdpTWRrwoDVJegiQumwTCt9bj28QD14wXvR6JLqGaxESAOMNzl1kWzEQYAc</ht:news_item_picture>
-				<ht:news_item_source>뉴시스</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>174승 에이스 출격하고 상대는 무명의 20살 영건...경계하는 이숭용 감독 &quot;야구 어렵다. 처음 보는 낯가림도 있다&quot; [오!쎈 광주]</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.chosun.com/sports/baseball/2025/07/02/PTGUSAH5NYPA42ZVELTQPTYYZY/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRl0HuE_jNSdWm25U-3BjreF7x2RYtuyAwgXTEvCLMngl12V44Nz62FZrwbps</ht:news_item_picture>
-				<ht:news_item_source>조선일보</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>박지원</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Wed, 2 Jul 2025 04:20:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ90Gj13qUU7pJt_j_uI2lfG2k-XKu-DqbKsxJoCJ98W2b6s3JGaC93X_rQsAo</ht:picture>
-			<ht:picture_source>MBC 뉴스</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>&quot;전 보고하러&quot; 가려던 유상범, 나경원-與의원 대화 듣더니 [현장영상]</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://imnews.imbc.com/news/2025/politics/article/6731523_36711.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ90Gj13qUU7pJt_j_uI2lfG2k-XKu-DqbKsxJoCJ98W2b6s3JGaC93X_rQsAo</ht:news_item_picture>
-				<ht:news_item_source>MBC 뉴스</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>“나경원, 소꿉놀이 치우고 삭발” 9일 단식했던 김성태 주장</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.munhwa.com/article/11516198</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpwqYtO9cKM8ChLiwKk4rFCN0xfG7lJUbzNhF2Td1QhIqgtTK7CYvhlSM5Eng</ht:news_item_picture>
-				<ht:news_item_source>문화일보</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>김종혁 &quot;나경원, 에어컨 안 나오니 웰빙 아니다? 장예찬 헛소리, 대꾸 가치 없어&quot;</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.jtbc.co.kr/article/NB12252796</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqwT2O66zOCinsnOXq85rVbCPsTWPxOsvcutpyy7j9-lLjgfbhhY2CFOt3VyE</ht:news_item_picture>
-				<ht:news_item_source>JTBC 뉴스</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>김창완</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Wed, 2 Jul 2025 03:50:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_FuznbBgU8B5HtvPTZKUftirtTn_09CJcbSMjMIpEB1Cf3Uud1DEx5-qfJno</ht:picture>
-			<ht:picture_source>네이트 뉴스</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>김창완, 심각한 알코올 중독 고백 &quot;주변 도움 필요해&quot; (어쩌다 어른)[결정적장면]</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.nate.com/view/20250701n42414</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_FuznbBgU8B5HtvPTZKUftirtTn_09CJcbSMjMIpEB1Cf3Uud1DEx5-qfJno</ht:news_item_picture>
-				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>김창완, 23년 만에 &apos;아침창&apos; DJ 하차 당해 서운하다더니..&apos;어쩌다 어른&apos; DJ 변신 [Oh!쎈 예고]</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.chosun.com/entertainments/broadcast/2025/07/01/XIZSLGRM7HGKT7UVOBVUZKGEVM/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUsDhR4-3tXbbqp-62aIBnX60-Y7yvGsJxEWEqLChYDJELzcvYt0NFoRhN8so</ht:news_item_picture>
-				<ht:news_item_source>조선일보</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>‘어쩌다 어른’ 10주년 특집, 오늘(1일) 첫방…첫 번째 주인공 김창완</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.ytn.co.kr/_sn/0117_202507011604404663</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVJsrVG5pjsQ2ViqQdbVs9zhsLBATPe3jAqJUplz8lz1VT70cso1tmGzGJCas</ht:news_item_picture>
-				<ht:news_item_source>YTN</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>올드가드2</title>
+			<title>tsll</title>
 			<ht:approx_traffic>200+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Wed, 2 Jul 2025 03:20:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7-PERdGrx-rGgzVEK84G6f6qQH56BzP-dB4fB9h_KU4dM1RUo-DJGhQsTyBk</ht:picture>
-			<ht:picture_source>The New York Times</ht:picture_source>
+			<pubDate>Wed, 2 Jul 2025 07:20:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdhj6hiuCT7-12-rqd84edOTyAVccFrNkDnAC3UowwIMJ56UzZ18-ORMUZ-OE</ht:picture>
+			<ht:picture_source>MarketBeat</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>From No Home to a Perch in Hollywood, a Filmmaker Finally Breaks Through</ht:news_item_title>
+				<ht:news_item_title>Direxion Daily TSLA Bull 2X Shares (NASDAQ:TSLL) Shares Gap Up - Still a Buy?</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.nytimes.com/2025/07/02/movies/old-guard-2-director-victoria-mahoney-star-wars.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7-PERdGrx-rGgzVEK84G6f6qQH56BzP-dB4fB9h_KU4dM1RUo-DJGhQsTyBk</ht:news_item_picture>
-				<ht:news_item_source>The New York Times</ht:news_item_source>
+				<ht:news_item_url>https://www.marketbeat.com/instant-alerts/direxion-daily-tsla-bull-2x-shares-nasdaqtsll-shares-gap-up-still-a-buy-2025-07-02/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdhj6hiuCT7-12-rqd84edOTyAVccFrNkDnAC3UowwIMJ56UzZ18-ORMUZ-OE</ht:news_item_picture>
+				<ht:news_item_source>MarketBeat</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>The Old Guard 2 Review</ht:news_item_title>
+				<ht:news_item_title>Direxion Daily TSM Bull 2X Shares (NASDAQ:TSMX) Declares Quarterly Dividend of $0.26</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.ign.com/articles/the-old-guard-2-movie-review-netflix-charlize-theron</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYPXpaoKIpLmeCxQtWHSvOt7VcFKMtugv7jU2QSj0StQdbJEwbwVFsW2P7JiY</ht:news_item_picture>
-				<ht:news_item_source>IGN</ht:news_item_source>
+				<ht:news_item_url>https://www.marketbeat.com/instant-alerts/direxion-daily-tsm-bull-2x-shares-nasdaqtsmx-plans-quarterly-dividend-of-026-2025-06-24/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFbqQdKkOCkJAsCiFkjAj88X4yLfnH2bJK9y2IQESw5H84G2mk3vaN7MUJd9o</ht:news_item_picture>
+				<ht:news_item_source>MarketBeat</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Uma Thurman’s back in action in ‘The Old Guard 2′ on Netflix</ht:news_item_title>
+				<ht:news_item_title>Direxion Daily TSLA Bull 2X Shares (NASDAQ:TSLL) Sees Strong Trading Volume - Should You Buy?</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.bostonglobe.com/2025/07/01/arts/uma-thurman-the-old-guard-2/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt97HkYr6m_Vk-DfNFbqcC3C-8_tY1VyZ9F_nTJZGuNsH06Pfq8WxESJSI89g</ht:news_item_picture>
-				<ht:news_item_source>The Boston Globe</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>india vs england</title>
-			<ht:approx_traffic>500+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Wed, 2 Jul 2025 03:20:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5_BX8eBrfwN4ufBtoPwy5iOKhJv2o2DhZfSYaFCq8rF4IS3fFQDoNW6voaLY</ht:picture>
-			<ht:picture_source>ESPNcricinfo</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Selection in the spotlight as India search for spark at Edgbaston</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.espncricinfo.com/series/india-in-england-2025-1445348/england-vs-india-2nd-test-1448350/match-preview</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5_BX8eBrfwN4ufBtoPwy5iOKhJv2o2DhZfSYaFCq8rF4IS3fFQDoNW6voaLY</ht:news_item_picture>
-				<ht:news_item_source>ESPNcricinfo</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>How to Watch England vs. India From Anywhere for Free: Livestream 2nd Test Cricket</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.cnet.com/tech/services-and-software/how-to-watch-england-vs-india-from-anywhere-for-free-livestream-2nd-test-cricket/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStbIHcKO9Mcdd1zarFkQt7vsPmEXEgseC5e1Y5G6VC8tIFDp_wVP25gWF-1Co</ht:news_item_picture>
-				<ht:news_item_source>CNET</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>2nd Test: Akash, Nitish &amp; Washington come in as England elect to bowl first against India</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.socialnews.xyz/2025/07/02/2nd-test-akash-nitish-washington-come-in-as-england-elect-to-bowl-first-against-india/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJAq2tEOaHBVYxyAFKIK7hY62UHb06d0XEWoXEJpMa8bYxhB6UcfaIAvvZ0uU</ht:news_item_picture>
-				<ht:news_item_source>Social News XYZ</ht:news_item_source>
+				<ht:news_item_url>https://www.marketbeat.com/instant-alerts/direxion-daily-tsla-bull-2x-shares-nasdaqtsll-sees-strong-trading-volume-should-you-buy-2025-07-01/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdhj6hiuCT7-12-rqd84edOTyAVccFrNkDnAC3UowwIMJ56UzZ18-ORMUZ-OE</ht:news_item_picture>
+				<ht:news_item_source>MarketBeat</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>서유리</title>
+			<title>디아블로4</title>
 			<ht:approx_traffic>100+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Wed, 2 Jul 2025 03:10:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ93y-JcyK8iaQeL9U9tB8-n2KA1TuYNtZaHvbjBFzx6p-O7kN0KyF_PD3ielc</ht:picture>
-			<ht:picture_source>엑스포츠뉴스</ht:picture_source>
+			<pubDate>Wed, 2 Jul 2025 07:10:00 -0700</pubDate>
+			<ht:picture/>
+			<ht:picture_source/>
+		</item>
+		<item>
+			<title>조배숙</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Wed, 2 Jul 2025 06:40:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPUAktGQG9TrT4N6IY4Sokavc7CB2Oj4KeqxT_xPJTTrYBS-QRnEdjfcfEdYw</ht:picture>
+			<ht:picture_source>대한민국 정책브리핑</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>&quot;벗고 방송하는 줄 알아&quot;…서유리, &apos;19금 엑셀방송&apos; 재차 해명 [엑&apos;s 이슈]</ht:news_item_title>
+				<ht:news_item_title>1인당 15~52만 원 민생회복 소비쿠폰 지급 - 카드/한컷 | 멀티미디어</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.xportsnews.com/article/2019023</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ93y-JcyK8iaQeL9U9tB8-n2KA1TuYNtZaHvbjBFzx6p-O7kN0KyF_PD3ielc</ht:news_item_picture>
-				<ht:news_item_source>엑스포츠뉴스</ht:news_item_source>
+				<ht:news_item_url>https://www.korea.kr/multi/visualNewsView.do?newsId=148945333</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPUAktGQG9TrT4N6IY4Sokavc7CB2Oj4KeqxT_xPJTTrYBS-QRnEdjfcfEdYw</ht:news_item_picture>
+				<ht:news_item_source>대한민국 정책브리핑</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>낸시랭 &quot;사기 결혼으로 빚 15억…이자만 1300만원&quot;</ht:news_item_title>
+				<ht:news_item_title>예결소위, 배드뱅크 예산 합의…소비쿠폰·지역화폐는 이견 여전</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.newsis.com/view/NISX20250626_0003228014</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS56uVAVd1cH7AKsB6U38p9lzJ44OMF-8ye5V9lMid35mtKj6LAKNa-NrYvOOo</ht:news_item_picture>
-				<ht:news_item_source>뉴시스</ht:news_item_source>
+				<ht:news_item_url>https://www.yna.co.kr/view/AKR20250702162100001</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXE7HtjXqQifE6QNreHmk6KmusJrF3FQqNJ04ULpJbkaTcxdcgipo1qhkuwqI</ht:news_item_picture>
+				<ht:news_item_source>연합뉴스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>이혼 서유리, 92년생 법조인 썸남 고백 후 &quot;자극적 키워드로 오해, 마음 아파&quot;[전문]</ht:news_item_title>
+				<ht:news_item_title>한동안 잠잠하더니 연일 &apos;불기둥&apos;…개미들 &apos;어리둥절&apos; [종목+]</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.nate.com/view/20250626n06640</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnM8bvDLudC5xAat_Sxv8m_6ACrX9unYTQnd7zb_ryZr8ve_4DHlhZSaaPVaY</ht:news_item_picture>
+				<ht:news_item_url>https://www.hankyung.com/article/2025070122936</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCCx1XsBWZ5HtmUrMJpg0dzx98EStE8QAUs2B23FV46yjXXHD9m1__wYK8lwE</ht:news_item_picture>
+				<ht:news_item_source>한국경제</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>에일리</title>
+			<ht:approx_traffic>200+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Wed, 2 Jul 2025 06:30:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTymxJAjsvvGxjrq2AAXO0rNePjLbptO0gvtHjiZTnqUyyqpHM9Eo5uF9SYpCk</ht:picture>
+			<ht:picture_source>미주한국일보</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>‘한국의 비욘세·보컬 퀸’ 에일리 남가주 온다</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>http://www.koreatimes.com/article/1570891</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTymxJAjsvvGxjrq2AAXO0rNePjLbptO0gvtHjiZTnqUyyqpHM9Eo5uF9SYpCk</ht:news_item_picture>
+				<ht:news_item_source>미주한국일보</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>에일리, 8월 16일 페창가 리조트카지노서 단독 콘서트</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.koreadaily.com/article/20250701142911955</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxRVEpnBHfsyVOZclc3Wh-2hHLN6Oq54mawqAUH5ZdxyMyW4RXR7RGh1X4DAM</ht:news_item_picture>
+				<ht:news_item_source>미주중앙일보 | The Korea Daily</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>에일리, 8월 16일 페창가서 단독 콘서트 개최 |</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://heraldk.com/2025/07/01/%EC%97%90%EC%9D%BC%EB%A6%AC-8%EC%9B%94-16%EC%9D%BC-%ED%8E%98%EC%B0%BD%EA%B0%80%EC%84%9C-%EB%8B%A8%EB%8F%85-%EC%BD%98%EC%84%9C%ED%8A%B8-%EA%B0%9C%EC%B5%9C/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU3TxqtUVdqcPuDJoeP_nKOXhCO4mGUNKjQLQnQBjtu4CuLZGKuVOBMdzro9c</ht:news_item_picture>
+				<ht:news_item_source>HeraldK.com</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>테슬라</title>
+			<ht:approx_traffic>500+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Wed, 2 Jul 2025 06:30:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG9cXWPLxk2MT2RYF1FgvG7XuKj0D8jbl2k2F3QZVwYtO5tyaP3tjmxSqb9PI</ht:picture>
+			<ht:picture_source>조선일보</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>트럼프·머스크 갈등 심화...테슬라 주가 5.3% 하락</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.chosun.com/economy/auto/2025/07/02/DXWCDF4NXNG4BDPBPBRNAOI7EA/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG9cXWPLxk2MT2RYF1FgvG7XuKj0D8jbl2k2F3QZVwYtO5tyaP3tjmxSqb9PI</ht:news_item_picture>
+				<ht:news_item_source>조선일보</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>[엠빅뉴스] 어젯밤 서학 개미들 피눈물 흘린 이유?</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://imnews.imbc.com/original/mbig/6731531_29041.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCKoJyMovgl-y4PIrOV5FzWdHrdDqN4Z2KpdPNe7pFiuc54g68OpWIJP9V7GI</ht:news_item_picture>
+				<ht:news_item_source>MBC 뉴스</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>뉴욕증시 혼조 마감…다우 0.9% 상승</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.khan.co.kr/article/202507020724001</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRg0wKCF6CgFiorc16NAfPlUo2OkWjzjCxicEV64rpD2uwBpRJVKLaG1TRNr7w</ht:news_item_picture>
+				<ht:news_item_source>경향신문</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>요케레스</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Wed, 2 Jul 2025 06:20:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV968ae3UQaaQtxnCWixOTsF6epkdpa92Obskxwd9XbE6Zrdg4Shp6hH8FgUQ</ht:picture>
+			<ht:picture_source>네이트 스포츠</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>&apos;한소희 닮은 모델여친+아스날 관심까지&apos; 다가진 스웨덴 국대는 누구?</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://sports.news.nate.com/view/20250702n38964</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV968ae3UQaaQtxnCWixOTsF6epkdpa92Obskxwd9XbE6Zrdg4Shp6hH8FgUQ</ht:news_item_picture>
+				<ht:news_item_source>네이트 스포츠</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>아스널, 맨유 타깃 &apos;8000만 파운드 특급 공격수&apos; 영입 총력전 &apos;고급 협상→이미 5년 계약 합의&apos;</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.chosun.com/sports/world-football/2025/07/02/LM2WEEZDWFLX3QOZXENJTF6LQE/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeIlFv1MFwRrjwj4Bt5StfIWc6u0UNuAR4HUvdkxF8OoctAOn0ph4Z1UEkdys</ht:news_item_picture>
+				<ht:news_item_source>조선일보</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>‘세계 1위’ 102경기-97득점 ST. 싸게 팝니다! 구단 회장 “바이아웃(1500억)보다 저렴하게 팔겠다”</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://sports.khan.co.kr/article/202506301622003</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQoozWOUOuyURXim6pgPI6m8Lk2mfwC2H9InlhjkGewnpMB6oZkMibu3VZS6Kk</ht:news_item_picture>
+				<ht:news_item_source>스포츠경향</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>tesla</title>
+			<ht:approx_traffic>200+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Wed, 2 Jul 2025 06:00:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGwuHwwmj45xjYywXAiVfk23qS5ea7ofgOCxLJGEMvC8LkGLKCvQIZ4HHrIfk</ht:picture>
+			<ht:picture_source>CNBC</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Tesla reports 14% decline in vehicle deliveries, marking second straight year-over-year drop</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.cnbc.com/2025/07/02/tesla-tsla-q2-2025-vehicle-delivery-and-production-numbers.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGwuHwwmj45xjYywXAiVfk23qS5ea7ofgOCxLJGEMvC8LkGLKCvQIZ4HHrIfk</ht:news_item_picture>
+				<ht:news_item_source>CNBC</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Tesla stock pops after Q2 vehicle production tops forecasts, deliveries fall 13% from year ago</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://finance.yahoo.com/news/tesla-stock-pops-after-q2-vehicle-production-tops-forecasts-deliveries-fall-13-from-year-ago-131904312.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSuW6JHjX6cKMgikGlo_an2qLiSTIHx1jrqLWJxxoruB8lcoquz-HZRjf8_3Y</ht:news_item_picture>
+				<ht:news_item_source>Yahoo Finance</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Tesla reports 13% drop in Q2 vehicle deliveries amid intensified competition - CHOSUNBIZ</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://biz.chosun.com/en/en-international/2025/07/02/LDSVTSGSARCE3EGOBN6X2E4QSU/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT39aDZrAAxkeDwlX2v3fFtYHNLcNTPlq7JBgsVq4EswCe5c4ZSoaPQvI0nhrQ</ht:news_item_picture>
+				<ht:news_item_source>Chosunbiz</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>테슬라 인도량</title>
+			<ht:approx_traffic>200+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Wed, 2 Jul 2025 05:40:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHsNpbjVji2i7i7PNyvesJ_Cc5gmEQfCHjwE_a0jnpnSkwkdOCipF-ZDx_384</ht:picture>
+			<ht:picture_source>연합뉴스</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>테슬라 2분기 차량 인도량 38만4천대…2개 분기 연속 감소</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.yna.co.kr/view/AKR20250702159700072</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHsNpbjVji2i7i7PNyvesJ_Cc5gmEQfCHjwE_a0jnpnSkwkdOCipF-ZDx_384</ht:news_item_picture>
+				<ht:news_item_source>연합뉴스</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>韓개미의 테슬라 사랑···급락에도 레버리지 베팅</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.mk.co.kr/news/stock/11357784</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPHaRcaAPyn7F6btv64rcMbyNYe-mNm1oJ9zkk6YycksDRfON6y9HXGPtPag0</ht:news_item_picture>
+				<ht:news_item_source>매일경제</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>2분기 글로벌 차량 인도량 감소…주가는 개장전↑</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://marketin.edaily.co.kr/News/ReadE?newsId=04847846642230584</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFuAjf_kNSAJxvboxkdDEpcralZ1IL9LWhynGfFR9gv2PP2wKW57-gjqndZ-Q</ht:news_item_picture>
+				<ht:news_item_source>마켓인</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>박찬형</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Wed, 2 Jul 2025 05:40:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6Y3B6miV2v2RYDwsEhrShPzJbHLXUVfMvE0HbJKNHChz_10Df4OHJu355paE</ht:picture>
+			<ht:picture_source>OSEN</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>[사진]넥스지 유키, &apos;청춘만화처럼</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>http://www.osen.co.kr/article/G1112604915</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6Y3B6miV2v2RYDwsEhrShPzJbHLXUVfMvE0HbJKNHChz_10Df4OHJu355paE</ht:news_item_picture>
+				<ht:news_item_source>OSEN</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>[토토 투데이] 한국스포츠레저(주), 1일 공식 출범</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>http://www.osen.co.kr/article/G1112604497</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTlQ7OsC1tfiKVVJsGFytuMYZhFIgTG6aFnIdWQCUcMAilix3F28DIpNEMo_Mw</ht:news_item_picture>
+				<ht:news_item_source>OSEN</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>[사진]소이현,&apos;단아한 순백 드레스&apos;</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.osen.co.kr/article/G1112604530</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwJC_FQM90PGdg6JqOi4d8eBr9vg8iQPMZsM08-Fj-nqq-sJF3m3Bjhy9REzM</ht:news_item_picture>
+				<ht:news_item_source>OSEN</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>이효리</title>
+			<ht:approx_traffic>500+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Wed, 2 Jul 2025 05:20:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSSMKLv4WJIK50mctgsnG1TltN7db2nUCxB7yNZB7fh4JFzhxBscKGQW6iZG2s</ht:picture>
+			<ht:picture_source>네이트 뉴스</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>이효리, 최초 눈물 고백 &quot;27년간 조마조마했다&quot; (유퀴즈)</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://news.nate.com/view/20250702n37237?mid=e1200</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSSMKLv4WJIK50mctgsnG1TltN7db2nUCxB7yNZB7fh4JFzhxBscKGQW6iZG2s</ht:news_item_picture>
 				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>이효리 &quot;남편이랑 싸우고 바닷가 질주…김윤아 &apos;고잉홈&apos;에 위로 받아&quot;</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://news.mt.co.kr/mtview.php?no=2025070222145943347</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_82h8TP7HjlAJbJ4MVI2YeO1cuFol2tB1dFe2QjSSZ1XJRKkULzPAnWR9-j4</ht:news_item_picture>
+				<ht:news_item_source>머니투데이</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>이효리, 유재석 첫인상 “쟤 뭐야?” (유퀴즈)</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://sports.khan.co.kr/article/202507022225003</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlF0OiW_i7_SDqbeDA4Z69UCdx2KL0C2jyTN3W5XYg8DMc8t4QVELqVEVcCqg</ht:news_item_picture>
+				<ht:news_item_source>스포츠경향</ht:news_item_source>
 			</ht:news_item>
 		</item>
 	</channel>
