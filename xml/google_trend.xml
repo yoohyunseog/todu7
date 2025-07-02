@@ -21,18 +21,18 @@
 				<ht:news_item_source>동아일보</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>전 세계에 퍼지는 &apos;권력이상설&apos;에...중국이 공개한 시진핑 근황 [지금이뉴스]</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.ytn.co.kr/_ln/0134_202507011901158611</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS-wd8WPT3xci4Jx-uiiYN_8KWUhscMGb0f62dPjdwFFANwNRZtluxWXn6Rt4</ht:news_item_picture>
-				<ht:news_item_source>YTN</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
 				<ht:news_item_title>시진핑, 당 지도부 불러 ‘기강’ 강조…받아적는 간부들 모습 공개 왜?</ht:news_item_title>
 				<ht:news_item_snippet/>
 				<ht:news_item_url>https://www.khan.co.kr/article/202507011729011</ht:news_item_url>
 				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZeMa26X4ER3mUw8riC1hjqzMo9ITvI1wmS2r-SGUM_SAVwmZQ5zrWh4ujPtI</ht:news_item_picture>
 				<ht:news_item_source>경향신문</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>시진핑, 해외 일각 &apos;권력이상설&apos; 속 중앙회의 잇따라 주재(종합)</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.yna.co.kr/view/AKR20250701091451083</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzI8YDzPiyTTjeop28U7Mh5VkPdUtVyZ9_SX5U3kIJFhGgfBd1OZHHc2rhAns</ht:news_item_picture>
+				<ht:news_item_source>연합뉴스</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -51,11 +51,11 @@
 				<ht:news_item_source>The Daily Beast</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>The US says &apos;little to show‘ for six-decade aid agency. Supporters point to millions of lives saved</ht:news_item_title>
+				<ht:news_item_title>Opinion | U.S.A.I.D. Might Be Dead, but the Waste Is Alive and Well</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://apnews.com/article/usaid-trump-obama-cuts-famine-19e628eb360833f94bb64cd2479d7cb6</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmlJe87_iIuGLlD0V5z7qXFJ5ZzOzQyxOZnxmzrv7-9omoZw2o6ZkcIYhovJY</ht:news_item_picture>
-				<ht:news_item_source>AP News</ht:news_item_source>
+				<ht:news_item_url>https://www.nytimes.com/2025/07/02/opinion/usaid-trump-musk-wasted-medicine.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQS5meqoDashXurgI7mVnvLc4QcVNWY-h3GXfkaQTQXgfd3774NqbKHLbhZ7No</ht:news_item_picture>
+				<ht:news_item_source>The New York Times</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
 				<ht:news_item_title>Rubio officially kills USAID, reveals future home for foreign assistance programs</ht:news_item_title>
@@ -101,28 +101,28 @@
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
 			<pubDate>Tue, 1 Jul 2025 23:30:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ22yLO5k6TbLnkIPMQ-q7Az0uFdaMyoP7qNodLSxfzlU5R2T95NqfdaSidZrM</ht:picture>
-			<ht:picture_source>KBS 뉴스</ht:picture_source>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-75VG15nW6PrqPj36DvtHCuU2lVT9CJlhH9SZITj6FwTmF_KObLhfxnk55ak</ht:picture>
+			<ht:picture_source>조선일보</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>‘내남결’ 송하윤 “학폭 의혹은 거짓”…“폭로자, 미국서 수배돼” [지금뉴스]</ht:news_item_title>
+				<ht:news_item_title>송하윤, ‘학폭 의혹’ 1년만에 전면 부인... “입증하는 데 시간 걸려”</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.kbs.co.kr/news/view.do?ncd=8293541</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ22yLO5k6TbLnkIPMQ-q7Az0uFdaMyoP7qNodLSxfzlU5R2T95NqfdaSidZrM</ht:news_item_picture>
-				<ht:news_item_source>KBS 뉴스</ht:news_item_source>
+				<ht:news_item_url>https://www.chosun.com/national/national_general/2025/07/02/IRPCZZU5H5HFPIHFSZYVKEDLDM/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-75VG15nW6PrqPj36DvtHCuU2lVT9CJlhH9SZITj6FwTmF_KObLhfxnk55ak</ht:news_item_picture>
+				<ht:news_item_source>조선일보</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>배우 송하윤, 1년 만에 학폭 의혹 전면 부인…&quot;최초 유포자 고소&quot;</ht:news_item_title>
+				<ht:news_item_title>송하윤, 학폭 의혹 1년 만에 &quot;최초 유포자 형사 고소…폭력 없었다&quot;</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.newspim.com/news/view/20250702000821</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSfGS3BXi-NZmVML9y7oikqFBA-pUcU-WyEpPhpAMIrgS7XnAz1OJPTN4VbCoI</ht:news_item_picture>
-				<ht:news_item_source>뉴스핌</ht:news_item_source>
+				<ht:news_item_url>https://www.news1.kr/entertain/celebrity-topic/5833052</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQbK8w300yyrsLBmWXe4pC_ZRWOmComjl9Jv0eNiGviQdAlb3871DdfYn9mk0</ht:news_item_picture>
+				<ht:news_item_source>뉴스1</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>&quot;강제전학 NO&quot;…송하윤, 학폭의혹 1년만 고소</ht:news_item_title>
+				<ht:news_item_title>&apos;학폭·강제전학 부인&apos; 송하윤, 이동욱 소속사와 결별…&apos;FA&apos; 신분 [스타이슈]</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.newsis.com/view/NISX20250702_0003236410</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9G1NYHHKTdEaiH1xvEv9JrVz5qn8DDysdsUAiUUaDqgy0Wkbecjy9cmextak</ht:news_item_picture>
-				<ht:news_item_source>뉴시스</ht:news_item_source>
+				<ht:news_item_url>https://news.nate.com/view/20250702n31750</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTta7yhmbylUhPmHX_f3gHb021v8-RBKGkv0Sc9tyS3bRheUdL7xFQ8759KZks</ht:news_item_picture>
+				<ht:news_item_source>NATE</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -141,17 +141,17 @@
 				<ht:news_item_source>조선일보</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>대통령실 &quot;李대통령 中전승절 기념식 참석 여부 한·중 소통 중&quot;(종합)</ht:news_item_title>
+				<ht:news_item_title>이 대통령, 베이징 열병식 참석 고심…대통령실 “한중 소통 중”</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.newsis.com/view/NISX20250702_0003236850</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtxJY2t3ldYBJQyuHu4TRrW1dI2jZs-mtiS9pbaxrM6eFIJw_9Ya7whK7Akws</ht:news_item_picture>
-				<ht:news_item_source>뉴시스</ht:news_item_source>
+				<ht:news_item_url>https://www.hani.co.kr/arti/politics/politics_general/1205898.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4w9NweLosI_HVgInCZ_SJd-EU9MdAvWFJS2Yrx0TA_Ptqe3M9d2IQ0ry27bQ</ht:news_item_picture>
+				<ht:news_item_source>한겨레</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>중국, 전승절 80주년 행사에 이재명 대통령 참석 의사 타진</ht:news_item_title>
+				<ht:news_item_title>홍콩 언론 “이재명, 전승절 참석 안 할 것…박근헤 정부 시절과 한·중관계 달라”</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.khan.co.kr/article/202507021139001</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBPnp0iWxE_lGFoN6RxoOJWRFU6hZnhthTfretny6Ys4IZD-y-OkzLTvRAR1c</ht:news_item_picture>
+				<ht:news_item_url>https://www.khan.co.kr/article/202507021621001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0U0CfM44MY5Ha8wb9nPhLUY45KHyE0vki1Hnx-_4Kk9Z1OPL2ABmRIqzaIB0</ht:news_item_picture>
 				<ht:news_item_source>경향신문</ht:news_item_source>
 			</ht:news_item>
 		</item>
@@ -171,18 +171,18 @@
 				<ht:news_item_source>조선일보</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>[단독]국방부, 채상병 특검에 박정훈 재판 이첩 완료···특검, 항소취소 검토</ht:news_item_title>
+				<ht:news_item_title>“임성근, 이 안타까운 죽음에 가장 밀접”···수사 하루 전 채상병 묘소 참배한 ‘순직해병 특검’ [현장 화보]</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.khan.co.kr/article/202507021145001</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRurb9qYMc0rMPSOKt808FlOIktN3KZvlvd5HD5y4rd7ChSHoveXOU5tOOpqk4</ht:news_item_picture>
+				<ht:news_item_url>https://www.khan.co.kr/article/202507011228001</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_D0_KXIGnTKCTGwy-WmokQZ_FwqBDhLvMSQJApkRiu4o-wxr8Gstt4H2qNm4</ht:news_item_picture>
 				<ht:news_item_source>경향신문</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>&apos;순직해병·김건희&apos; 특검 수사 개시‥임성근 출석</ht:news_item_title>
+				<ht:news_item_title>임성근, 순직해병 특검 출석…특검, 사고 현장 상황 등 조사(종합)</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://imnews.imbc.com/replay/2025/nw1400/article/6731462_36776.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrt6ne0HkNWRUUk9QMfYdo4hndkQJlLThvfATboNIEmB9sxu1vXadIAnbTjeg</ht:news_item_picture>
-				<ht:news_item_source>MBC 뉴스</ht:news_item_source>
+				<ht:news_item_url>https://www.newsis.com/view/NISX20250702_0003236465</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2fdzaIuplHQRX74Wtg0pJzXcFPYvLpbrvbCquGOTdlCCX9-WJ06m7iSoFZSM</ht:news_item_picture>
+				<ht:news_item_source>뉴시스</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -210,7 +210,7 @@
 			<ht:news_item>
 				<ht:news_item_title>‘Jurassic World Rebirth’ Review: Creativity on the Brink of Extinction</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.wsj.com/arts-culture/film/jurassic-world-rebirth-review-creativity-on-the-brink-of-extinction-8e427630?gaa_at=eafs&amp;gaa_n=ASWzDAiZ8tol8-FelXiFmvD0A727NDR6KEx-2dNAnDv_yFnHQ6bGzc1KiY1l&amp;gaa_ts=6864f6ef&amp;gaa_sig=f_AlDagnyzAyKQzjxH6rO3At8TOSH_Bc4SjwYy-lhPPuIkl4ebjjMeF8IcMIkefDRwv6Qn41AI6JWcGlikvtQw%3D%3D</ht:news_item_url>
+				<ht:news_item_url>https://www.wsj.com/arts-culture/film/jurassic-world-rebirth-review-creativity-on-the-brink-of-extinction-8e427630?gaa_at=eafs&amp;gaa_n=ASWzDAhIHOUiLZ20oU-R01IfFagZ_pEux3vb3PuYoytEinDvLZDQA6YCtAcU&amp;gaa_ts=6864fc46&amp;gaa_sig=2-iWggvyqBCWOakN8BSpahiPl6NYrtvq7a5KUio0G0dPsrCi8sVE_o92Q_Q9TIFF3LXu-I9vYIqZlGZZbXQL1w%3D%3D</ht:news_item_url>
 				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRv75s11A2QajH7k-RJ2BxTjSK1uOi4367Fm6C0LM109xTVpoWmbww1nW9MnHs</ht:news_item_picture>
 				<ht:news_item_source>WSJ</ht:news_item_source>
 			</ht:news_item>
@@ -231,78 +231,78 @@
 				<ht:news_item_source>조선일보</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>배우 신구, 안타까운 아내상…51년 해로한 반려자와 이별</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://m.news.nate.com/view/20250702n31522?mid=e01&amp;list=recent&amp;cpcd=</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpfUBLQXiuX0ywUs47xJJRNkHJX0zHOUpLcDQf7PNCfBbvZ_ZE36RrWumxV_k</ht:news_item_picture>
-				<ht:news_item_source>NATE</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
 				<ht:news_item_title>배우 신구, 부인상 비보… 4일 발인</ht:news_item_title>
 				<ht:news_item_snippet/>
 				<ht:news_item_url>https://www.hankookilbo.com/News/Read/A2025070214160004539</ht:news_item_url>
 				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSfUPfwz3G1lrMnOGf44YJDIQ4F8aEgEJuQsLM9hDI1oksrVCzal0bRlUF6MMo</ht:news_item_picture>
 				<ht:news_item_source>한국일보</ht:news_item_source>
 			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>심부전증 신구, 부인 먼저 떠나보내다</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://mobile.newsis.com/view/NISX20250702_0003236303?kakao_from=mainnews</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCJMe8ilPnDhINZGNDYQMk7Ucy3dbpfx7xsFgdmir1EF5SEjjqf4O4266WNQk</ht:news_item_picture>
+				<ht:news_item_source>뉴시스</ht:news_item_source>
+			</ht:news_item>
 		</item>
 		<item>
 			<title>네이버시계</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
+			<ht:approx_traffic>500+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
 			<pubDate>Tue, 1 Jul 2025 21:50:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8eWk--Tzc5MjXx7OjR9vBeHQ0Qm2y6Ycbc3YWjbt-8Eqc2WoPwEYnpe9dM5o</ht:picture>
-			<ht:picture_source>문화일보</ht:picture_source>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsdREHXBC7E8Q5Q1hmqADUMVH44dkAE_kl4yfUG6zx6AFAxY87bwjk6QjPD-M</ht:picture>
+			<ht:picture_source>서울경제</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>“임은정 검사장 승진, 세상이 바뀌었단 메시지”… 검찰 내부 술렁</ht:news_item_title>
+				<ht:news_item_title>&apos;대선 승리&apos; 민주당, 역대 최다 포상 푼다…8600명 특별포상</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.munhwa.com/article/11516075</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8eWk--Tzc5MjXx7OjR9vBeHQ0Qm2y6Ycbc3YWjbt-8Eqc2WoPwEYnpe9dM5o</ht:news_item_picture>
-				<ht:news_item_source>문화일보</ht:news_item_source>
+				<ht:news_item_url>https://www.sedaily.com/NewsView/2GV6YYP81P</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsdREHXBC7E8Q5Q1hmqADUMVH44dkAE_kl4yfUG6zx6AFAxY87bwjk6QjPD-M</ht:news_item_picture>
+				<ht:news_item_source>서울경제</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>임은정·김태훈, 윤석열 정부서 좌천…한직 돌다 검사장 승진 발탁</ht:news_item_title>
+				<ht:news_item_title>민주, 대선 기여 공로자에 특별포상…&quot;비당원 포함해 8600명 규모&quot;</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.hani.co.kr/arti/society/society_general/1205785.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSyzhVrvS4DsuE8vIDS8UebVwzKXu6cvaFFZBHGE_PKIwkAXx7wLGZ2h4fj6I</ht:news_item_picture>
-				<ht:news_item_source>한겨레</ht:news_item_source>
+				<ht:news_item_url>https://www.newsis.com/view/NISX20250702_0003236142</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ12mlYkaHr981FOltsbBoQ3On6-nu44bNgT7-2O6XKEQaNDrCkmjJCErg9zBg</ht:news_item_picture>
+				<ht:news_item_source>뉴시스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>재경 지검장에 임은정 승진 발탁…검찰 고위직 인사 단행</ht:news_item_title>
+				<ht:news_item_title>與 &apos;대선 승리&apos; 기여자에 당대표 1급 포상 실시…8600명 대상</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.kbs.co.kr/news/view.do?ncd=8292675</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSc7Vy_wTM0-G-xvtteG4qag7SJwVNxx2Udpo2bRlxNpyqOfyjK248xiexXsx0</ht:news_item_picture>
-				<ht:news_item_source>KBS 뉴스</ht:news_item_source>
+				<ht:news_item_url>https://www.news1.kr/politics/assembly/5832701</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRp_Ak7vY7HTExQMZTcihosXZTFUOEP5WfKExyxuvra35Ps-UMTYH1TztxLVOA</ht:news_item_picture>
+				<ht:news_item_source>뉴스1</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>네이버 시계</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
+			<title>kbo 올스타전</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
 			<pubDate>Tue, 1 Jul 2025 21:50:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLJwhJKKGHJXrUqj1gHqsz6UcQONI-i0K52lxBtRvsUevMbVMrcyKt1UCxUOo</ht:picture>
-			<ht:picture_source>세계일보</ht:picture_source>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpXp5NcfA44XdrGHofF4SdDC_fO6x3EDQo92bEo_BqENSs3oSZeV6_yineOUQ</ht:picture>
+			<ht:picture_source>어린이동아</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>에어컨 있어도 못 트는 쪽방촌…방 안은 40도 넘는 &apos;찜통&apos;</ht:news_item_title>
+				<ht:news_item_title>KBO 올스타전 선수단 투표 찬반... &quot;실력이 먼저&quot; vs &quot;팬의 의견은?&quot;</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.segye.com/newsView/20250701512725</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLJwhJKKGHJXrUqj1gHqsz6UcQONI-i0K52lxBtRvsUevMbVMrcyKt1UCxUOo</ht:news_item_picture>
-				<ht:news_item_source>세계일보</ht:news_item_source>
+				<ht:news_item_url>https://kids.donga.com/news/articleView.html?idxno=166351</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpXp5NcfA44XdrGHofF4SdDC_fO6x3EDQo92bEo_BqENSs3oSZeV6_yineOUQ</ht:news_item_picture>
+				<ht:news_item_source>어린이동아</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>&quot;펄펄 끓는 가마솥 같다&quot;…&apos;대프리카&apos; 연일 폭염에 숨이 턱턱</ht:news_item_title>
+				<ht:news_item_title>&apos;이럴 수가&apos; 타율·출루율 1위가 올스타전에 못 간다니…삼성 7명 출전 경사 속 진한 아쉬움</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.nate.com/view/20250702n27903</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRI3rsXXm0tfVQbhW-mPfFFE8wvfufeegAiMuknC4d_ma5ROHdc6TZDuaiaaEY</ht:news_item_picture>
-				<ht:news_item_source>NATE</ht:news_item_source>
+				<ht:news_item_url>https://sports.news.nate.com/view/20250630n36331</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSfE20KbUqd_5Tr9z8HQTWeIqgzGxQeWmgTTaBTXMshQvh8vkDTsRr_dy78IPg</ht:news_item_picture>
+				<ht:news_item_source>네이트 스포츠</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>부산·대구·전주...59곳서 역대 가장 뜨거운 6월 하루 보냈다</ht:news_item_title>
+				<ht:news_item_title>&apos;0.27점 차이&apos; 최형우에게 아깝게 역전당했는데…한화 최고 타자, 감독 추천으로 이룬 첫 올스타</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.chosun.com/national/transport-environment/2025/07/01/222QIBT6JNBZTMH7KX2Q3AZMLM/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRgGKXNPoQtU-MSiXW0u8IGG0gNP8KWVjxfoUwrVrynDEq6vUgVTgHaFlklgqc</ht:news_item_picture>
-				<ht:news_item_source>조선일보</ht:news_item_source>
+				<ht:news_item_url>http://www.osen.co.kr/article/G1112603514</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjTZdEop9U2UTEOJ8if344ELWJmaUryk343ByYcyOAH8CfUAag-qE_3BhDN0Y</ht:news_item_picture>
+				<ht:news_item_source>OSEN</ht:news_item_source>
 			</ht:news_item>
 		</item>
 	</channel>
