@@ -6,65 +6,95 @@
 		<link>https://trends.google.com/trending/rss?geo=KR</link>
 		<atom:link href="https://trends.google.com/trending/rss?geo=KR" rel="self" type="application/rss+xml"/>
 		<item>
-			<title>tsll</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Wed, 2 Jul 2025 07:20:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdhj6hiuCT7-12-rqd84edOTyAVccFrNkDnAC3UowwIMJ56UzZ18-ORMUZ-OE</ht:picture>
-			<ht:picture_source>MarketBeat</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Direxion Daily TSLA Bull 2X Shares (NASDAQ:TSLL) Shares Gap Up - Still a Buy?</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.marketbeat.com/instant-alerts/direxion-daily-tsla-bull-2x-shares-nasdaqtsll-shares-gap-up-still-a-buy-2025-07-02/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdhj6hiuCT7-12-rqd84edOTyAVccFrNkDnAC3UowwIMJ56UzZ18-ORMUZ-OE</ht:news_item_picture>
-				<ht:news_item_source>MarketBeat</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Direxion Daily TSM Bull 2X Shares (NASDAQ:TSMX) Declares Quarterly Dividend of $0.26</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.marketbeat.com/instant-alerts/direxion-daily-tsm-bull-2x-shares-nasdaqtsmx-plans-quarterly-dividend-of-026-2025-06-24/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFbqQdKkOCkJAsCiFkjAj88X4yLfnH2bJK9y2IQESw5H84G2mk3vaN7MUJd9o</ht:news_item_picture>
-				<ht:news_item_source>MarketBeat</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Direxion Daily TSLA Bull 2X Shares (NASDAQ:TSLL) Sees Strong Trading Volume - Should You Buy?</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.marketbeat.com/instant-alerts/direxion-daily-tsla-bull-2x-shares-nasdaqtsll-sees-strong-trading-volume-should-you-buy-2025-07-01/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdhj6hiuCT7-12-rqd84edOTyAVccFrNkDnAC3UowwIMJ56UzZ18-ORMUZ-OE</ht:news_item_picture>
-				<ht:news_item_source>MarketBeat</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>디아블로4</title>
+			<title>롯데홈쇼핑</title>
 			<ht:approx_traffic>100+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Wed, 2 Jul 2025 07:10:00 -0700</pubDate>
+			<pubDate>Wed, 2 Jul 2025 16:20:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIE4IPBRuJn3H4CAzeYwnmW-6bgeRLGbGSVss_KsOEmwEvvu0GRSu57pEZOFQ</ht:picture>
+			<ht:picture_source>네이트 뉴스</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>롯데홈쇼핑, 아프리카 비즈니스 패키지 최초 론칭</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://news.nate.com/view/20250703n04773</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIE4IPBRuJn3H4CAzeYwnmW-6bgeRLGbGSVss_KsOEmwEvvu0GRSu57pEZOFQ</ht:news_item_picture>
+				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>&quot;사파리 투어 떠나자&quot; 롯데홈쇼핑, 아프리카 여행 상품 론칭</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.newsis.com/view/NISX20250703_0003237315</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLBDNCdcTr-tUfn9OXGp_8rr78rPB-zeBWgu5qHgD6ZKI3wJWL1M9_eRqbHho</ht:news_item_picture>
+				<ht:news_item_source>뉴시스</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>롯데홈쇼핑, &apos;아프리카 비즈니스 패키지&apos; 최초 론칭</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.news1.kr/industry/distribution/5833743</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8tLH6c4YnNgziWpbATxYwzHXmZ0kF2CbKbvccqSEuu5I4DgTRcObyVeSTJhw</ht:news_item_picture>
+				<ht:news_item_source>뉴스1</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>한국공항공사</title>
+			<ht:approx_traffic>200+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Wed, 2 Jul 2025 16:10:00 -0700</pubDate>
 			<ht:picture/>
 			<ht:picture_source/>
 		</item>
 		<item>
-			<title>조배숙</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
+			<title>운세</title>
+			<ht:approx_traffic>200+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Wed, 2 Jul 2025 06:40:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPUAktGQG9TrT4N6IY4Sokavc7CB2Oj4KeqxT_xPJTTrYBS-QRnEdjfcfEdYw</ht:picture>
+			<pubDate>Wed, 2 Jul 2025 16:10:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJVjf-16_ZVKGn-EXooERBpqdNK6cd7wayPyBekJ-xJjsJxpRBGs7Na-jkIr4</ht:picture>
+			<ht:picture_source>한국일보</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>[백운산 오늘의 운세] 2025년 7월 3일</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.hankookilbo.com/News/Read/A2025063013240002066</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJVjf-16_ZVKGn-EXooERBpqdNK6cd7wayPyBekJ-xJjsJxpRBGs7Na-jkIr4</ht:news_item_picture>
+				<ht:news_item_source>한국일보</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>[오늘의 운세] 띠별 운세-7월 3일</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://news.nate.com/view/20250702n39803</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLhalqTvKUnBT7FKrhYqjo5GWBXseX0f9Vd3HeAINRMZGhf_v-bCJHuomsvwA</ht:news_item_picture>
+				<ht:news_item_source>NATE</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>[녹유 오늘의 운세] 05년생 더 넓은 세상으로 날개를 펼쳐요.</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.newsis.com/view/NISX20250701_0003235414</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsnkizSebpzo8lCw6hG-Ce5SIAUvTRBlRhqX2H5rMvJd-R6dWOHdJ09bUuRi8</ht:news_item_picture>
+				<ht:news_item_source>뉴시스</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>민생지원금</title>
+			<ht:approx_traffic>200+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Wed, 2 Jul 2025 15:40:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVv-zXY4WMhw8Sx9QggrJub5vRqfSEYqDw3KeFd_dPXgM-X2EPZYFPoIhDoJ0</ht:picture>
 			<ht:picture_source>대한민국 정책브리핑</ht:picture_source>
 			<ht:news_item>
 				<ht:news_item_title>1인당 15~52만 원 민생회복 소비쿠폰 지급 - 카드/한컷 | 멀티미디어</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.korea.kr/multi/visualNewsView.do?newsId=148945333</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPUAktGQG9TrT4N6IY4Sokavc7CB2Oj4KeqxT_xPJTTrYBS-QRnEdjfcfEdYw</ht:news_item_picture>
+				<ht:news_item_url>https://www.korea.kr/multi/visualNewsView.do?newsId=148945333&amp;pWiseKeyword=keywordNews</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVv-zXY4WMhw8Sx9QggrJub5vRqfSEYqDw3KeFd_dPXgM-X2EPZYFPoIhDoJ0</ht:news_item_picture>
 				<ht:news_item_source>대한민국 정책브리핑</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>예결소위, 배드뱅크 예산 합의…소비쿠폰·지역화폐는 이견 여전</ht:news_item_title>
+				<ht:news_item_title>폭증한 소비쿠폰, 13조8천억 전액 국비 지원…재정건전성 악화 우려</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.yna.co.kr/view/AKR20250702162100001</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXE7HtjXqQifE6QNreHmk6KmusJrF3FQqNJ04ULpJbkaTcxdcgipo1qhkuwqI</ht:news_item_picture>
-				<ht:news_item_source>연합뉴스</ht:news_item_source>
+				<ht:news_item_url>https://www.mk.co.kr/news/economy/11358285</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo7dMotATAA2kbwY8HoN5sXViiD8yVsXjoK3Fp4w0R7ttViPTQ2Qxq5WqvZA8</ht:news_item_picture>
+				<ht:news_item_source>매일경제</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
 				<ht:news_item_title>한동안 잠잠하더니 연일 &apos;불기둥&apos;…개미들 &apos;어리둥절&apos; [종목+]</ht:news_item_title>
@@ -75,213 +105,183 @@
 			</ht:news_item>
 		</item>
 		<item>
-			<title>에일리</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
+			<title>동아일보</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Wed, 2 Jul 2025 06:30:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTymxJAjsvvGxjrq2AAXO0rNePjLbptO0gvtHjiZTnqUyyqpHM9Eo5uF9SYpCk</ht:picture>
-			<ht:picture_source>미주한국일보</ht:picture_source>
+			<pubDate>Wed, 2 Jul 2025 15:20:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz0tws-Oq2G2grgcj7aiKlSYO3474oQA2dAaoBI6SGcleqWuky2bjsKc0SdzI</ht:picture>
+			<ht:picture_source>동아일보</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>‘한국의 비욘세·보컬 퀸’ 에일리 남가주 온다</ht:news_item_title>
+				<ht:news_item_title>[단독]美국무장관 이어 ‘미군 서열 1위’ 합참의장 내주 방한</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>http://www.koreatimes.com/article/1570891</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTymxJAjsvvGxjrq2AAXO0rNePjLbptO0gvtHjiZTnqUyyqpHM9Eo5uF9SYpCk</ht:news_item_picture>
-				<ht:news_item_source>미주한국일보</ht:news_item_source>
+				<ht:news_item_url>https://www.donga.com/news/Politics/article/all/20250703/131929717/2</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz0tws-Oq2G2grgcj7aiKlSYO3474oQA2dAaoBI6SGcleqWuky2bjsKc0SdzI</ht:news_item_picture>
+				<ht:news_item_source>동아일보</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>에일리, 8월 16일 페창가 리조트카지노서 단독 콘서트</ht:news_item_title>
+				<ht:news_item_title>한·미·일 합참의장 회의 다음주 개최…이재명 정부 들어 처음</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.koreadaily.com/article/20250701142911955</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxRVEpnBHfsyVOZclc3Wh-2hHLN6Oq54mawqAUH5ZdxyMyW4RXR7RGh1X4DAM</ht:news_item_picture>
-				<ht:news_item_source>미주중앙일보 | The Korea Daily</ht:news_item_source>
+				<ht:news_item_url>https://www.khan.co.kr/article/202507030843001</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvmQbvS0-9odU7aD0kzybnFafqh8G7UrfJx6l6m9sFQ3uzY1rOkZ_HYGE3rqo</ht:news_item_picture>
+				<ht:news_item_source>경향신문</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>에일리, 8월 16일 페창가서 단독 콘서트 개최 |</ht:news_item_title>
+				<ht:news_item_title>한미일 합참의장, 내주 서울서 만난다…북핵 대응 등 논의</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://heraldk.com/2025/07/01/%EC%97%90%EC%9D%BC%EB%A6%AC-8%EC%9B%94-16%EC%9D%BC-%ED%8E%98%EC%B0%BD%EA%B0%80%EC%84%9C-%EB%8B%A8%EB%8F%85-%EC%BD%98%EC%84%9C%ED%8A%B8-%EA%B0%9C%EC%B5%9C/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU3TxqtUVdqcPuDJoeP_nKOXhCO4mGUNKjQLQnQBjtu4CuLZGKuVOBMdzro9c</ht:news_item_picture>
-				<ht:news_item_source>HeraldK.com</ht:news_item_source>
+				<ht:news_item_url>https://www.yna.co.kr/view/AKR20250703015700504</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdUYVXMXdAPU3qtioCqoAM81n-jr6dq9GkRdS-DRm-r_7SG3O2AbGCafny1fM</ht:news_item_picture>
+				<ht:news_item_source>연합뉴스</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>테슬라</title>
-			<ht:approx_traffic>500+</ht:approx_traffic>
+			<title>사계의 봄</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Wed, 2 Jul 2025 06:30:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG9cXWPLxk2MT2RYF1FgvG7XuKj0D8jbl2k2F3QZVwYtO5tyaP3tjmxSqb9PI</ht:picture>
-			<ht:picture_source>조선일보</ht:picture_source>
+			<pubDate>Wed, 2 Jul 2025 15:00:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhxus1F1sLfZfPg4_vH5KB_J3znBuxtYboQN2nOn8NLK1PfSzSlKvGiuWihUQ</ht:picture>
+			<ht:picture_source>NATE</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>트럼프·머스크 갈등 심화...테슬라 주가 5.3% 하락</ht:news_item_title>
+				<ht:news_item_title>&apos;사계의 봄&apos; 김선민 &quot;밴드 음악 좋아해…이승협, 엔플라잉 콘서트 초대도&quot; [인터뷰②]</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.chosun.com/economy/auto/2025/07/02/DXWCDF4NXNG4BDPBPBRNAOI7EA/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG9cXWPLxk2MT2RYF1FgvG7XuKj0D8jbl2k2F3QZVwYtO5tyaP3tjmxSqb9PI</ht:news_item_picture>
+				<ht:news_item_url>https://news.nate.com/view/20250703n04552</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhxus1F1sLfZfPg4_vH5KB_J3znBuxtYboQN2nOn8NLK1PfSzSlKvGiuWihUQ</ht:news_item_picture>
+				<ht:news_item_source>NATE</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>‘사계의 봄’ 김선민 “작품 위해 10kg 감량, 감독님이 늘 &apos;많이 아프냐&apos;고” [인터뷰①]</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.chosun.com/entertainments/broadcast/2025/07/03/LFUJO2UFVVHDDBIB2W4V5F6XKI/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_b6Rfq9lRY0JBKOta-tCCmmtefEP2xTCHy5fqlca_sSqhK_GMx1T4NHF_Ke4</ht:news_item_picture>
 				<ht:news_item_source>조선일보</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>[엠빅뉴스] 어젯밤 서학 개미들 피눈물 흘린 이유?</ht:news_item_title>
+				<ht:news_item_title>&apos;사계의 봄&apos; 김선민 &quot;서강준 조언이 큰 도움…어깨 나란히 할 배우 될래요&quot; [엑&apos;s 인터뷰③]</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://imnews.imbc.com/original/mbig/6731531_29041.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCKoJyMovgl-y4PIrOV5FzWdHrdDqN4Z2KpdPNe7pFiuc54g68OpWIJP9V7GI</ht:news_item_picture>
+				<ht:news_item_url>https://www.xportsnews.com/article/2021569</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTn5x9tleny4o3tifiRZ4SetHLf4-ZpGkNLTkrRZbRdYAnRE-Q3P98je4waLu4</ht:news_item_picture>
+				<ht:news_item_source>엑스포츠뉴스</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>오늘날씨</title>
+			<ht:approx_traffic>1000+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Wed, 2 Jul 2025 14:50:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKfpkSgSg5pl0kyrCuSboimHLootIo6NUgwab_EgITu5u4qh2QKufCpTl0c3c</ht:picture>
+			<ht:picture_source>MBC 뉴스</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>[날씨] 역대 7월 상순 최고 더위‥폭염·열대야 언제까지?</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://imnews.imbc.com/replay/2025/nwdesk/article/6731587_36799.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKfpkSgSg5pl0kyrCuSboimHLootIo6NUgwab_EgITu5u4qh2QKufCpTl0c3c</ht:news_item_picture>
 				<ht:news_item_source>MBC 뉴스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>뉴욕증시 혼조 마감…다우 0.9% 상승</ht:news_item_title>
+				<ht:news_item_title>&quot;이게 한국이냐, 동남아냐&quot; 도망칠 곳이 없다</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.khan.co.kr/article/202507020724001</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRg0wKCF6CgFiorc16NAfPlUo2OkWjzjCxicEV64rpD2uwBpRJVKLaG1TRNr7w</ht:news_item_picture>
+				<ht:news_item_url>https://news.nate.com/view/20250703n04781</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRujW_P8BvIEhWWHa8_lyWxax3LHKSFVEWLdrzZJ5LFh3SCunPC8ZI589LMux8</ht:news_item_picture>
+				<ht:news_item_source>NATE</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>체감온도 33도 이상 무더위··· 전국 대부분 폭염특보</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.khan.co.kr/article/202507030723001</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRW2_bq8CAxdpXbxHWYJSXylieeg5QxyY7jh6Ssep2d9oPstyXXBWqqRM5Fprw</ht:news_item_picture>
 				<ht:news_item_source>경향신문</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>요케레스</title>
+			<title>instagram</title>
 			<ht:approx_traffic>100+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Wed, 2 Jul 2025 06:20:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV968ae3UQaaQtxnCWixOTsF6epkdpa92Obskxwd9XbE6Zrdg4Shp6hH8FgUQ</ht:picture>
-			<ht:picture_source>네이트 스포츠</ht:picture_source>
+			<pubDate>Wed, 2 Jul 2025 14:30:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRL2C0MxbBdoDrf1FDFbT-7upLK4Oxqc3IQaCbWOZRh2gfTFmfdxGdJm9XiC6s</ht:picture>
+			<ht:picture_source>People.com</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>&apos;한소희 닮은 모델여친+아스날 관심까지&apos; 다가진 스웨덴 국대는 누구?</ht:news_item_title>
+				<ht:news_item_title>Kylie Jenner Finally Follows Boyfriend Timothée Chalamet on Instagram After 2 Years of Dating</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://sports.news.nate.com/view/20250702n38964</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV968ae3UQaaQtxnCWixOTsF6epkdpa92Obskxwd9XbE6Zrdg4Shp6hH8FgUQ</ht:news_item_picture>
-				<ht:news_item_source>네이트 스포츠</ht:news_item_source>
+				<ht:news_item_url>https://people.com/kylie-jenner-finally-follows-boyfriend-timothee-chalamet-on-instagram-after-2-years-of-dating-11764956</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRL2C0MxbBdoDrf1FDFbT-7upLK4Oxqc3IQaCbWOZRh2gfTFmfdxGdJm9XiC6s</ht:news_item_picture>
+				<ht:news_item_source>People.com</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>아스널, 맨유 타깃 &apos;8000만 파운드 특급 공격수&apos; 영입 총력전 &apos;고급 협상→이미 5년 계약 합의&apos;</ht:news_item_title>
+				<ht:news_item_title>Kylie Jenner &amp; Timothée Chalamet’s Relationship Moves Forward With Instagram Move</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.chosun.com/sports/world-football/2025/07/02/LM2WEEZDWFLX3QOZXENJTF6LQE/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeIlFv1MFwRrjwj4Bt5StfIWc6u0UNuAR4HUvdkxF8OoctAOn0ph4Z1UEkdys</ht:news_item_picture>
+				<ht:news_item_url>https://www.yahoo.com/entertainment/articles/kylie-jenner-timoth-e-chalamet-121631448.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5QV4DpAgiQtqcTFFvTaSQXvwOZHYLBEpvREUvQWwucynhqpXUmTN7MpAbLxs</ht:news_item_picture>
+				<ht:news_item_source>Yahoo</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Kylie Jenner Subtly Takes the Next Step in Her Relationship With Timothée Chalamet</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.instyle.com/kylie-jenner-follows-timothee-chalamet-instagram-account-11765226</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMWBy3IoR8k9QVgeiHuHgKiBtT9RUGtFoRdJ0IsJ41XPhxWAhdW2ZyhyGSc54</ht:news_item_picture>
+				<ht:news_item_source>InStyle</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>테일러 프리츠</title>
+			<ht:approx_traffic>200+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Wed, 2 Jul 2025 14:20:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_OUSlEpGn5xkAchP6P58TwFoOFN9NDM37dbGxa0r80xBKmcZDZ8y61jLAA0U</ht:picture>
+			<ht:picture_source>테니스피플</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>윔블던에 강했던 미국 선수들</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>http://www.tennispeople.kr/news/articleView.html?idxno=17134</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_OUSlEpGn5xkAchP6P58TwFoOFN9NDM37dbGxa0r80xBKmcZDZ8y61jLAA0U</ht:news_item_picture>
+				<ht:news_item_source>테니스피플</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>윔블던에 출전한 미국대학 선수출신</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>http://www.tennispeople.kr/news/articleView.html?idxno=17106</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjp-2sn1paqICH_UTWs8OJoVC8XbbYF-wDW0OwyGWMIBuw2B5T6CAkAcZHVMI</ht:news_item_picture>
+				<ht:news_item_source>테니스피플</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>시속 246㎞… 잔디 코트서 더 위력적인 강서브</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.chosun.com/sports/sports_general/2025/07/02/VSBWRTFJIFABLBY4TNXQDEF52E/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrpEn7Fqa4cbQIocOwZtStX45nBGaPk3o084tRyi4JSXfB3VmZw5nB5FzYIVU</ht:news_item_picture>
 				<ht:news_item_source>조선일보</ht:news_item_source>
 			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>‘세계 1위’ 102경기-97득점 ST. 싸게 팝니다! 구단 회장 “바이아웃(1500억)보다 저렴하게 팔겠다”</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://sports.khan.co.kr/article/202506301622003</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQoozWOUOuyURXim6pgPI6m8Lk2mfwC2H9InlhjkGewnpMB6oZkMibu3VZS6Kk</ht:news_item_picture>
-				<ht:news_item_source>스포츠경향</ht:news_item_source>
-			</ht:news_item>
 		</item>
 		<item>
-			<title>tesla</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Wed, 2 Jul 2025 06:00:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGwuHwwmj45xjYywXAiVfk23qS5ea7ofgOCxLJGEMvC8LkGLKCvQIZ4HHrIfk</ht:picture>
-			<ht:picture_source>CNBC</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Tesla reports 14% decline in vehicle deliveries, marking second straight year-over-year drop</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.cnbc.com/2025/07/02/tesla-tsla-q2-2025-vehicle-delivery-and-production-numbers.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGwuHwwmj45xjYywXAiVfk23qS5ea7ofgOCxLJGEMvC8LkGLKCvQIZ4HHrIfk</ht:news_item_picture>
-				<ht:news_item_source>CNBC</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Tesla stock pops after Q2 vehicle production tops forecasts, deliveries fall 13% from year ago</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://finance.yahoo.com/news/tesla-stock-pops-after-q2-vehicle-production-tops-forecasts-deliveries-fall-13-from-year-ago-131904312.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSuW6JHjX6cKMgikGlo_an2qLiSTIHx1jrqLWJxxoruB8lcoquz-HZRjf8_3Y</ht:news_item_picture>
-				<ht:news_item_source>Yahoo Finance</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Tesla reports 13% drop in Q2 vehicle deliveries amid intensified competition - CHOSUNBIZ</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://biz.chosun.com/en/en-international/2025/07/02/LDSVTSGSARCE3EGOBN6X2E4QSU/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT39aDZrAAxkeDwlX2v3fFtYHNLcNTPlq7JBgsVq4EswCe5c4ZSoaPQvI0nhrQ</ht:news_item_picture>
-				<ht:news_item_source>Chosunbiz</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>테슬라 인도량</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Wed, 2 Jul 2025 05:40:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHsNpbjVji2i7i7PNyvesJ_Cc5gmEQfCHjwE_a0jnpnSkwkdOCipF-ZDx_384</ht:picture>
-			<ht:picture_source>연합뉴스</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>테슬라 2분기 차량 인도량 38만4천대…2개 분기 연속 감소</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.yna.co.kr/view/AKR20250702159700072</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHsNpbjVji2i7i7PNyvesJ_Cc5gmEQfCHjwE_a0jnpnSkwkdOCipF-ZDx_384</ht:news_item_picture>
-				<ht:news_item_source>연합뉴스</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>韓개미의 테슬라 사랑···급락에도 레버리지 베팅</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.mk.co.kr/news/stock/11357784</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPHaRcaAPyn7F6btv64rcMbyNYe-mNm1oJ9zkk6YycksDRfON6y9HXGPtPag0</ht:news_item_picture>
-				<ht:news_item_source>매일경제</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>2분기 글로벌 차량 인도량 감소…주가는 개장전↑</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://marketin.edaily.co.kr/News/ReadE?newsId=04847846642230584</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFuAjf_kNSAJxvboxkdDEpcralZ1IL9LWhynGfFR9gv2PP2wKW57-gjqndZ-Q</ht:news_item_picture>
-				<ht:news_item_source>마켓인</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>박찬형</title>
+			<title>파이코인 시세</title>
 			<ht:approx_traffic>100+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Wed, 2 Jul 2025 05:40:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6Y3B6miV2v2RYDwsEhrShPzJbHLXUVfMvE0HbJKNHChz_10Df4OHJu355paE</ht:picture>
-			<ht:picture_source>OSEN</ht:picture_source>
+			<pubDate>Wed, 2 Jul 2025 14:20:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSsmD5n_mR4eNcyg40e4Lc4igBQmx5_aCM2Z85hcc4nqXZrdkGnrRe6he9TTWY</ht:picture>
+			<ht:picture_source>Mitrade</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>[사진]넥스지 유키, &apos;청춘만화처럼</ht:news_item_title>
+				<ht:news_item_title>Pi Network Price Forecast: Largest token unlock in July risk further losses as Pi2Day falls flat</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>http://www.osen.co.kr/article/G1112604915</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6Y3B6miV2v2RYDwsEhrShPzJbHLXUVfMvE0HbJKNHChz_10Df4OHJu355paE</ht:news_item_picture>
-				<ht:news_item_source>OSEN</ht:news_item_source>
+				<ht:news_item_url>https://www.mitrade.com/kr/insights/crypto-analysis/crypto-news/fxstreet-BTCUSD-202507011705</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSsmD5n_mR4eNcyg40e4Lc4igBQmx5_aCM2Z85hcc4nqXZrdkGnrRe6he9TTWY</ht:news_item_picture>
+				<ht:news_item_source>Mitrade</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>[토토 투데이] 한국스포츠레저(주), 1일 공식 출범</ht:news_item_title>
+				<ht:news_item_title>파이코인 시세 0.4852달러…24시간 3.14% 하락</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>http://www.osen.co.kr/article/G1112604497</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTlQ7OsC1tfiKVVJsGFytuMYZhFIgTG6aFnIdWQCUcMAilix3F28DIpNEMo_Mw</ht:news_item_picture>
-				<ht:news_item_source>OSEN</ht:news_item_source>
+				<ht:news_item_url>https://www.job-post.co.kr/news/articleView.html?idxno=157662</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSyVlzLmnlYWC_sHYd_djUr2cE9VDYXRzoCLICDfagS8FccDnoFVEbBGZ-83pI</ht:news_item_picture>
+				<ht:news_item_source>잡포스트</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>[사진]소이현,&apos;단아한 순백 드레스&apos;</ht:news_item_title>
+				<ht:news_item_title>파이코인(PI), $0.50 회복하며 재상승 시동?</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.osen.co.kr/article/G1112604530</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwJC_FQM90PGdg6JqOi4d8eBr9vg8iQPMZsM08-Fj-nqq-sJF3m3Bjhy9REzM</ht:news_item_picture>
-				<ht:news_item_source>OSEN</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>이효리</title>
-			<ht:approx_traffic>500+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Wed, 2 Jul 2025 05:20:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSSMKLv4WJIK50mctgsnG1TltN7db2nUCxB7yNZB7fh4JFzhxBscKGQW6iZG2s</ht:picture>
-			<ht:picture_source>네이트 뉴스</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>이효리, 최초 눈물 고백 &quot;27년간 조마조마했다&quot; (유퀴즈)</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.nate.com/view/20250702n37237?mid=e1200</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSSMKLv4WJIK50mctgsnG1TltN7db2nUCxB7yNZB7fh4JFzhxBscKGQW6iZG2s</ht:news_item_picture>
-				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>이효리 &quot;남편이랑 싸우고 바닷가 질주…김윤아 &apos;고잉홈&apos;에 위로 받아&quot;</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.mt.co.kr/mtview.php?no=2025070222145943347</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_82h8TP7HjlAJbJ4MVI2YeO1cuFol2tB1dFe2QjSSZ1XJRKkULzPAnWR9-j4</ht:news_item_picture>
-				<ht:news_item_source>머니투데이</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>이효리, 유재석 첫인상 “쟤 뭐야?” (유퀴즈)</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://sports.khan.co.kr/article/202507022225003</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlF0OiW_i7_SDqbeDA4Z69UCdx2KL0C2jyTN3W5XYg8DMc8t4QVELqVEVcCqg</ht:news_item_picture>
-				<ht:news_item_source>스포츠경향</ht:news_item_source>
+				<ht:news_item_url>https://www.cbci.co.kr/news/articleView.html?idxno=507665</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc_x8-pLVR5HMaNhC2Ruv7_1N6Cdqq5XHp6Y_NAv7arJGwTH1ptC0BfMd6MdY</ht:news_item_picture>
+				<ht:news_item_source>CBC뉴스</ht:news_item_source>
 			</ht:news_item>
 		</item>
 	</channel>
