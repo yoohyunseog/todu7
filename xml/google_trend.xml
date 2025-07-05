@@ -6,78 +6,138 @@
 		<link>https://trends.google.com/trending/rss?geo=KR</link>
 		<atom:link href="https://trends.google.com/trending/rss?geo=KR" rel="self" type="application/rss+xml"/>
 		<item>
-			<title>면직</title>
-			<ht:approx_traffic>500+</ht:approx_traffic>
+			<title>김태술</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Fri, 4 Jul 2025 20:00:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTTYdihRJWA11pApgfNx72J4lx98iYvlly0FuYHXM9B6wboLwSqbA1hJ0jXB4</ht:picture>
-			<ht:picture_source>한겨레</ht:picture_source>
+			<pubDate>Fri, 4 Jul 2025 21:10:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSs66RcWtbTYtAHwVCpyTwsJvhRM9Z5aEW5MBTXExv0AsfRpcVW-4W6MfYr6u0</ht:picture>
+			<ht:picture_source>뉴시스</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>이 대통령, ‘안가 회동 참석’ 이완규 법제처장 면직 재가</ht:news_item_title>
+				<ht:news_item_title>박하나·김태술 혼수 갈등 &quot;이건 신혼 아닌 동거&quot;</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.hani.co.kr/arti/politics/bluehouse/1206423.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTTYdihRJWA11pApgfNx72J4lx98iYvlly0FuYHXM9B6wboLwSqbA1hJ0jXB4</ht:news_item_picture>
-				<ht:news_item_source>한겨레</ht:news_item_source>
+				<ht:news_item_url>https://www.newsis.com/view/NISX20250701_0003234367</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSs66RcWtbTYtAHwVCpyTwsJvhRM9Z5aEW5MBTXExv0AsfRpcVW-4W6MfYr6u0</ht:news_item_picture>
+				<ht:news_item_source>뉴시스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>[단독] 이재명 대통령, &apos;안가 회동&apos; 이완규 법제처장 면직</ht:news_item_title>
+				<ht:news_item_title>박하나♥김태술, 2층 복층 신혼 하우스 공개 &quot;앵무새 3마리와 함께&quot; (&apos;동상이몽2&apos;)</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://imnews.imbc.com/news/2025/politics/article/6732506_36711.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIKkbT4akJQWtsDaCSjXBWmApoxJoAJytedxto_bdZ2Ma0QMVHQV4aHlG3lmE</ht:news_item_picture>
-				<ht:news_item_source>MBC 뉴스</ht:news_item_source>
+				<ht:news_item_url>https://news.zum.com/articles/99255749/%EB%B0%95%ED%95%98%EB%82%98%EA%B9%80%ED%83%9C%EC%88%A0-2%EC%B8%B5-%EB%B3%B5%EC%B8%B5-%EC%8B%A0%ED%98%BC-%ED%95%98%EC%9A%B0%EC%8A%A4-%EA%B3%B5%EA%B0%9C-%EC%95%B5%EB%AC%B4%EC%83%88-3%EB%A7%88%EB%A6%AC%EC%99%80-%ED%95%A8%EA%BB%98-%EB%8F%99%EC%83%81%EC%9D%B4%EB%AA%BD2</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSoJ4k-gcj8XpnKxAgco65C2Cr89VZoEYbSwWJ0IP3W2V-yTUce7g8C0nxBVf4</ht:news_item_picture>
+				<ht:news_item_source>ZUM 뉴스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>이재명 대통령, ‘윤석열 측근·계엄 안가 회동’ 이완규 법제처장 면직안 재가</ht:news_item_title>
+				<ht:news_item_title>[포인트1분]&apos;동상이몽2&apos; 서장훈 &quot;누가 갔어도 힘들었을 자리&quot;…5개월만에 해임된 김태술 위로</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.mk.co.kr/economy/view/2025/476653</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNTvhXyUp3LiCuM0nRvKHCQcan1PlzpeSTfeGuzU-WsZdEi1VErjbPdmy5U8g</ht:news_item_picture>
-				<ht:news_item_source>매일경제</ht:news_item_source>
+				<ht:news_item_url>https://news.nate.com/view/20250701n05992</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa6fWtZHe37KLW7LS7yZ4ALj_eCcsgH3eK24Q1winmfat9jOyOtCmDKqbjYo8</ht:news_item_picture>
+				<ht:news_item_source>NATE</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>palmeiras đấu với chelsea</title>
+			<title>박하나</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Fri, 4 Jul 2025 21:10:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdEB1gcMZnHXtxJ6oHyfHFTG4PcNzsph9hKpk7X0alefvNhlUGq4jCZFYGglg</ht:picture>
+			<ht:picture_source>Chosunbiz</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>&apos;김태술♥&apos; 박하나, 블랙 브래지어 다 비치는 시스루 셔츠…과감한 새댁 - 조선비즈</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://biz.chosun.com/entertainment/tv/2025/07/03/MWFVK2QOOGXTEXHVUCUJRBTS5Y/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdEB1gcMZnHXtxJ6oHyfHFTG4PcNzsph9hKpk7X0alefvNhlUGq4jCZFYGglg</ht:news_item_picture>
+				<ht:news_item_source>Chosunbiz</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>[패션엔] 박하나, 파리 신혼 여행의 모든 것! 때론 섹시하게 때론 우아하게 신혼 여행룩</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://m.fashionn.com/board/read.php?table=style&amp;number=56830</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgxiYP2XbPgLKs86--sXVXRhT1fnARQrxFAsQ96eK4xYrnovQL7xaKi1-j-0c</ht:news_item_picture>
+				<ht:news_item_source>패션엔</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>韓 떠난 새신부 박하나, 우아美 가득한 셋업 포착…남편 ♥김태술 보고 싶겠어</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://news.nate.com/view/20250630n04639</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxcz4PV5L8c8Txip4cBqrgtm1-mylq_OGowjIPGv-tS8NU2aMdEc0JHCy8-sc</ht:news_item_picture>
+				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>이효리</title>
 			<ht:approx_traffic>200+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Fri, 4 Jul 2025 20:40:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDRpANzTaYWohstfkW-U8Rn2FuOvhWpDcu9sa-3RMCHg1-ZEABrTRKerS_Pxo</ht:picture>
+			<ht:picture_source>네이트 뉴스</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>도합 1000만원? 이효리, &apos;441만원 목걸이&apos; 취향 그대로…명품 민낯까지</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://news.nate.com/view/20250704n11336</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDRpANzTaYWohstfkW-U8Rn2FuOvhWpDcu9sa-3RMCHg1-ZEABrTRKerS_Pxo</ht:news_item_picture>
+				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>&quot;27년간 조마조마&quot;..&apos;톱스타&apos; 이효리의 눈물, 유재석 앞에서 울컥 [핫피플]</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.osen.co.kr/article/G1112605040</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQS9ZaC3qMoZrciknfsgOuEoXQ_tFimcikVg-BTRIigPVHTAsYhIeSw2IrgzXQ</ht:news_item_picture>
+				<ht:news_item_source>OSEN</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>슈퍼스타 이효리가 직접 걸레질을?..이상순 심쿵하게 만든 옥탑방 그날 [순간포착]</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.chosun.com/entertainments/broadcast/2025/07/03/D74JZGPEEFKKQRVYGGIPFK2CW4/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUjThtj39mxLJkq5a-2WgEYMnMTceLRWWXZuB7qWKIaDNVy2Arp7ekHM1rYEg</ht:news_item_picture>
+				<ht:news_item_source>조선일보</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>민생회복 소비쿠폰</title>
+			<ht:approx_traffic>2000+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
 			<pubDate>Fri, 4 Jul 2025 19:50:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ45LBvcjJcjfaotTnoiXSr8iikSsNeensLKS_IPNVozAcPvz8DFZkUlkVCFNE</ht:picture>
-			<ht:picture_source>Tin tức 24h</ht:picture_source>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsJnk8zPXCFGDvwRab0OJRcITYSjHvNJLs183jPK9iJPfn8wnrBP_boOB4G2U</ht:picture>
+			<ht:picture_source>조선일보</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>Video bóng đá Palmeiras - Chelsea: Hai siêu phẩm và một bàn phản lưới (FIFA Club World Cup)</ht:news_item_title>
+				<ht:news_item_title>‘1인당 15만원’ 전 국민 소비쿠폰 21일 지급 시작</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.24h.com.vn/bong-da/video-bong-da-palmeiras-chelsea-hai-sieu-pham-va-mot-ban-phan-luoi-fifa-club-world-cup-c48a1678423.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ45LBvcjJcjfaotTnoiXSr8iikSsNeensLKS_IPNVozAcPvz8DFZkUlkVCFNE</ht:news_item_picture>
-				<ht:news_item_source>Tin tức 24h</ht:news_item_source>
+				<ht:news_item_url>https://www.chosun.com/economy/economy_general/2025/07/05/QR4TFVXCOVBUBJT3WAP4N24GUE/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsJnk8zPXCFGDvwRab0OJRcITYSjHvNJLs183jPK9iJPfn8wnrBP_boOB4G2U</ht:news_item_picture>
+				<ht:news_item_source>조선일보</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Kết quả bóng đá FIFA Club World Cup 2025 ngày 5/7</ht:news_item_title>
+				<ht:news_item_title>국민의힘 “추경 강행, 나라 곳간 거덜 낸 ‘선거용 돈풀기’”</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://thethaovanhoa.vn/ket-qua-bong-da-fifa-club-world-cup-2025-ngay-5-7-20250704154147705.htm</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7Vae8yqzu5wMvQR2q0Pf7puRCinfVrL6NWecilQ27qQKF2Z2yCLUI4uBkCkI</ht:news_item_picture>
-				<ht:news_item_source>thethaovanhoa.vn</ht:news_item_source>
+				<ht:news_item_url>https://www.hani.co.kr/arti/politics/assembly/1206433.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMwdpVBCKn_nke6rDlxr-mFXVFOrlMYDvmmOaEubFYziY76K_REHQU5RoAkQE</ht:news_item_picture>
+				<ht:news_item_source>한겨레</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Palmeiras đấu Chelsea (8h): 74,8% cơ hội đi tiếp cho Chelsea</ht:news_item_title>
+				<ht:news_item_title>21일부터 전 국민 1인당 15만원 민생회복 소비쿠폰 지급…9월 2차 지급은 10만원</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://tuoitre.vn/palmeiras-dau-chelsea-8h-74-8-co-hoi-di-tiep-cho-chelsea-20250704130736646.htm</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjhHoSRTr2a5OIOyY7rRObn_UqeBAvrcBR8DKEJ-hmtXnIx5O5L1H62Vd3GSk</ht:news_item_picture>
-				<ht:news_item_source>Báo Tuổi Trẻ</ht:news_item_source>
+				<ht:news_item_url>https://www.khan.co.kr/article/202507051042001</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWZCF7lo6oghY0RA5HWlDonhoBvmmkB61uRJ16swcEdU7e6bCo86xBBGyiynY</ht:news_item_picture>
+				<ht:news_item_source>경향신문</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
 			<title>주앙 페드루</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
+			<ht:approx_traffic>200+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
 			<pubDate>Fri, 4 Jul 2025 19:50:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvFMS2g0AP1-MRqpuwysEiBTIIeEDN6UaChv9SRzxG8TT7fZb6979vgZp7NjM</ht:picture>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnI89bCZEa5CczDpbvsNSu1-JBCifzIKrvcmnba28103pgZ-mwyCEm1cytuwc</ht:picture>
 			<ht:picture_source>네이트 뉴스</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>첼시-도르트문트, 기튼스 이적 합의</ht:news_item_title>
+				<ht:news_item_title>한때 &apos;SON 대체자&apos;로 거론됐는데…첼시 &apos;제2의 산초&apos; 영입 확정! 도르트문트에 &apos;930억&apos; 지불 결심 [오피셜]</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.nate.com/view/20250704n08141</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvFMS2g0AP1-MRqpuwysEiBTIIeEDN6UaChv9SRzxG8TT7fZb6979vgZp7NjM</ht:news_item_picture>
+				<ht:news_item_url>https://sports.news.nate.com/view/20250704n32701</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnI89bCZEa5CczDpbvsNSu1-JBCifzIKrvcmnba28103pgZ-mwyCEm1cytuwc</ht:news_item_picture>
 				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
@@ -88,11 +148,41 @@
 				<ht:news_item_source>연합뉴스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>첼시, ‘1100억’ 투자한 페드루와 8년 장기 계약</ht:news_item_title>
+				<ht:news_item_title>기텐스, 첼시 이적 임박...최대 4200만 유로 규모 By Investing.com</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.munhwa.com/article/11516462</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRy1S0sm6y5787Hda4l8r1tHtF76nQD17yZnw4tAvG5qjEfeSFXIdAnILtaMHI</ht:news_item_picture>
-				<ht:news_item_source>문화일보</ht:news_item_source>
+				<ht:news_item_url>https://kr.investing.com/news/company-news/article-93CH-1538275</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSVAHQ_FrqJuSWyas0JtgaXTaPfVQA4ymwmu8U5SeaNVYiTUcKA2kw0L2ovVQ</ht:news_item_picture>
+				<ht:news_item_source>Investing.com 한국어</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>palmeiras đấu với chelsea</title>
+			<ht:approx_traffic>200+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Fri, 4 Jul 2025 19:50:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSOkOE37uxlKa_jxF_YTFjPbXNor3xUfnr8FtGjei-JJnoehRd7x1VubL6c3g</ht:picture>
+			<ht:picture_source>Tin tức 24h</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Trực tiếp bóng đá Palmeiras - Chelsea: Suýt có bàn thứ ba (FIFA Club World Cup) (Hết giờ)</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.24h.com.vn/bong-da/truc-tiep-bong-da-palmeiras-chelsea-tam-diem-estevao-dau-doi-bong-moi-fifa-club-world-cup-c48a1678347.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSOkOE37uxlKa_jxF_YTFjPbXNor3xUfnr8FtGjei-JJnoehRd7x1VubL6c3g</ht:news_item_picture>
+				<ht:news_item_source>Tin tức 24h</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Xác định trận bán kết đầu tiên của FIFA Club World Cup 2025</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://vtcnews.vn/xac-dinh-tran-ban-ket-dau-tien-cua-fifa-club-world-cup-2025-ar952837.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNI6j5ZTvKe6sHda6HI5XOEsR_A0nRObR0EsOWoqJCJ4s9NCTFS8a3KPsY7mQ</ht:news_item_picture>
+				<ht:news_item_source>Báo điện tử VTC News</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>‘Tiểu Messi’ ghi siêu phẩm, Palmeiras vẫn nhường vé bán kết cho Chelsea: Vì Palmer quá hay</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://thanhnien.vn/tieu-messi-ghi-sieu-pham-palmeiras-van-nhuong-ve-ban-ket-cho-chelsea-vi-palmer-qua-hay-185250705101348973.htm</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfm1hiSgGgWhFsVPewpDleYpiw4SzD232i6uAYFTP-9bI8IQ_Z_62Er-EpM9s</ht:news_item_picture>
+				<ht:news_item_source>Báo Thanh Niên</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -111,18 +201,18 @@
 				<ht:news_item_source>동아일보</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>K뷰티 푹 빠진 스칼렛 요한슨…출국 직전 명동 가서 또 화장품 쓸어담아</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.nate.com/view/20250704n18667</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKKdBFYAQvNbj2pJXv4AxTVwKUOnuNaEzXBliL8fI4zkBbwvmI8aq05TljcSo</ht:news_item_picture>
-				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
 				<ht:news_item_title>[주말극장가] 18만명 예매한 &apos;쥬라기 월드 4&apos; 1위 예약</ht:news_item_title>
 				<ht:news_item_snippet/>
 				<ht:news_item_url>https://www.yna.co.kr/view/AKR20250704039800005</ht:news_item_url>
 				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQX9fm6XoIk_3wD4OA4aWdH-TG5FsR1cB7ucpBlk-c_FLqZhHfDZgCzZkmVuoM</ht:news_item_picture>
 				<ht:news_item_source>연합뉴스</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>[개봉영화] 10년 만에 새 단장한 ‘쥬라기 월드4’…이번엔 식인 악어다 ‘블랙 크록’</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://news.kbs.co.kr/news/view.do?ncd=8295726</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjNaxn39ygOTBvb_oSqDorhLt5z1VsPQ3KqYhrl6jrqR3xiGRxxE6kIOIlVuo</ht:news_item_picture>
+				<ht:news_item_source>KBS 뉴스</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -141,10 +231,10 @@
 				<ht:news_item_source>SBS Biz</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>&quot;엄마~ 제발 좀 틀자&quot;···에어컨 하루 종일 켜두는 게 전기세 아끼는 방법?</ht:news_item_title>
+				<ht:news_item_title>에어컨 껐다 틀까, 계속 켜둘까?…전기요금 아끼는 여름 냉방법 [왕개미연구소]</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.nate.com/view/20250704n04888</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyG9aCp9lK5KvOq_z6zEpD86ABou-mvlPVjTGS7kKuybrSXfQX8kDWmPvtXCs</ht:news_item_picture>
+				<ht:news_item_url>https://news.nate.com/view/20250703n02425</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSgDQ6luzxtxO3zkzrrVlCEu1KX0jR0HX6VAfluj2bcTCWJsYl-7rHMqwXSNo</ht:news_item_picture>
 				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
@@ -156,153 +246,63 @@
 			</ht:news_item>
 		</item>
 		<item>
-			<title>msi 2025</title>
-			<ht:approx_traffic>500+</ht:approx_traffic>
+			<title>젠지 al</title>
+			<ht:approx_traffic>1000+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Fri, 4 Jul 2025 18:40:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTtcJmiz8LQCEo5CQE9UjgkZbh6GQiFjdRD1mQmuXM6maZCYlXd1CIyJRvoVh0</ht:picture>
-			<ht:picture_source>Esports Charts</ht:picture_source>
+			<pubDate>Fri, 4 Jul 2025 19:00:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT76rLcYxAq3cXrFFLLDA8C5O0Nlm33Stz0FU86Ik9Xjzi0k0Uju8waEw_aM7A</ht:picture>
+			<ht:picture_source>네이트 뉴스</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>T1&apos;s MSI 2025 Playoff debut helped the event set a new viewership record of 1.67M Peak Viewers</ht:news_item_title>
+				<ht:news_item_title>가능성 본 &apos;타잔&apos; 이승용 &quot;겁먹지 않고 계속 도전하겠다&quot; [쿠키인터뷰]</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://escharts.com/pt/news/mid-season-invitational-2025-playoffs-day3</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTtcJmiz8LQCEo5CQE9UjgkZbh6GQiFjdRD1mQmuXM6maZCYlXd1CIyJRvoVh0</ht:news_item_picture>
-				<ht:news_item_source>Esports Charts</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>T1 down CTBC Flying Oyster in LoL MSI bracket opener</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://fieldlevelmedia.com/esports/t1-down-ctbc-flying-oyster-in-lol-msi-bracket-opener/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQB1KYus1YyrRH6t6LrDAhuJ9zID_5db_0PCirPfFcv3x2bm1V8Zks7tQrpUXg</ht:news_item_picture>
-				<ht:news_item_source>Field Level Media</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>MSI 2025: Movistar KOI Versus Bilibili Gaming The East Destroys West Hope</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.yardbarker.com/video_games/articles/msi_2025_movistar_koi_versus_bilibili_gaming_the_east_destroys_west_hope/s1_17458_42412187</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVejXGlEeiBYwZbwO3_g2T7lZ7-TszYx8GkNIAlXeFfFkm1Y5yhYFZ79trJ9c</ht:news_item_picture>
-				<ht:news_item_source>Yardbarker</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>유</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Fri, 4 Jul 2025 18:30:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQINJ7B3o5zexjQt79naJSVFn4O8lxTxrpbo96KFGu5Ox6FuTl5VfA7-OWLKHQ</ht:picture>
-			<ht:picture_source>조선일보</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>필리핀서 14세 소녀와 동거하며 임신시킨 韓유튜버 체포</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.chosun.com/international/international_general/2025/07/05/7HQJOQ2AFBHTFAUHA2AOND4UIQ/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQINJ7B3o5zexjQt79naJSVFn4O8lxTxrpbo96KFGu5Ox6FuTl5VfA7-OWLKHQ</ht:news_item_picture>
-				<ht:news_item_source>조선일보</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>[단독]필리핀 여중생 임신시키고 출산까지… ‘공부방’ 홍보 한국인 유튜버 현지 체포</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.donga.com/news/Society/article/all/20250704/131943307/2</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzAoUrbGnqjDX6HBy0zqy2t98_DEr18GMY7e2M0IO5NA-Pe7EVLtdUogVdOSE</ht:news_item_picture>
-				<ht:news_item_source>동아일보</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>필리핀까지 가서 나라 망신…14세 임신시켜 체포된 유튜버</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.hankyung.com/article/2025070596317</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvpoofIBVWeiq0qRCI15xXvUJZgpvyDtsJKfr2RxDAE7nh4rbOfJ_UmmqGj9k</ht:news_item_picture>
-				<ht:news_item_source>한국경제</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>오존</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Fri, 4 Jul 2025 18:20:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkaL8WqP_OmiFIwq-5bcTX8tGcmsG66fzgwD_cXtN9hQ4hwLS6o5czVYMeVXE</ht:picture>
-			<ht:picture_source>조선일보</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>‘슈퍼스타K 출신’ 카더가든·잔나비 “방송 나오면 스타될 줄” 솔직 (‘라이브 와이어’)[종합]</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.chosun.com/entertainments/broadcast/2025/07/05/ZVW2XQFOFVVISAI5XZEB4M7AXQ/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkaL8WqP_OmiFIwq-5bcTX8tGcmsG66fzgwD_cXtN9hQ4hwLS6o5czVYMeVXE</ht:news_item_picture>
-				<ht:news_item_source>조선일보</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>잔나비-한로로, &apos;라이브 와이어&apos;서 선보인 완벽한 듀엣</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.nate.com/view/20250704n12581</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT78yoCzGvsp1f75Da4O8pZB0E68tqP2Uvm6oy_jRDrjHrno5xIdBXbiZdWbUk</ht:news_item_picture>
+				<ht:news_item_url>https://m.news.nate.com/view/20250705n06388</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT76rLcYxAq3cXrFFLLDA8C5O0Nlm33Stz0FU86Ik9Xjzi0k0Uju8waEw_aM7A</ht:news_item_picture>
 				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>잔나비, 에스파 카리나 대신 한로로와 입맞춤 &quot;제2의 자우림&quot; 극찬 (라이브 와이어)</ht:news_item_title>
+				<ht:news_item_title>[MSI] 젠지, 중국의 AL 물리치며 2연속 결승 진출에 1경기 남아</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.koreadaily.com/article/20250703175215220</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxCjeOpAkWA5VKxbNk3Ecwa2p9k-l6-VLqo3VTXJBu354602CyrYKYnjNBczc</ht:news_item_picture>
-				<ht:news_item_source>미주중앙일보 The Korea Daily</ht:news_item_source>
+				<ht:news_item_url>https://www.chosun.com/sports/sports_general/2025/07/05/KJK3JZLCSKCJUXRMOECRU25AB4/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvyBGzvkhBiA-3bosNmXpwCz13fgcYS9ioy52Ng0re4kOuJPuiEFGglhxnatA</ht:news_item_picture>
+				<ht:news_item_source>조선일보</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>“교전에서 승패 갈렸다”…‘기인’ 김기인이 복기하는 AL전</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.kmib.co.kr/article/view.asp?arcid=0028353595</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQa_PV2v1RhXyb3uVdBNbJfKNhRqus5k6Bv6JyVCLuSSyleGb1HVj_ZRDgt6v8</ht:news_item_picture>
+				<ht:news_item_source>국민일보</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>dazn</title>
+			<title>이완규</title>
 			<ht:approx_traffic>200+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Fri, 4 Jul 2025 18:10:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNaKtFhyEqUp8D-8r2KtDb3HMIp5NjYkGxaKHbcppouHU76RiuyBEeQjG-_UQ</ht:picture>
-			<ht:picture_source>SportsPro</ht:picture_source>
+			<pubDate>Fri, 4 Jul 2025 19:00:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIKkbT4akJQWtsDaCSjXBWmApoxJoAJytedxto_bdZ2Ma0QMVHQV4aHlG3lmE</ht:picture>
+			<ht:picture_source>MBC 뉴스</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>DAZN strikes deal to broadcast Serie A in UK and US</ht:news_item_title>
+				<ht:news_item_title>[단독] 이재명 대통령, &apos;안가 회동&apos; 이완규 법제처장 면직</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.sportspro.com/news/serie-a-dazn-uk-ireland-us-rights-deal-july-2025/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNaKtFhyEqUp8D-8r2KtDb3HMIp5NjYkGxaKHbcppouHU76RiuyBEeQjG-_UQ</ht:news_item_picture>
-				<ht:news_item_source>SportsPro</ht:news_item_source>
+				<ht:news_item_url>https://imnews.imbc.com/news/2025/politics/article/6732506_36711.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIKkbT4akJQWtsDaCSjXBWmApoxJoAJytedxto_bdZ2Ma0QMVHQV4aHlG3lmE</ht:news_item_picture>
+				<ht:news_item_source>MBC 뉴스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Official: DAZN acquires rights to broadcast Serie A in the UK &amp; Ireland for 2025-26</ht:news_item_title>
+				<ht:news_item_title>이 대통령, ‘안가 회동 참석’ 이완규 법제처장 면직 재가</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://sempremilan.com/official-dazn-rights-serie-a-uk-ireland</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoWZeFVmGNJ27sABFfNzgmOESJqAdpqLfHRKJg6Y8_zrQvJ5QwCpB2XNAB0l4</ht:news_item_picture>
-				<ht:news_item_source>SempreMilan</ht:news_item_source>
+				<ht:news_item_url>https://www.hani.co.kr/arti/politics/bluehouse/1206423.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTTYdihRJWA11pApgfNx72J4lx98iYvlly0FuYHXM9B6wboLwSqbA1hJ0jXB4</ht:news_item_picture>
+				<ht:news_item_source>한겨레</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>How to watch every Serie A match in 2025-26 in UK, Ireland and USA</ht:news_item_title>
+				<ht:news_item_title>이 대통령, 불법계엄 다음날 ‘안가회동’ 이완규 법제처장 면직</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://sports.yahoo.com/article/watch-every-serie-match-2025-121000329.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCxZEZs2VRoJJBcmpNQifv5Eoe2tX8APyIhoEUCj-r9FqlzzrYeAmnrnIXUfU</ht:news_item_picture>
-				<ht:news_item_source>Yahoo Sports</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>julian mcmahon</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Fri, 4 Jul 2025 18:00:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlkczS4VkLxYS2Y4WTe7wtOTfUO426tCtqrspkDBtIIglfk6CEew_E0zVCoVM</ht:picture>
-			<ht:picture_source>Deadline</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Julian McMahon Dies: ‘Nip/Tuck’, ‘Fantastic Four’, ‘FBI: Most Wanted’ Star Was 56</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://deadline.com/2025/07/julian-mcmahon-dead-1236449999/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlkczS4VkLxYS2Y4WTe7wtOTfUO426tCtqrspkDBtIIglfk6CEew_E0zVCoVM</ht:news_item_picture>
-				<ht:news_item_source>Deadline</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Julian McMahon, Fantastic Four, Nip/Tuck and Charmed actor, dies aged 56</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.theguardian.com/film/2025/jul/05/julian-mcmahon-dies-aged-56-cause-of-death-fantastic-four-niptuck-charmed</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRovBzg3k_47TkUbAwP6HQO0VSzRnE6DV44Yf8VQmmaZ8GejsN9fhmEiJ2sMQM</ht:news_item_picture>
-				<ht:news_item_source>The Guardian</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Australian actor Julian McMahon dies aged 56</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.abc.net.au/news/2025-07-05/julian-mcmahon-dies-charmed-nip-tuck-the-surfer-home-and-away/105497846</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS19RVUvbolO3xFSE4rBzCf4zH-t5Wna__YL_hbdu5cP9zFEPzx2wyf0A80Ou4</ht:news_item_picture>
-				<ht:news_item_source>Australian Broadcasting Corporation</ht:news_item_source>
+				<ht:news_item_url>https://www.khan.co.kr/article/202507051035001</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSw0KpFNnzzIb7XgL7f-ygA0yMZ8wKAtJ3b0pOXoZ51ChumS8TkcJ6B4jrl1rw</ht:news_item_picture>
+				<ht:news_item_source>경향신문</ht:news_item_source>
 			</ht:news_item>
 		</item>
 	</channel>
