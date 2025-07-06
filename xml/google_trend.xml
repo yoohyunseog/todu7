@@ -51,18 +51,18 @@
 				<ht:news_item_source>Texas Public Radio | TPR</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Live Updates: More Flooding Looms as Searchers Scramble to Find Missing</ht:news_item_title>
+				<ht:news_item_title>&apos;Best friends&apos; from Highland Park among those killed in Texas flooding</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.nytimes.com/live/2025/07/06/us/texas-floods</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtaD3uuusMb7b0goMfIjQsLaAhhQ0ZDK1GxpK9jCLsw9Ig3lGx-WVtEF6xiEs</ht:news_item_picture>
-				<ht:news_item_source>The New York Times</ht:news_item_source>
+				<ht:news_item_url>https://www.fox4news.com/news/texas-flooding-highland-park-lila-bonner</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfbZXp7x1fKSRRrscmk23LfnWg_wg4AphwRikmFE9tlGaCrIdNOiQVDVqWH18</ht:news_item_picture>
+				<ht:news_item_source>FOX 4 News Dallas-Fort Worth</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>How weather conditions set the stage for the deadly Texas flash floods</ht:news_item_title>
+				<ht:news_item_title>Texas Lt. Gov. Dan Patrick says flash flood alerts went out — but not everyone got them</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://apnews.com/article/texas-flash-flood-hill-country-climate-change-6f16e4c4413c3795094553269f059120</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYGWv9_woKX-bR0XC1N3fdRmlvQdPNlJgx6uuH-OUDTgNLs3uBOafWdI_zt5I</ht:news_item_picture>
-				<ht:news_item_source>AP News</ht:news_item_source>
+				<ht:news_item_url>https://nypost.com/2025/07/06/us-news/texas-lt-gov-dan-patrick-says-flash-flood-alerts-went-out-but-not-everyone-got-them/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRX1PshFVu_h4ZC-lINIFdjxTMw3R55L-02ib1nJTqFSyNVm6tvfwYMISMsWOo</ht:news_item_picture>
+				<ht:news_item_source>New York Post</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -96,6 +96,36 @@
 			</ht:news_item>
 		</item>
 		<item>
+			<title>스타벅스</title>
+			<ht:approx_traffic>500+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Sun, 6 Jul 2025 14:50:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9aOxlpA0aU2nCZ3XJh-yLkJ1mFtD9enHHCUKypeHvEciMBTamHl7ftEodwls</ht:picture>
+			<ht:picture_source>매일경제</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>민생지원금 21일부터 신청…주소지에서만 쓸수있어</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.mk.co.kr/news/society/11360952</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9aOxlpA0aU2nCZ3XJh-yLkJ1mFtD9enHHCUKypeHvEciMBTamHl7ftEodwls</ht:news_item_picture>
+				<ht:news_item_source>매일경제</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>전 국민에 &apos;민생회복 소비쿠폰&apos; 15만 원~45만 원 지급…7월 21일부터</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.korea.kr/news/policyNewsView.do?newsId=148945532</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvC8SCSAMDFIXkzrsRG5YvMBw8nsAz8_On6kQktfYmAdKw51E4e2j6BRd5z8o</ht:news_item_picture>
+				<ht:news_item_source>정책브리핑</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>소비쿠폰, 쿠팡·스벅선 &apos;불가&apos; 배민 조건부 적용…11월까지 안 쓰면 ‘환수’</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.khan.co.kr/article/202507062104005</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQrkzS0IBifztX48_taT-GSzJmlrInAFXq9hYn50vBVy06o8ibWLL-dBB7qSlk</ht:news_item_picture>
+				<ht:news_item_source>경향신문</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
 			<title>이민기</title>
 			<ht:approx_traffic>100+</ht:approx_traffic>
 			<description/>
@@ -118,11 +148,11 @@
 				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>“이건 그냥 살인이야”…자비vs살인 티저’ 공개(메리 킬즈 피플)</ht:news_item_title>
+				<ht:news_item_title>&apos;메리 킬즈 피플&apos; 이민기, 시한부 말기 암 환자로 변신</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://sports.donga.com/ent/article/all/20250704/131938033/1</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0Vw8Q6LWhFzPjQA9G3ZF1Tkysp0UvP6s5pb2c3DMNPky_YfFl4eDPJ1Yz6VE</ht:news_item_picture>
-				<ht:news_item_source>스포츠동아</ht:news_item_source>
+				<ht:news_item_url>https://m.tf.co.kr/read/entertain/2220568.htm?appmode=android_enliple</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT00odn_EihJIyssMe7917X6xTYzXQWKtPzbmN0ZretsAhqheTm5ObNdr-BV10</ht:news_item_picture>
+				<ht:news_item_source>더팩트</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -131,22 +161,8 @@
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
 			<pubDate>Sun, 6 Jul 2025 14:20:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBb8TTEHckjzDkw3AOksD5wjOUMcvvwKJ-P1obrpzLDb_UzGzNhUoXBioelV8</ht:picture>
-			<ht:picture_source>네이트 뉴스</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>&quot;이번주 더 뜨겁다&quot;…찜통더위 몰고 오는 태풍 &apos;다나스&apos;</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.nate.com/view/20250707n02220</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBb8TTEHckjzDkw3AOksD5wjOUMcvvwKJ-P1obrpzLDb_UzGzNhUoXBioelV8</ht:news_item_picture>
-				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>중국 향하는 태풍, 폭염 강화…서울 화요일 36도</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.yna.co.kr/view/MYH20250706004800038</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkpjnzPAEDB5wm_3uTUJm-4H8w379fJxFBi9oW3-BxHlyiokSxacyumFU1ahU</ht:news_item_picture>
-				<ht:news_item_source>연합뉴스</ht:news_item_source>
-			</ht:news_item>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpZ9HkpIBiL_lCjmoJfOeffhKjPt1QXucK537rc8_63bnO3ed3rtvCf2EyVGc</ht:picture>
+			<ht:picture_source>동아일보</ht:picture_source>
 			<ht:news_item>
 				<ht:news_item_title>4호 태풍 ‘다나스’ 발생…中 지나 한반도 폭염 특보</ht:news_item_title>
 				<ht:news_item_snippet/>
@@ -154,35 +170,19 @@
 				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpZ9HkpIBiL_lCjmoJfOeffhKjPt1QXucK537rc8_63bnO3ed3rtvCf2EyVGc</ht:news_item_picture>
 				<ht:news_item_source>동아일보</ht:news_item_source>
 			</ht:news_item>
-		</item>
-		<item>
-			<title>일기예보</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Sun, 6 Jul 2025 14:10:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRf8JfPJGaz7SeK62fPQsjBCv0C-PO3MdvHmm2Znju3UKsX3PtmaS528sT23Xg</ht:picture>
-			<ht:picture_source>조선일보</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>밤에도 식지 않는 광안리</ht:news_item_title>
+				<ht:news_item_title>중국 향하는 태풍 &apos;다나스&apos;…우리나라 폭염 부채질</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.chosun.com/national/national_general/2025/07/07/ZZX7N5GQVNEP7E4XICEISXRLNA/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRf8JfPJGaz7SeK62fPQsjBCv0C-PO3MdvHmm2Znju3UKsX3PtmaS528sT23Xg</ht:news_item_picture>
-				<ht:news_item_source>조선일보</ht:news_item_source>
+				<ht:news_item_url>https://news.nate.com/view/20250707n02755</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYdWISu1s_kLT-H7L6Vy8j82WzSDDDef4gdsMclWybS-zNzeNkdanxLnMKWVM</ht:news_item_picture>
+				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>부산·울산·경남 대체로 맑음…낮 최고 32∼37도</ht:news_item_title>
+				<ht:news_item_title>[일요와이드] 휴일 체감 35도 찜통더위…밤에는 열대야 기승</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.yna.co.kr/view/AKR20250707005000057</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBLKJFtGuZL9E8nC7qo9m9yFxrkY2sOGYcbjkgr24yDv_MhQWNdbybdCIxxYA</ht:news_item_picture>
+				<ht:news_item_url>https://www.yna.co.kr/view/MYH20250706001200038</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREOLdE7MsQ4XPBFXc8628QV6WeXQ4Sb_orBK-loU1Umip_Q-6Y7r3IBeb2iQk</ht:news_item_picture>
 				<ht:news_item_source>연합뉴스</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>[오늘의 날씨] 부산·경남(7일, 월)…평년보다 기온↑·낮 최고 36도</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.news1.kr/local/busan-gyeongnam/5836858</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6MPXtkbxVmBrrzTWZtl9woZWGf-Mi2PZjmCv8hcEZTr_6JdPu1pPIRauBTaE</ht:news_item_picture>
-				<ht:news_item_source>뉴스1</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -201,18 +201,18 @@
 				<ht:news_item_source>조선일보</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>김혜성, 첫 6번 타자 출전·호수비‥팀은 3연패 수렁</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://imnews.imbc.com/news/2025/sports/article/6732901_36751.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVRbLPp9T1LHN7ay0cKKjhUBiLmNghIKRH_wLUzRdQNnWQIfLDxarM-M69ypw</ht:news_item_picture>
-				<ht:news_item_source>MBC 뉴스</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
 				<ht:news_item_title>4경기 만에 선발 나선 김혜성, 환상적인 호수비에 안타도</ht:news_item_title>
 				<ht:news_item_snippet/>
 				<ht:news_item_url>https://www.yna.co.kr/view/AKR20250707016400007</ht:news_item_url>
 				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSa_E_Fznh5rP4R8MP_-_QqxACLcCRBTXkeLfakYop39TrBKH5NlwsBNIFquwg</ht:news_item_picture>
 				<ht:news_item_source>연합뉴스</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>시즌 첫 &apos;6번 출전&apos; 김혜성, 휴스턴전 1안타…다저스 1-5 패배</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.news1.kr/sports/overseas-baseball/5837020</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFUXl2BRUcaSKpfN45_zG4kqphOAkinkBpQqQmKW5qmV9Z-ie3ybWokyqHOOg</ht:news_item_picture>
+				<ht:news_item_source>뉴스1</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -268,11 +268,11 @@
 				<ht:news_item_source>MBC 뉴스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>텍사스 기습 폭우, ‘100년 서머캠프’ 덮쳐… 52명 사망-27명 실종</ht:news_item_title>
+				<ht:news_item_title>미 텍사스 홍수 사망자 80명으로 늘어···트럼프, 재난지역 선포</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.donga.com/news/Inter/article/all/20250706/131948595/2</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaTsLgAoBI_2ROlOqpRxCeqKXBMpvhFwpicAWhpBGNbl2eI8MkwFysHqPlPdw</ht:news_item_picture>
-				<ht:news_item_source>동아일보</ht:news_item_source>
+				<ht:news_item_url>https://www.khan.co.kr/article/202507070806001</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHL1qfnR5hbTpGEYPYRFphGLWhzZeMa01RiIUDJHctXrvbPE89LQg6mJowN2k</ht:news_item_picture>
+				<ht:news_item_source>경향신문</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
