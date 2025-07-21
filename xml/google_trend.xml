@@ -6,261 +6,303 @@
 		<link>https://trends.google.com/trending/rss?geo=KR</link>
 		<atom:link href="https://trends.google.com/trending/rss?geo=KR" rel="self" type="application/rss+xml"/>
 		<item>
-			<title>솔라나</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
+			<title>구리시장</title>
+			<ht:approx_traffic>1000+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Sun, 20 Jul 2025 21:10:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCwLwkEnMm7TL1cGNeWaOVjSY-edYIWiKuNp5j6soow2ThNCuo7Tcc3_rDIdg</ht:picture>
-			<ht:picture_source>bloomingbit</ht:picture_source>
+			<pubDate>Mon, 21 Jul 2025 03:50:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC6OVOqJTCieT0PIh63UMfw_Xt7edGrPYFj8QyR6ZLzDg2W63SqBXd6tb00wU</ht:picture>
+			<ht:picture_source>한겨레</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>&quot;가상자산 파생상품 시장, 펀딩비 0.01% 근접…중립 흐름 회귀&quot;</ht:news_item_title>
+				<ht:news_item_title>구리시장 “폭우 피해 제보 바란다” 문자 보내고, 강원도로 야유회</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://bloomingbit.io/feed/news/93184</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCwLwkEnMm7TL1cGNeWaOVjSY-edYIWiKuNp5j6soow2ThNCuo7Tcc3_rDIdg</ht:news_item_picture>
-				<ht:news_item_source>bloomingbit</ht:news_item_source>
+				<ht:news_item_url>https://www.hani.co.kr/arti/area/capital/1209216.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC6OVOqJTCieT0PIh63UMfw_Xt7edGrPYFj8QyR6ZLzDg2W63SqBXd6tb00wU</ht:news_item_picture>
+				<ht:news_item_source>한겨레</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>솔라나, 올해 RWA 성장률서 이더리움 추월</ht:news_item_title>
+				<ht:news_item_title>늪지가 택지로, 거친 강이 도시의 숨이 되는 ‘구리 왕숙천’ 이야기</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.digitaltoday.co.kr/news/articleView.html?idxno=577844</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeEZceRh2lpokvEVZ5xjubCNGFvC8dl_IZWdwra3c_dYyPQSlR4o-y7PyR2OU</ht:news_item_picture>
-				<ht:news_item_source>디지털투데이</ht:news_item_source>
+				<ht:news_item_url>https://www.kyeongin.com/article/1746647</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbr9UQ9KpklUaNsETA7vxyiNs6ReAPUlEiPtS7P60YFg_1lmMuer_Wp9QJ_mk</ht:news_item_picture>
+				<ht:news_item_source>경인일보</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>[이시각] 솔라나(SOL), 25만원 저항선 앞에서 숨 고르기?…밈코인 움직임에도 주목</ht:news_item_title>
+				<ht:news_item_title>[단독] 홍수로 비상인데 &apos;덩실덩실&apos;…구리시장 영상 보니</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.cbci.co.kr/news/articleView.html?idxno=509225</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQK7WyzVLab1ULzE35Jx_fDOO2GQ_vqd1qMiny-0-Hm_G1w6qITfvYaUNs6soE</ht:news_item_picture>
-				<ht:news_item_source>CBC뉴스</ht:news_item_source>
+				<ht:news_item_url>https://news.sbs.co.kr/news/endPage.do?news_id=N1008186615</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRR2ClkdFd3zkUhMLJ5z8603lidX65TZCi9mKzHE-7lSixkLeJeyu3DOI7uQuM</ht:news_item_picture>
+				<ht:news_item_source>SBS 뉴스</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>이스타항공</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Sun, 20 Jul 2025 21:10:00 -0700</pubDate>
-			<ht:picture/>
-			<ht:picture_source/>
-		</item>
-		<item>
-			<title>경동대학교</title>
-			<ht:approx_traffic>500+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Sun, 20 Jul 2025 20:50:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTI-duatEiv0Jzy1FV6QmazRXtYEe-Hc2P6OWojzrL54sYrTzpeq4kEvJz-Pyw</ht:picture>
-			<ht:picture_source>인천일보</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>권오만 경동대 교수, 전통사찰 인문 보고서 출간</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.incheonilbo.com/news/articleView.html?idxno=1296797</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTI-duatEiv0Jzy1FV6QmazRXtYEe-Hc2P6OWojzrL54sYrTzpeq4kEvJz-Pyw</ht:news_item_picture>
-				<ht:news_item_source>인천일보</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>천년을 지켜온 사찰 공간과 건축의 비밀</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>http://www.munhaknews.com/news/articleView.html?idxno=80941</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxaHq6hgi4Mkv1_Ufz_8xiEWc0JeHEjlVl__SGlrsl5VWzwnjhq9Mm4cxz1nY</ht:news_item_picture>
-				<ht:news_item_source>문학뉴스</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>[CHECK 책] 전통 사찰의 건축 기술과 공간 철학의 숨겨진 매력</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.unn.net/news/articleView.html?idxno=581529</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyPQndFxDTuyucOUTwaYy0NOf4BMWb8AnvFKxPFHtxq0xCrVaYF-HXbrdRO50</ht:news_item_picture>
-				<ht:news_item_source>한국대학신문</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>전입신고</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Sun, 20 Jul 2025 20:40:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTl6RUyzXgQIA2sPCwdFBRTgkt_OK6DMtBSeWEA_8w1J9Dmdit0Xl014dpR2pg</ht:picture>
-			<ht:picture_source>연합뉴스</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>전북도지사 등 &quot;전주·완주 상생안, 통합시 설치법에 명문화&quot;(종합)</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.yna.co.kr/view/AKR20250721050351055</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTl6RUyzXgQIA2sPCwdFBRTgkt_OK6DMtBSeWEA_8w1J9Dmdit0Xl014dpR2pg</ht:news_item_picture>
-				<ht:news_item_source>연합뉴스</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>&quot;앞으로 100년 봐야&quot;…정동영, &apos;통합 반대&apos; 안호영에 훈수</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.newsis.com/view/NISX20250721_0003259754</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfWg9Msq_EbyyJFu7oNoJgL9idCbDgGIg6A1IDTUwuhPzZNmvf9M04EhAaAWw</ht:news_item_picture>
-				<ht:news_item_source>뉴시스</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>완주로 거처 옮긴 김관영 전북지사…반발 속 전입 신고 마쳐</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.jjan.kr/article/20250721580074</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwaVkhMWrQSGbvgQbB4wtQWX4EpwfobzwcHNPikubLzAr7u9peeWBtl5Yq08c</ht:news_item_picture>
-				<ht:news_item_source>전북일보 인터넷신문</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>단통법 폐지</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Sun, 20 Jul 2025 20:30:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjZ4I5BBsOIrLydrKWM5OlSKeYPgF5U2h0lb-YJ7mNRtdO3kFzM0YUBzDrQQ8</ht:picture>
-			<ht:picture_source>지디넷코리아</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>25% 요금할인 받고...단통법 제한받던 매장 보조금도 받는다</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://zdnet.co.kr/view/?no=20250720103923</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjZ4I5BBsOIrLydrKWM5OlSKeYPgF5U2h0lb-YJ7mNRtdO3kFzM0YUBzDrQQ8</ht:news_item_picture>
-				<ht:news_item_source>지디넷코리아</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>‘공짜폰’ 쏟아진다? 단통법 종말, 전문가 “이론상 충분히 가능&quot;</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.ytn.co.kr/_ln/0103_202507211111359057</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRowOJKJDIiSeskby39s-Adve_MHbdRIeYYfAo_fL4uYs8rUtlcrVdhmEdmwn8</ht:news_item_picture>
-				<ht:news_item_source>YTN</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>단통법, 내일 폐지되는데…식물 방통위 탓 ‘혼탁 방지법’ 없이 시행</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.khan.co.kr/article/202507210600025</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnu78RAj5IjRu506MhOImyM1sdHtUDSNdm_LicPk7NtAfm8Ko-eZbrOToLHqw</ht:news_item_picture>
-				<ht:news_item_source>경향신문</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>장혜진</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Sun, 20 Jul 2025 20:20:00 -0700</pubDate>
-			<ht:picture/>
-			<ht:picture_source/>
-		</item>
-		<item>
-			<title>가평 산사태</title>
+			<title>don&apos;t tap the glass</title>
 			<ht:approx_traffic>200+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Sun, 20 Jul 2025 20:00:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6Heb073wJSU-q2OSFsK7KFsgp33x73fTPc5fM_-yEcBpVPvfl4Zv9sSxTswc</ht:picture>
-			<ht:picture_source>경향신문</ht:picture_source>
+			<pubDate>Mon, 21 Jul 2025 03:20:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_RFLQTnZUaEMUp9skmN5rDd_z4wEsR1QAaU60Vxcz9kcbHclh-2B6TTSkbuc</ht:picture>
+			<ht:picture_source>Pitchfork</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>지구온난화로 달궈진 한반도 남쪽 바다, ‘괴물 폭우’ 몰고 왔다</ht:news_item_title>
+				<ht:news_item_title>Tyler, the Creator Releases New Album Don’t Tap The Glass : Listen</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.khan.co.kr/article/202507210600035</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6Heb073wJSU-q2OSFsK7KFsgp33x73fTPc5fM_-yEcBpVPvfl4Zv9sSxTswc</ht:news_item_picture>
-				<ht:news_item_source>경향신문</ht:news_item_source>
+				<ht:news_item_url>https://pitchfork.com/news/tyler-the-creator-releases-new-album-dont-tap-the-glass-listen/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_RFLQTnZUaEMUp9skmN5rDd_z4wEsR1QAaU60Vxcz9kcbHclh-2B6TTSkbuc</ht:news_item_picture>
+				<ht:news_item_source>Pitchfork</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>[르포] 수마 할퀸 가평…더딘 복구에 실종자 수색도 난항</ht:news_item_title>
+				<ht:news_item_title>Tyler, the Creator Reveals New Album ‘Don’t Tap the Glass’ Will Release on Monday</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.yna.co.kr/view/AKR20250721078800060</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwBddBSXGfX0Z7XYyWQeq9GQnjeEfbgb6BelEVuhPRngdNq60J7yRPb5DWhek</ht:news_item_picture>
-				<ht:news_item_source>연합뉴스</ht:news_item_source>
+				<ht:news_item_url>https://variety.com/2025/music/news/tyler-the-creator-announces-new-album-dont-tap-the-glass-1236465092/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSF_vAsWFN6UeJi7ZXq6N3J-0V-TL2tN1xE1Yz6WVPPBT1Mp_ATZgHN7Vl1aRw</ht:news_item_picture>
+				<ht:news_item_source>Variety</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>산사태에 인명피해 속출‥2명 사망·5명 실종</ht:news_item_title>
+				<ht:news_item_title>Tyler, The Creator Explains Urgency Behind ‘Don’t Tap The Glass’ LP in Note to Fans: ‘This Album Was Not Made For Sitting Still’</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://imnews.imbc.com/replay/2025/nwtoday/article/6737664_36807.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpBlBeGsnY3dgL1DvJpcrPt9EOOVURyWdGs23tgeNbav_D9vdZ0iHR1IEBDK8</ht:news_item_picture>
-				<ht:news_item_source>MBC 뉴스</ht:news_item_source>
+				<ht:news_item_url>https://www.yahoo.com/entertainment/articles/tyler-creator-explains-urgency-behind-115545054.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrbKWAZWM1iabDZ4VkS3_SqOzzavmX3ugzFCOCn3q1Dp9mXL4R73_njiOCbec</ht:news_item_picture>
+				<ht:news_item_source>Yahoo.co</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>여진구</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
+			<title>안동댐</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Sun, 20 Jul 2025 19:50:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpI47ZvdDwytQFs8VAo9FIaxwnYLexB2X-rtFMIeWSO8hrlIIMLieaBuCoTgA</ht:picture>
-			<ht:picture_source>뉴스1</ht:picture_source>
+			<pubDate>Mon, 21 Jul 2025 03:10:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjnUNgx-qBkItuID-N0bsDTKZ_uc_g3jpaQW472Vs92Ds9Mwmg_wgB28hEpTc</ht:picture>
+			<ht:picture_source>뉴데일리 경제</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>여진구, &apos;천하장사&apos; 강호동 못지않은 몸집…벌크업 근황 &apos;깜짝&apos;</ht:news_item_title>
+				<ht:news_item_title>극한 폭우에도 홍수 막은 &apos;4대강 보&apos; … 존재감 커지는데 李정부는 해체론에 매몰</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.news1.kr/entertain/broadcast-tv/5852817</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpI47ZvdDwytQFs8VAo9FIaxwnYLexB2X-rtFMIeWSO8hrlIIMLieaBuCoTgA</ht:news_item_picture>
-				<ht:news_item_source>뉴스1</ht:news_item_source>
+				<ht:news_item_url>https://biz.newdaily.co.kr/site/data/html/2025/07/21/2025072100367.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjnUNgx-qBkItuID-N0bsDTKZ_uc_g3jpaQW472Vs92Ds9Mwmg_wgB28hEpTc</ht:news_item_picture>
+				<ht:news_item_source>뉴데일리 경제</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>여진구 맞아?…109kg 강호동 못지 않은 피지컬 화제</ht:news_item_title>
+				<ht:news_item_title>한반도 ‘기후 숙명’과 4대강 후속 사업[포럼]</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.nate.com/view/20250721n15438</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFgnacZgsEPkYD3vcOFfC5_363iXN4KhJkBASLPMPD268l45B4vZ68xy0HqVU</ht:news_item_picture>
+				<ht:news_item_url>https://www.munhwa.com/article/11520330</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVIIYJdwmGRkm-ihooO-aokSGCjHP9PB3x6MGEQtqyDv3lipqVz4uNQdeafKs</ht:news_item_picture>
+				<ht:news_item_source>문화일보</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>홍준표 &quot;안동댐 생기고 수재민 면해…4대강 보가 홍수피해 막아 다행&quot;</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://news.nate.com/view/20250721n05373</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSBoR6VPV0tAKFsuUspJZax7JsnOZLne-7bKBmQz1RgSg9kDQNXHeB4dL5s1JY</ht:news_item_picture>
+				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>김건우</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Mon, 21 Jul 2025 02:30:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYiXDcDMfvgN5SNTDypFthCoRINjVsnhi5XEzdHICEebU6KDVxvjfwAAgzb-o</ht:picture>
+			<ht:picture_source>네이트 뉴스</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>&quot;만화 찢고 등장&quot; vs &quot;온갖 욕과 평가질&quot;…&apos;보플2&apos; 김건우, 상반된 온도차 [엑&apos;s 이슈]</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://m.news.nate.com/view/20250718n16714?issue_sq=10098&amp;mid=e0608</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYiXDcDMfvgN5SNTDypFthCoRINjVsnhi5XEzdHICEebU6KDVxvjfwAAgzb-o</ht:news_item_picture>
 				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>&apos;67kg&apos; 여진구 맞아? 몰라볼 뻔…&apos;109kg&apos; 강호동 옆 벌크업 어깨 깡패 [핫피플]</ht:news_item_title>
+				<ht:news_item_title>보플2 김건우 인성 논란에 &quot;이유 막론 진심으로 사과&quot;</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.chosun.com/entertainments/broadcast/2025/07/21/XOOGQV3PKF77EPPD7OELUWGBME/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpARy1eb9E9XtEqPM7HoT1tCpsnwbsrZoH_zYFSHJhdDlVUqhgo7LK1bGV0l4</ht:news_item_picture>
-				<ht:news_item_source>조선일보</ht:news_item_source>
+				<ht:news_item_url>https://www.newsis.com/view/NISX20250721_0003260731</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpXgl1iTQ7NpWIHfq4CXK0snLBaTXoBTpgfurnqrLj-fCwL3JeUlTA0s87zNQ</ht:news_item_picture>
+				<ht:news_item_source>뉴시스</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>‘보플2’ 김건우-강우진, 개인 연습생 아닌 웨이크원 소속 맞다! 특혜 논란 일자 계약 종료로 땜질 수습</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.sportsseoul.com/news/read/1532232</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyv8QeljYNuujNBeLcBpnpEajeyw0Ka8UJhwQmZR_Z291X6T1GNX2FkCqAvxA</ht:news_item_picture>
+				<ht:news_item_source>스포츠서울</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>전북은행</title>
+			<title>데이식스</title>
 			<ht:approx_traffic>100+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Sun, 20 Jul 2025 19:50:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbRGL_PpGB9Qu7g15XwvJLk9VEgsvgX8Rs03pvozQwqgJpXMDQmvxhXZuYVT8</ht:picture>
-			<ht:picture_source>더팩트</ht:picture_source>
+			<pubDate>Mon, 21 Jul 2025 02:20:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGSmOpwEHNMvoZvTrB2OvcpBuhuxjIQ0oZti7fY0RxgaSwSxwhCVEbMfbmBZA</ht:picture>
+			<ht:picture_source>네이트 뉴스</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>전북은행, 입출금 통장 &apos;잔액 업(UP)고 캐시백 받자!&apos; 이벤트</ht:news_item_title>
+				<ht:news_item_title>데이식스, 팬미팅 갑질 의혹…&quot;신분증 찍어 단톡방에 공유까지&quot; 분노</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.tf.co.kr/read/national/2226048.htm</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbRGL_PpGB9Qu7g15XwvJLk9VEgsvgX8Rs03pvozQwqgJpXMDQmvxhXZuYVT8</ht:news_item_picture>
-				<ht:news_item_source>더팩트</ht:news_item_source>
+				<ht:news_item_url>https://news.nate.com/view/20250721n14779</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGSmOpwEHNMvoZvTrB2OvcpBuhuxjIQ0oZti7fY0RxgaSwSxwhCVEbMfbmBZA</ht:news_item_picture>
+				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>전북은행, ‘잔액 업(UP)고, 캐시백 받자!’ 이벤트 실시</ht:news_item_title>
+				<ht:news_item_title>JYP 측 “데이식스 공연 본인확인 절차 문제, 죄송…보상할 것” (전문)[공식]</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>http://www.todayan.com/news/articleView.html?idxno=582063</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-v08SttcNHyKIWJ_2Mnq0YO5TpMnmEL4Mf81ozFQX93Y_CfLmLBycpBAWezI</ht:news_item_picture>
-				<ht:news_item_source>투데이안</ht:news_item_source>
+				<ht:news_item_url>https://sports.donga.com/ent/article/all/20250721/132043485/1</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkYdqfDgH49TdkAWZ4INiPhoWf7ccMXiO9EAqgOwAqY1P0c9BcLdi-vqGu5qU</ht:news_item_picture>
+				<ht:news_item_source>스포츠동아</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>전북은행, 입출금통장 ‘잔액 업(UP)고 캐시백 받자!’ 이벤트</ht:news_item_title>
+				<ht:news_item_title>&quot;생기부를 떼오라고요?&quot;…또 불거진 콘서트 &apos;본인 확인&apos; 논란 [엔터로그]</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>http://www.jtnews.kr/news/articleView.html?idxno=87576</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReaLG8lwOyrtWsWm0sxp4PGCPufKyTVpcgj37Lu4l-VORjGQ8aVClXYdapwLA</ht:news_item_picture>
-				<ht:news_item_source>전북투데이</ht:news_item_source>
+				<ht:news_item_url>https://www.etoday.co.kr/news/view/2489745?trc=right_newsplant</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHh1yQ_4Ui_6BNEQrDUpqckyiurce3JkZ8ewr2gpWmwZXID0hvaKktzqE0Lzo</ht:news_item_picture>
+				<ht:news_item_source>이투데이</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>김상환</title>
+			<title>대서</title>
+			<ht:approx_traffic>1000+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Mon, 21 Jul 2025 01:50:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkc5jB3Kv5S88aFtTYCcgEk5tFd-G3xwywDdlMO7UJJBhwScyyNftK8w69bjU</ht:picture>
+			<ht:picture_source>연합뉴스</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>[날씨] &apos;염소뿔도 녹인다&apos;는 대서…한낮 34도 폭염·곳곳 소나기</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.yna.co.kr/view/AKR20250721143600004</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkc5jB3Kv5S88aFtTYCcgEk5tFd-G3xwywDdlMO7UJJBhwScyyNftK8w69bjU</ht:news_item_picture>
+				<ht:news_item_source>연합뉴스</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>[날씨] 다시 무더위‥내일도 내륙 소나기</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://imnews.imbc.com/replay/2025/nw1700/article/6737938_36783.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcAb1_496E4D5UG7buNupy2n7Up5hdfpMP7P848BcsSLVnLnD02c3owFtQxJw</ht:news_item_picture>
+				<ht:news_item_source>MBC 뉴스</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>이제 폭염의 시간...서울 이틀째 열대야</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.chosun.com/national/transport-environment/2025/07/21/Z5JOSJCWYRGFDD6OTFJZ4PR7VM/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrYegUkISmKCurz3zuFNnu8povYMklW8BplBfe86bkIaVIgFAMo7lIvnXy8u0</ht:news_item_picture>
+				<ht:news_item_source>조선일보</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>세종시장</title>
 			<ht:approx_traffic>200+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Sun, 20 Jul 2025 19:00:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-T-SP1tz3s8WAg5v5_dJFmI0lCdMTcGCsgivfkgRj_o933-iT86Np6b4Yw98</ht:picture>
-			<ht:picture_source>KBS 뉴스</ht:picture_source>
+			<pubDate>Mon, 21 Jul 2025 01:40:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPMu1dwobQnXbqADe01tG3o44tuj6H5nvpjgnsleMQ93mt-I5-_BSoClKGX3g</ht:picture>
+			<ht:picture_source>연합뉴스</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>김상환 헌재소장 후보자 인사청문회…“보은 인사” vs “사회적 약자 보호”</ht:news_item_title>
+				<ht:news_item_title>광주 호우주의보 해제</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.kbs.co.kr/news/view.do?ncd=8308968</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-T-SP1tz3s8WAg5v5_dJFmI0lCdMTcGCsgivfkgRj_o933-iT86Np6b4Yw98</ht:news_item_picture>
-				<ht:news_item_source>KBS 뉴스</ht:news_item_source>
+				<ht:news_item_url>https://www.yna.co.kr/view/AKR20250719062600527</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPMu1dwobQnXbqADe01tG3o44tuj6H5nvpjgnsleMQ93mt-I5-_BSoClKGX3g</ht:news_item_picture>
+				<ht:news_item_source>연합뉴스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>김상환 “보수·진보 아닌 헌법가치 우선...정치의 사법화 늘 의식할 것&quot;</ht:news_item_title>
+				<ht:news_item_title>최민호 세종시장, 폭우 피해 현장 긴급 점검…“시민 안전 최우선, 신속 복구 총력”</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.chosun.com/national/court_law/2025/07/21/7252L6CNDRHI7LD55QPAJVJR3U/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAEqj1y7_A-rzy6Gt0pmlm7MwNHtSy9Zi81HMal2YglRx3QZP2bWmvoGP0EVk</ht:news_item_picture>
+				<ht:news_item_url>https://sports.donga.com/region/article/all/20250720/132032232/1</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrKCgq2oCqJpKxPvV4if0VK7dmjdmTBjK37sWn-xSbHMs7uu27QhDFgWML94c</ht:news_item_picture>
+				<ht:news_item_source>스포츠동아</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>강준현 더민주 세종시당위원장 &quot;행정절차 간소화, 피해지원 서둘러야&quot; 강조</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://cm.asiae.co.kr/article/2025071920565309636</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQTjXQSl4FmRO2vSnxnXiPw69Z0cl3-OaborBhHKhRLuJmdLmM1ABvAdyoJrgg</ht:news_item_picture>
+				<ht:news_item_source>아시아경제</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>에토미데이트</title>
+			<ht:approx_traffic>200+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Mon, 21 Jul 2025 01:20:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSexQZXpbIii8c6KKHvAEZmwz7iP3nYdZvlxNMuPHBkSusztClzDW3EpmHslWk</ht:picture>
+			<ht:picture_source>연합뉴스</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>[영상] 주사 맞더니 &apos;픽&apos; 쓰러져…수상한 강남 피부과 CCTV &apos;충격&apos;</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.yna.co.kr/view/AKR20250721120500704</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSexQZXpbIii8c6KKHvAEZmwz7iP3nYdZvlxNMuPHBkSusztClzDW3EpmHslWk</ht:news_item_picture>
+				<ht:news_item_source>연합뉴스</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>가짜 병원 차려 전신마취제 &apos;에토미데이트&apos; 50배 폭리 불법 유통</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.hankookilbo.com/News/Read/A2025072111250005351</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSO5oL-ehb6gO_WtXlMfnntOqquyG4Oqdei4jHSCV7JXjZiCJl1IzaYwnLlDBs</ht:news_item_picture>
+				<ht:news_item_source>한국일보</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>&apos;新프로포폴&apos; 원가 200만원→10억원에 판매한 일당 덜미</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://news.nate.com/view/20250721n15845</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxJNBcau5yjA_AcKqkS4LDTbECzNt3Kln0y-eahVeyGrRI-7RdYnmipfDeGfM</ht:news_item_picture>
+				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>김건희</title>
+			<ht:approx_traffic>200+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Mon, 21 Jul 2025 01:10:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxlJO5Sc6OVN697E6sU4TstNxWLYmwS8tqFUoad9lLSaPWFEu93QKrFJaU9j8</ht:picture>
+			<ht:picture_source>조선일보</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>특검, 김건희 8월 6일 피의자 소환 통보</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.chosun.com/national/court_law/2025/07/21/MZAKAUZNRRCSJOYJFHFYGO5M74/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxlJO5Sc6OVN697E6sU4TstNxWLYmwS8tqFUoad9lLSaPWFEu93QKrFJaU9j8</ht:news_item_picture>
 				<ht:news_item_source>조선일보</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>오늘 김상환 헌재소장 후보 인사청문회···재판소원·정치중립 공방 전망</ht:news_item_title>
+				<ht:news_item_title>김건희 여사 ‘첫 소환’ 통보…특검, 다음 달 6일 출석 요구</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.khan.co.kr/article/202507210737001</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpN3ROub1vYAMPpjrBqbOoMLmRLY6KvgXce9Repg4fJykB_-1jQa35t2x_U2Y</ht:news_item_picture>
-				<ht:news_item_source>경향신문</ht:news_item_source>
+				<ht:news_item_url>https://news.kbs.co.kr/news/view.do?ncd=8309353</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtVnxTk9Fhip4A8crmFbnhrKbmF7_5PT9bLOpJaQOfQZ_b-UYXhxvYlg-XmEY</ht:news_item_picture>
+				<ht:news_item_source>KBS 뉴스</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>김건희특검, 윤석열·김건희 소환통보…&apos;집사&apos; 부인도 출석요구(종합2보)</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.yna.co.kr/view/AKR20250721097052004</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGefo9_asNrNShFbmhg6tW4O3jWzXBKBsKZ0w6C2xC7Zk1ddIKKD1OPEK0fwM</ht:news_item_picture>
+				<ht:news_item_source>연합뉴스</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>티머니</title>
+			<ht:approx_traffic>200+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Mon, 21 Jul 2025 01:00:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTirAP9jA6TVH1ZCMGz5pYGw4GdqeqKNOnkQmPVCbDW_bEiJ6MXGr4Ci6qpU94</ht:picture>
+			<ht:picture_source>뉴시스</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>안동시·한국관광공사, 안동관광택시 예약 서비스 본격화</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.newsis.com/view/NISX20250721_0003259170</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTirAP9jA6TVH1ZCMGz5pYGw4GdqeqKNOnkQmPVCbDW_bEiJ6MXGr4Ci6qpU94</ht:news_item_picture>
+				<ht:news_item_source>뉴시스</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>안동시-한국관광공사-티머니모빌리티, 안동 관광택시 예약 서비스 추진</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.straightnews.co.kr/news/articleView.html?idxno=276494</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTsP4WNI6KobUwbJEVHqETE883rhToPVzWwHxgJuWkRuHUaI3gAfQw_WPni3c</ht:news_item_picture>
+				<ht:news_item_source>스트레이트뉴스</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>‘티머니GO’ 앱으로 전국 어디서나 안동 관광택시 예약 가능</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://daily.hankooki.com/news/articleView.html?idxno=1246152</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTsP4WNI6KobUwbJEVHqETE883rhToPVzWwHxgJuWkRuHUaI3gAfQw_WPni3c</ht:news_item_picture>
+				<ht:news_item_source>데일리한국</ht:news_item_source>
 			</ht:news_item>
 		</item>
 	</channel>
