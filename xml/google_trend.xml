@@ -28,11 +28,11 @@
 				<ht:news_item_source>KBS 뉴스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>수마 할퀸 충남·전남 농축산물 피해 속출…밥상 물가 치솟을라</ht:news_item_title>
+				<ht:news_item_title>[전국 할퀸 물폭탄] 죽고, 잠기고, 떠내려가고…“복구 엄두 못내”</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.newsis.com/view/NISX20250721_0003260743</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRIs9y3CtAvJxzn2O6-haChjZ05FMlW0mWag_j_N6KTQTdxdAxVvOJPdK7xTB8</ht:news_item_picture>
-				<ht:news_item_source>뉴시스</ht:news_item_source>
+				<ht:news_item_url>https://www.nongmin.com/article/20250721500828</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_Uji5nDIKSzAyBXk7JLgPhnQKF7PCFsz6PyNftqj_fxNScY08tO0SzEPiW8k</ht:news_item_picture>
+				<ht:news_item_source>농민신문</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -161,15 +161,8 @@
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
 			<pubDate>Mon, 21 Jul 2025 18:00:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREDZA2QVJllsHepLj_R07507qEsudjKcLa9z36K1dJ8K4I7X63xjilP40ao2I</ht:picture>
-			<ht:picture_source>한겨레</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>‘내란 옹호’ 강준욱 국민통합비서관 자진 사퇴</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.hani.co.kr/arti/politics/bluehouse/1209258.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREDZA2QVJllsHepLj_R07507qEsudjKcLa9z36K1dJ8K4I7X63xjilP40ao2I</ht:news_item_picture>
-				<ht:news_item_source>한겨레</ht:news_item_source>
-			</ht:news_item>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrsn7ECNbdbtO1d4mx9X0D2dtffG0hKpR42ULuEg51dmZf4gyqEVCdSXn0DIU</ht:picture>
+			<ht:picture_source>MBC 뉴스</ht:picture_source>
 			<ht:news_item>
 				<ht:news_item_title>&quot;완전 선 넘었다&quot; 강준욱 사퇴‥치명타로 돌아온 &apos;5.18 폄하&apos;</ht:news_item_title>
 				<ht:news_item_snippet/>
@@ -178,11 +171,18 @@
 				<ht:news_item_source>MBC 뉴스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>대통령실 &quot;강준욱 자진 사퇴...강선우 인청 보고서 오늘 재송부&quot;</ht:news_item_title>
+				<ht:news_item_title>‘계엄 옹호’ 논란 강준욱, 자진 사퇴</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.ytn.co.kr/_ln/0101_202507221039246525</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSaLGrikRQAn31VeCvveX_teng1009VqBHcb1lW6mVYb-NcKVs9fZiC7HPDjfg</ht:news_item_picture>
-				<ht:news_item_source>YTN</ht:news_item_source>
+				<ht:news_item_url>https://www.chosun.com/politics/blue_house/2025/07/22/QXQA3WUWCNBX3FZDCWW34EZANE/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkvrgLd24rkNdPuj07LUJ3MzcuDRMQ6LgAVZqcxZBrxOCVsop9DFbfHvZa64w</ht:news_item_picture>
+				<ht:news_item_source>조선일보</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>[속보] ‘계엄 옹호’ 강준욱 국민통합비서관 자진 사퇴</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.khan.co.kr/article/202507220943011</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRu1UTfLBft1QGlMkpBl2jcFwngXS27hedVZlmZ0TE8Z2txnZ83OGXMzmaX09k</ht:news_item_picture>
+				<ht:news_item_source>경향신문</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
