@@ -6,303 +6,282 @@
 		<link>https://trends.google.com/trending/rss?geo=KR</link>
 		<atom:link href="https://trends.google.com/trending/rss?geo=KR" rel="self" type="application/rss+xml"/>
 		<item>
-			<title>ozzy osbourne</title>
-			<ht:approx_traffic>500+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Tue, 22 Jul 2025 11:40:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWM64yeSf3bCMHgQzmzGtlurNgip8qhx3YJukbo79crw33U_O62E9OZvczm4k</ht:picture>
-			<ht:picture_source>Australian Broadcasting Corporation</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Breaking: Ozzy Osbourne, Black Sabbath frontman and reality TV star, dies aged 76</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.abc.net.au/news/2025-07-23/ozzy-osbourne-dies/104766804</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWM64yeSf3bCMHgQzmzGtlurNgip8qhx3YJukbo79crw33U_O62E9OZvczm4k</ht:news_item_picture>
-				<ht:news_item_source>Australian Broadcasting Corporation</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Ozzy Osbourne death: Black Sabbath singer dies aged 76, his family announces</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.bbc.com/news/live/cn0qq5nyxn0t</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKmz7vkXVqNebTe7QhYu_7yx3e0B1KXeYhcRmBaEPri8aWnYABKdCvG2pbwoY</ht:news_item_picture>
-				<ht:news_item_source>BBC</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Ozzy Osbourne, Black Sabbath frontman and icon of British heavy metal, dies aged 76</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.theguardian.com/music/2025/jul/22/ozzy-osbourne-black-sabbath-frontman-and-icon-of-british-heavy-metal-dies-aged-76</ht:news_item_url>
-				<ht:news_item_picture></ht:news_item_picture>
-				<ht:news_item_source>The Guardian</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>유네스코</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Tue, 22 Jul 2025 08:40:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHSt2BTpXiC-IKBf2fkpfApXtkF_D1zDM3cx2GbZBUhNnn3wHUlbPOtV2I2YM</ht:picture>
-			<ht:picture_source>연합뉴스</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>트럼프, 유네스코 탈퇴 결정…바이든 재가입 2년만에 뒤집기</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.yna.co.kr/view/AKR20250722160600009</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHSt2BTpXiC-IKBf2fkpfApXtkF_D1zDM3cx2GbZBUhNnn3wHUlbPOtV2I2YM</ht:news_item_picture>
-				<ht:news_item_source>연합뉴스</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>트럼프, 2년 만에 “유네스코 재탈퇴”…반이스라엘·친중·다양성 행보 불만</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.khan.co.kr/article/202507222211005</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnu78RAj5IjRu506MhOImyM1sdHtUDSNdm_LicPk7NtAfm8Ko-eZbrOToLHqw</ht:news_item_picture>
-				<ht:news_item_source>경향신문</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>트럼프 美 대통령, 유네스코 탈퇴 결정</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.asiae.co.kr/article/2025072221161632887</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjGCd3NPijRQ3NUdv2jJSZaSdw1RaAqvjf_AHo3mphIDffAnMq6NmMTYeQ7Ws</ht:news_item_picture>
-				<ht:news_item_source>아시아경제</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>브루스 윌리스</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Tue, 22 Jul 2025 08:30:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRg3TQ-az2yAZw0C_-Vs-ZjUm4kmIJPnID6WbFrcc1jU9C7WPMt64P_PBdEj1k</ht:picture>
-			<ht:picture_source>The Economic Times</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Bruce Willis can&apos;t speak, read, and walk. Here&apos;s what happened to the &apos;Die Hard&apos; actor</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://m.economictimes.com/news/international/global-trends/bruce-willis-cant-speak-read-and-walk-heres-what-happened-to-the-die-hard-actor/articleshow/122830446.cms</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRg3TQ-az2yAZw0C_-Vs-ZjUm4kmIJPnID6WbFrcc1jU9C7WPMt64P_PBdEj1k</ht:news_item_picture>
-				<ht:news_item_source>The Economic Times</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Internet Trolls Have Found A Way To Make Bruce Willis’s Tragic Health Situation Even Worse</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.yahoo.com/entertainment/articles/internet-trolls-found-way-bruce-235200181.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScYxbSVnjdhrAnbDiQQcusI05f1cFGw3-kwdooHmJAqfD3VdxdM_VS1prUmC8</ht:news_item_picture>
-				<ht:news_item_source>Yahoo.co</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Bruce Willis can no longer speak, read, or walk amid dementia decline</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://tribune.com.pk/story/2557123/bruce-willis-can-no-longer-speak-read-or-walk-amid-dementia-decline</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKdmSv9IPUvtmX5VhgA1xM7pf5hg6DYXhFcYg9-5vFHDsxWxjk4lexr-S3lKs</ht:news_item_picture>
-				<ht:news_item_source>The Express Tribune</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>대탈출</title>
+			<title>보람상조</title>
 			<ht:approx_traffic>200+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Tue, 22 Jul 2025 08:10:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgZWoI93ZwgCAprr4USKBEkX2YlUefVNMfNmN0CgMSvlyNLI7gelBXZ5Kebs8</ht:picture>
-			<ht:picture_source>헬스조선</ht:picture_source>
+			<pubDate>Sun, 27 Jul 2025 22:40:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl1T77jDiPhj7gE-uGlvCPcuT31nid134Ek7cU0ym2Qxc3lnoduFxqUpyyMKY</ht:picture>
+			<ht:picture_source>뉴시스</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>“여진구 맞아?” 109kg 강호동 옆 밀리지 않는 덩치… 벌크업 근황 화제</ht:news_item_title>
+				<ht:news_item_title>&quot;지역사회와 함께 해요&quot;…보람상조, 연 매출 일부 환원</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://m.health.chosun.com/svc/news_view.html?contid=2025072102383</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgZWoI93ZwgCAprr4USKBEkX2YlUefVNMfNmN0CgMSvlyNLI7gelBXZ5Kebs8</ht:news_item_picture>
-				<ht:news_item_source>헬스조선</ht:news_item_source>
+				<ht:news_item_url>https://www.newsis.com/view/NISX20250725_0003266876</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl1T77jDiPhj7gE-uGlvCPcuT31nid134Ek7cU0ym2Qxc3lnoduFxqUpyyMKY</ht:news_item_picture>
+				<ht:news_item_source>뉴시스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>&quot;여진구 맞아?&quot;…&apos;천하장사&apos; 강호동 옆에서도 밀리지 않는 몸집</ht:news_item_title>
+				<ht:news_item_title>보람상조, 반려동물 장례식장 &apos;페어웰(Parewell)&apos;과 펫상조 서비스 강화</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://m.news.nate.com/view/20250721n19454?</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQY1_8O3SE3OECYO8aYLgn_i9548L3SwNtfIJpfAbEwd-Rx-mTqZWjf-BqQs8I</ht:news_item_picture>
-				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>여진구 맞아?…109kg 강호동 못지 않은 피지컬 화제</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://biz.heraldcorp.com/article/10536135</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQDtLN3e60mUjm_0B6nGitXp88gEm8fwuUvP6NIId1x448kvwsnuBzPvhKh_E</ht:news_item_picture>
-				<ht:news_item_source>헤럴드경제</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>이주연</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Tue, 22 Jul 2025 07:30:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUOt6rxeXpo2OaOFx98CJ3xSEuK4rXhiaGhWwOxtnVnNszkAsVY58tMAar8hE</ht:picture>
-			<ht:picture_source>Daum</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>이주연, 애프터스쿨 가희 폭력 사실상 인정?..&quot;노코멘트&quot;로 대답 회피[돌싱포맨][★밤TView]</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://v.daum.net/v/20250723001258415</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUOt6rxeXpo2OaOFx98CJ3xSEuK4rXhiaGhWwOxtnVnNszkAsVY58tMAar8hE</ht:news_item_picture>
-				<ht:news_item_source>Daum</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>&apos;GD와 열애설&apos; 이주연, 뜻밖의 나이 언급...&quot;이혼해도 결혼하고 싶다&quot; (&apos;돌싱포맨&apos;)</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.chosun.com/entertainments/broadcast/2025/07/22/GGQNNYWZJRH5TQH6KW77LR5ES4/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSD5f39ECT9xjImWX5eLcisKUmxynkei71OPF00qV9Uio2S7iVq4dgm69qM--s</ht:news_item_picture>
-				<ht:news_item_source>조선일보</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>&apos;GD 열애설&apos; 이주연 &quot;키스 안 맞아 헤어져…남자 경험은 충분해&quot;</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.nate.com/view/20250723n00613</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTa_1gZjoNV1HnwU8ZHcdWgjNPppVU-5GtIlRyvakiHH-EfdDFfLKCMbJI0qyI</ht:news_item_picture>
-				<ht:news_item_source>네이트 뉴스</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>엔비디아</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Tue, 22 Jul 2025 07:20:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRflrSjCQWAYVg0WUp94FIPih38igVR-OpT5UbmyyaiAsD0ySrlBb2aVCNw-sI</ht:picture>
-			<ht:picture_source>연합뉴스</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>&quot;트럼프 2기에서 가장 영향력 있는 CEO는 엔비디아의 젠슨 황&quot;</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.yna.co.kr/view/AKR20250723001900091</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRflrSjCQWAYVg0WUp94FIPih38igVR-OpT5UbmyyaiAsD0ySrlBb2aVCNw-sI</ht:news_item_picture>
-				<ht:news_item_source>연합뉴스</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>&quot;엔비디아, 연말까지 &apos;H20&apos; 재고 40만장 중국 판매...이후 &apos;B30&apos;으로 대체&quot;</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.aitimes.com/news/articleView.html?idxno=200854</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWIYT2DC4-VNhVE8Pxu30HHl3eUy2RYAl-qdQVD7IhJ8lX21VufhLgHbN_Hqc</ht:news_item_picture>
-				<ht:news_item_source>AI타임스</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>미 대중국 AI칩 수출 재개에...K-반도체 &apos;숨통&apos;</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://science.ytn.co.kr/program/view.php?mcd=0082&amp;key=202507211106525083</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReeABKcjaHs-KWcncNbWg6LN9SN3ojRsiM0woqEII_h9FJK9h6fk7EVdGqEyw</ht:news_item_picture>
-				<ht:news_item_source>YTN 사이언스</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>린</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Tue, 22 Jul 2025 07:10:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSk0XIIw4f7Whw_PhYJTwgZPXm0Yb5hGQzrvg0YqP_l_5XiyKlPz8_PRJyzUKw</ht:picture>
-			<ht:picture_source>KBS 뉴스</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>린가드가 쏘아올린 인생골! ‘현대가’ 포옛과 김판곤은 엇갈린 희비</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.kbs.co.kr/news/view.do?ncd=8309643</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSk0XIIw4f7Whw_PhYJTwgZPXm0Yb5hGQzrvg0YqP_l_5XiyKlPz8_PRJyzUKw</ht:news_item_picture>
-				<ht:news_item_source>KBS 뉴스</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>‘원더골’ 터트린 서울 린가드, K리그1 22라운드 MVP…K리그2는 ‘해트트릭’ 작렬한 부천 몬타뇨</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://v.daum.net/v/20250722231035766</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGIkAkcxgVv7ENkpEoWQf54BKK8A-Tgy_YtYelJ6CoAHGm56sz9MGVcPJun1c</ht:news_item_picture>
-				<ht:news_item_source>Daum</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>흔들리는 &apos;울산 왕조&apos;…말컹 효과로 팬심 돌릴까</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.yna.co.kr/view/MYH20250722011600038</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWGDPu6aBHkhyynH65ZtjmPw48rt8M46AwXuOMh8fydxHSbwYEdUaYrAMyD-U</ht:news_item_picture>
-				<ht:news_item_source>연합뉴스</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>요케레스</title>
-			<ht:approx_traffic>500+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Tue, 22 Jul 2025 06:50:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkTWOlOQ4PZej8JtKmYoEU0l79XrT5_HvpCg2tJV4Qv6tMkFuv7vCh4ro6gu0</ht:picture>
-			<ht:picture_source>네이트</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>&apos;세계 1위 공격수&apos; 아버지 펑펑 울었다…&quot;제발 우리 아들 좀 EPL 보내주세요&quot;→아스널 결렬+맨유 러브콜→구단은 &quot;똑바로 사과 해!&quot;</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://sports.news.nate.com/view/20250721n00185</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkTWOlOQ4PZej8JtKmYoEU0l79XrT5_HvpCg2tJV4Qv6tMkFuv7vCh4ro6gu0</ht:news_item_picture>
+				<ht:news_item_url>https://news.nate.com/view/20250728n13729</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfNd92KzEMIiWmFPrgdmyJvtBnMpMf6pbYaBF-Xr67zloc_qHDR3GQz0Ak8hI</ht:news_item_picture>
 				<ht:news_item_source>네이트</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>&quot;드디어 &apos;HERE WE GO&apos; 떴다&quot; &apos;여친 결별→합류 거부&apos; 요케레스, 아스널 이적 확정…옵션 포함 1192억 합의→5년 계약, EPL 복수 &apos;출사표&apos;</ht:news_item_title>
+				<ht:news_item_title>&quot;체질 개선 중…전환 상품 확대·재무 안정성 제고 나서&quot; 초고령사회 진입 본격화…상조업계, 고객 경험 중심 서비스로 진화</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.chosun.com/sports/world-football/2025/07/23/TLLASYU6J5DE6GT42QQNU6LA2Q/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQE6Xv7uF2OZq_UsEeL6m_jvL9iVDM78nllt0_qAtlILNspECn1_i4lG0o2MxE</ht:news_item_picture>
+				<ht:news_item_url>http://www.osen.co.kr/article/G1112620964</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNSKxxMjr-L-EHOxufnHHw2HLwRDFprH1G748RI6RjHzeMShdnyBDwFt6wmpA</ht:news_item_picture>
+				<ht:news_item_source>OSEN</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>엘지트윈스</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Sun, 27 Jul 2025 22:10:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWLWqv0sKWEu7Qh65yULCzTFPdBBSu_2grJghn3bHdlD9PaDhveJPd0JJ44qE</ht:picture>
+			<ht:picture_source>뉴스1</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>LG·롯데 약진, KIA는 추락…&apos;엘롯기&apos; 희비 쌍곡선[프로야구인사이트]</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.news1.kr/sports/baseball/5860873</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWLWqv0sKWEu7Qh65yULCzTFPdBBSu_2grJghn3bHdlD9PaDhveJPd0JJ44qE</ht:news_item_picture>
+				<ht:news_item_source>뉴스1</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>◇오늘의 경기(27일)</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.yna.co.kr/view/AKR20250726025600007</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPMu1dwobQnXbqADe01tG3o44tuj6H5nvpjgnsleMQ93mt-I5-_BSoClKGX3g</ht:news_item_picture>
+				<ht:news_item_source>연합뉴스</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>희비 갈린 ‘엘롯기’…상승세 LG·롯데, 연패 빠진 기아</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.hani.co.kr/arti/sports/baseball/1210330.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR445ztm8d2gAPCTYxwNK4tdoSfUPp7Up2mth-obRqviL0Qjr05ZfBBtNYPByI</ht:news_item_picture>
+				<ht:news_item_source>한겨레</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>말복</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Sun, 27 Jul 2025 20:20:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2ljNmpoH06RmMNDos5nxVYeso0h3fjYpHJb6QMbbKGXsHivEGin1y-nn0LaA</ht:picture>
+			<ht:picture_source>국민일보</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>삼계탕·삼겹살 보양식 나눔… 복날 교회서 福을 드려요</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.kmib.co.kr/article/view.asp?arcid=1753602881</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2ljNmpoH06RmMNDos5nxVYeso0h3fjYpHJb6QMbbKGXsHivEGin1y-nn0LaA</ht:news_item_picture>
+				<ht:news_item_source>국민일보</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>2025 초복 중복 말복 날짜와 뜻·음식 알아보기</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.gukjenews.com/news/articleView.html?idxno=3335657</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuc9wp7ZfojSN-gPcK4jCU3d34ooWweZwbKXmfEiZHRo6kcu9rP67y46ZaOQI</ht:news_item_picture>
+				<ht:news_item_source>국제뉴스</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>(약수터) 복달임</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.mdilbo.com/detail/WYXZ2h/745818</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuKBtP81u1NWpKPaMlzHHGny2nBp9hzN5Hx3QGrVUBAwgxt7YX2WoYBLAP8fQ</ht:news_item_picture>
+				<ht:news_item_source>무등일보</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>판슥</title>
+			<ht:approx_traffic>2000+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Sun, 27 Jul 2025 19:10:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlft9g8QnT4g4ePp7IYB9G-45l6FKazcO-RJUagih4caI9ZAY_qMKJ4jE_8Mw</ht:picture>
+			<ht:picture_source>KBS 뉴스</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>3천명 보는 라방서 ‘타인 신체부위’ 공개, 50만 유튜버 판슥 법정구속 [지금뉴스]</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://news.kbs.co.kr/news/view.do?ncd=8315232</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlft9g8QnT4g4ePp7IYB9G-45l6FKazcO-RJUagih4caI9ZAY_qMKJ4jE_8Mw</ht:news_item_picture>
+				<ht:news_item_source>KBS 뉴스</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>유튜버 판슥, 방송 중 신체 중요 부위 캡쳐 사진 공개 혐의 &apos;법정 구속&apos;</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://v.daum.net/v/20250728124903756</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSnM5zhfEhI2jjdtIEYLYbggAuX82m8QAACSawM67u0Je3bgpdrUazZFyT9IM</ht:news_item_picture>
+				<ht:news_item_source>Daum</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>‘보안관 콘셉트’ 유명 유튜버, 방송 중 타인 신체 부위 노출…법정구속</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://m.go.seoul.co.kr/news/society/2025/07/28/20250728500143?cp=go</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOJJSPnyG3bI8dL9UgddwMrOA4nuudOZkFzYu__ByAlBUpet5nl6EcT5ZVQIQ</ht:news_item_picture>
+				<ht:news_item_source>서울Pn</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>동명대</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Sun, 27 Jul 2025 18:50:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHdAjzWbqX7y8Xz9kZohLNjN6ieW6EwqEfyy21ob10Zm6HWZEkA6q-VKBiWBk</ht:picture>
+			<ht:picture_source>뉴시스</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>목원대, 법무부 &apos;조기적응지원센터 운영기관&apos; 선정</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.newsis.com/view/NISX20250728_0003268627</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHdAjzWbqX7y8Xz9kZohLNjN6ieW6EwqEfyy21ob10Zm6HWZEkA6q-VKBiWBk</ht:news_item_picture>
+				<ht:news_item_source>뉴시스</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>동명대, 이민자 사회통합 선도 기관으로 우뚝 서다</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&amp;key=20250728.99099008840</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQbnbB6_LIu2yG_m1YNJ37jIgbppa3FZLn0AYD1w_xVsyQbGEgyYsxRY8cYqU</ht:news_item_picture>
+				<ht:news_item_source>국제신문</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>남해대학, 법무부 외국인교육과정 &apos;사회통합프로그램&apos; 지역학습관 지정</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://news.tf.co.kr/read/national/2228239.htm</ht:news_item_url>
+				<ht:news_item_picture></ht:news_item_picture>
+				<ht:news_item_source>더팩트</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>skt</title>
+			<ht:approx_traffic>2000+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Sun, 27 Jul 2025 18:40:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_0GW7YbXORT3Zs6Y92yrDDlkBnNzOGAIRQlPi_UB_fg1vUamFGCtWhR208j4</ht:picture>
+			<ht:picture_source>Chosunbiz</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>SK Telecom launches service to check personal information leaks for subscribers - CHOSUNBIZ</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://biz.chosun.com/en/en-it/2025/07/28/Z5YL66DMWVGV7FV4HUUWX7JNLE/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_0GW7YbXORT3Zs6Y92yrDDlkBnNzOGAIRQlPi_UB_fg1vUamFGCtWhR208j4</ht:news_item_picture>
+				<ht:news_item_source>Chosunbiz</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>South Korea eyes more AI use in dealing with AI-aided cyberthreats</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.mlex.com/mlex/data-privacy-security/articles/2369750/south-korea-eyes-more-ai-use-in-dealing-with-ai-aided-cyberthreats</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQriqI8GS9uzoT-1Oxzl80ZVFsao7MniW5uy1W5GvItTs2CGF3q8ZW7-p5I2dE</ht:news_item_picture>
+				<ht:news_item_source>MLex</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>SK Telecom named preferred bidder for Korean govt-backed GPU AI project</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.communicationstoday.co.in/sk-telecom-named-preferred-bidder-for-korean-govt-backed-gpu-ai-project/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQv18BbGupEjRJAgn6PJRYFtDLlY1_LnUGRVzC0CHqu7I1SKMoZ0nnDRVkEaw8</ht:news_item_picture>
+				<ht:news_item_source>Communications Today</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>노란봉투법</title>
+			<ht:approx_traffic>500+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Sun, 27 Jul 2025 18:30:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6jfxa1VgvOIQt4wHUf6QETvrdh2OGWcL1o5pFkjcEAMyPz9gmqtfKIrmWCvE</ht:picture>
+			<ht:picture_source>조선일보</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>해외에 공장 지어도 파업 사유 될 수 있다</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.chosun.com/national/labor/2025/07/28/JDJTRLKSIRA5ZOUCMUYZFAHDOU/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6jfxa1VgvOIQt4wHUf6QETvrdh2OGWcL1o5pFkjcEAMyPz9gmqtfKIrmWCvE</ht:news_item_picture>
 				<ht:news_item_source>조선일보</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>‘맨유 大굴욕’ 세계 최강 FW에 ‘3번’ 차였다! 최근 또 ‘이적 제안→단칼 거절?’...“4번째 제안 안 왔지만, 아스널 이적 일편단심”</ht:news_item_title>
+				<ht:news_item_title>노란봉투법 막무가내 李정부… 관세 &apos;지렛대&apos; 조선업까지 부러뜨리나</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://sports.khan.co.kr/article/202507211117003</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQK-3CikA8YravoinJMmB6c1zoF-qHkMCynbiRVIb-uNKecHso9nh2ult7kztI</ht:news_item_picture>
-				<ht:news_item_source>스포츠경향</ht:news_item_source>
+				<ht:news_item_url>https://biz.newdaily.co.kr/site/data/html/2025/07/28/2025072800160.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3mXtMmuamPt2r3JBrlrgIFdaeCJu4Bmeh8T70aGyrAY13Tfxge5eY6uZfvno</ht:news_item_picture>
+				<ht:news_item_source>뉴데일리 경제</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>당정 &quot;노란봉투법 8월 4일 본회의 통과 목표&quot;…법안소위 심사중</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.yna.co.kr/view/AKR20250728074100001</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs_A6DHWH8Q2L9lJiJbZsmJIhOF_Y077CFma4ZEj0U9DQKsCmB7SaCAWVDagE</ht:news_item_picture>
+				<ht:news_item_source>연합뉴스</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>나스닥</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
+			<title>한전</title>
+			<ht:approx_traffic>500+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Tue, 22 Jul 2025 06:50:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4pZhuVa89itHJC_zCzhaQljHJ3hwBXs6tC__t46AE5nTULccQtu_D9EeUmw8</ht:picture>
-			<ht:picture_source>매일경제</ht:picture_source>
+			<pubDate>Sun, 27 Jul 2025 18:30:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv7xwyKW42ZZ9kCVUen08gUvq8YDI-ShHzCyO9Ks0WDAnH4SFtWrs7J512LMQ</ht:picture>
+			<ht:picture_source>전기신문</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>“주당 3달러 주식에 옵션 450만건”…미국 증시 과열 우려 속 테마주 폭주</ht:news_item_title>
+				<ht:news_item_title>한전, 기록적 폭우 피해지역에 ‘전사 총력전’…전력공급 99.8% 복구</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.mk.co.kr/news/stock/11374999</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4pZhuVa89itHJC_zCzhaQljHJ3hwBXs6tC__t46AE5nTULccQtu_D9EeUmw8</ht:news_item_picture>
-				<ht:news_item_source>매일경제</ht:news_item_source>
+				<ht:news_item_url>https://www.electimes.com/news/articleView.html?idxno=358393</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv7xwyKW42ZZ9kCVUen08gUvq8YDI-ShHzCyO9Ks0WDAnH4SFtWrs7J512LMQ</ht:news_item_picture>
+				<ht:news_item_source>전기신문</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>UBS &quot;시장 변동성 확대 경계&quot;…변동성지수, 여전히 16 &apos;유지&apos;</ht:news_item_title>
+				<ht:news_item_title>GH, 가평·포천 집중호우 피해 복구 성금 2000만원 전달</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://marketin.edaily.co.kr/News/ReadE?newsId=01436646642237472</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFuAjf_kNSAJxvboxkdDEpcralZ1IL9LWhynGfFR9gv2PP2wKW57-gjqndZ-Q</ht:news_item_picture>
-				<ht:news_item_source>마켓인</ht:news_item_source>
+				<ht:news_item_url>https://www.newsis.com/view/NISX20250728_0003268957</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRREw7YGsk0D0E2RkeYC6xzlFBNXieCMDuqjNeVfwSAsy4rHePA2cXLSjpC2rU</ht:news_item_picture>
+				<ht:news_item_source>뉴시스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>빅테크 실적 낙관론에 S&amp;P500·나스닥 최고치 마감</ht:news_item_title>
+				<ht:news_item_title>한전, 집중호우 정전피해 99.8% 복구…자회사들과 10억원 기탁</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.khan.co.kr/article/202507220734001</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNFDs4WmHhm5FXkL5bRYoj4u1V6LYG-NrKXSfr2JzmzsZVAW78Zp4RTRBNd58</ht:news_item_picture>
-				<ht:news_item_source>경향신문</ht:news_item_source>
+				<ht:news_item_url>https://www.yna.co.kr/view/AKR20250728076000003</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRsLGddUu-lcYT6ZiIsNvLKK7z3Pc0aV0BspWms0SGrRp1NEUtOC6uRLSghhb0</ht:news_item_picture>
+				<ht:news_item_source>연합뉴스</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>모태솔로지만</title>
+			<title>동명대학교</title>
 			<ht:approx_traffic>200+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
-			<pubDate>Tue, 22 Jul 2025 06:40:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaftUYxtNwsUO6b4feh5FaGlzEz1xBvtmBHVGpkB0_kmx63djm5KLyu0Y2Wzw</ht:picture>
-			<ht:picture_source>스포츠동아</ht:picture_source>
+			<pubDate>Sun, 27 Jul 2025 18:00:00 -0700</pubDate>
+			<ht:picture/>
+			<ht:picture_source/>
+		</item>
+		<item>
+			<title>한화오션</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=KR</link>
+			<pubDate>Sun, 27 Jul 2025 18:00:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOYxEvaoWovQnjbT9Fj2HhFlarMvuU4uZcksPoaHwgdQlIIN3ZVgd0MFW7imE</ht:picture>
+			<ht:picture_source>한겨레</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>카더가든 “여기 이제 배틀 시작”…드디어 카오스 (모솔연애)</ht:news_item_title>
+				<ht:news_item_title>한미 무역협상 앞두고 조선주 급등…어디까지 오르나</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://sports.donga.com/ent/article/all/20250722/132050728/1</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaftUYxtNwsUO6b4feh5FaGlzEz1xBvtmBHVGpkB0_kmx63djm5KLyu0Y2Wzw</ht:news_item_picture>
-				<ht:news_item_source>스포츠동아</ht:news_item_source>
+				<ht:news_item_url>https://www.hani.co.kr/arti/economy/finance/1210257.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOYxEvaoWovQnjbT9Fj2HhFlarMvuU4uZcksPoaHwgdQlIIN3ZVgd0MFW7imE</ht:news_item_picture>
+				<ht:news_item_source>한겨레</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>&quot;여기 이제 배틀 시작&quot;…카더가든도 언급한 &apos;모태솔로의 밤&apos;</ht:news_item_title>
+				<ht:news_item_title>‘협상 돌파구’로 조선업 부상…현지 투자·재건 협력 거론</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.nocutnews.co.kr/news/6373982</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRW7SPT7WUQyurNVrY9UCGExeJUpBJreS1gnjroMIICrHeQzPIgzbGRhp7nSt8</ht:news_item_picture>
-				<ht:news_item_source>노컷뉴스</ht:news_item_source>
+				<ht:news_item_url>https://news.kbs.co.kr/news/view.do?ncd=8315156</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSswYCp-niRGpeb1FzW2w7vvEZ0gQLTn_fb_weSfv_bMiuMrPJXXmBfIAnxEuY</ht:news_item_picture>
+				<ht:news_item_source>KBS 뉴스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>‘모태솔로지만 연애는 하고 싶어’, 모태솔로들의 ‘썸 배틀’ 전면전</ht:news_item_title>
+				<ht:news_item_title>한미 무역협상 핵심 떠오른 조선株 또 급등…한화오션 8%↑(종합)</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.dailysportshankook.co.kr/news/articleView.html?idxno=410363</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR90c3C8t9uKc3_I1Q00ACp9hxgSChXbb-fQaR5XhuaX9pi9YDkIZ49MQ4B0zc</ht:news_item_picture>
-				<ht:news_item_source>데일리스포츠한국</ht:news_item_source>
+				<ht:news_item_url>https://www.yna.co.kr/view/AKR20250728036151030</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8hTZSwJPGi3xxzZuujUdumniFWiqrJ4KjFi6KfGstImAAAKdbQnjLZTrt8CE</ht:news_item_picture>
+				<ht:news_item_source>연합뉴스</ht:news_item_source>
 			</ht:news_item>
 		</item>
 	</channel>
