@@ -28,11 +28,11 @@
 				<ht:news_item_source>연합뉴스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>역대 3번째 더운 서울의 &apos;7월 28일&apos;‥이 시각 반포한강공원</ht:news_item_title>
+				<ht:news_item_title>서울 38도·안성 40도 ‘극한더위’···40도 폭염 ‘뉴노멀’ 되나</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://imnews.imbc.com/replay/2025/nwdesk/article/6740260_36799.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBjY3dBrKhgO9D1XP3_tgQaY5MYSe2ziOzHBLt25f0p8iPJ6vhy5wcLO1HQO0</ht:news_item_picture>
-				<ht:news_item_source>MBC 뉴스</ht:news_item_source>
+				<ht:news_item_url>https://www.khan.co.kr/article/202507271838001</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQR8wjpcNC4YNDn0SFjiP2X2-Kdxeoh57Sp-eR7O4TEU4a2t-ChDEjSxpLKTo4</ht:news_item_picture>
+				<ht:news_item_source>경향신문</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -41,15 +41,8 @@
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
 			<pubDate>Mon, 28 Jul 2025 02:40:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnmBEtphzpksCgfd-VZJHTtQ7rcFE90NB-JMyReEQy3cIQwQ4H3bwQ_maI860</ht:picture>
-			<ht:picture_source>MBC 뉴스</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>[단독] 말 바꾼 윤상현 &quot;&apos;김영선 좀 해줘라&apos; 尹 전화 받았다&quot;</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://imnews.imbc.com/replay/2025/nwdesk/article/6740250_36799.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnmBEtphzpksCgfd-VZJHTtQ7rcFE90NB-JMyReEQy3cIQwQ4H3bwQ_maI860</ht:news_item_picture>
-				<ht:news_item_source>MBC 뉴스</ht:news_item_source>
-			</ht:news_item>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_B0DWWJsj7n1DoqSezOeBMT-Uyyw372eMDuNlSmMsPWq9yQCFiuAVbsRRUr0</ht:picture>
+			<ht:picture_source>경향신문</ht:picture_source>
 			<ht:news_item>
 				<ht:news_item_title>[단독]윤상현 “장제원 ‘김영선 공천, 윤석열 뜻’ 통화 내용, 한기호에 전달”</ht:news_item_title>
 				<ht:news_item_snippet/>
@@ -63,6 +56,13 @@
 				<ht:news_item_url>https://www.hani.co.kr/arti/society/society_general/1210326.html</ht:news_item_url>
 				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIEoM4cLzFCbhuzsqfJ3V1axKaZ43l1OCfVUkKJmxo6dOW3N88Wa_wH-rZdCE</ht:news_item_picture>
 				<ht:news_item_source>한겨레</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>[단독] 윤상현 &quot;장제원이 당선인의 뜻이라고 전화&quot;…윤석열은 &quot;장 전화 받았지?&quot;</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://news.jtbc.co.kr/article/NB12256457</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYfxfbOVRsDxrPPLpno_mOn7kMfOdPdOKC645ZKz_RP6Ahy03YVPPz222_6Sk</ht:news_item_picture>
+				<ht:news_item_source>JTBC 뉴스</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -148,11 +148,11 @@
 				<ht:news_item_source>뉴시스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>174안타 리드오프, 공수주 갖춘 우승 외야수, 연봉 4억까지 올렸는데 충격 NC행...KIA는 왜 예비 FA 트레이드했나</ht:news_item_title>
+				<ht:news_item_title>프로야구 KIA·NC 3대3 트레이드‥KIA 최원준·NC 김시훈 포함</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.chosun.com/sports/baseball/2025/07/28/MMES2FDXQ2XM7XYRTG3TPPEA2M/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSj1r-KbcM0KasK9sGCxqiHE8dFAJBvOPMg3ur1R5B2MreJuw9dZp-PVWr2Pz8</ht:news_item_picture>
-				<ht:news_item_source>조선일보</ht:news_item_source>
+				<ht:news_item_url>https://imnews.imbc.com/news/2025/sports/article/6740221_36751.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_xnJh9OD5yBx-u5mSIigZu5tpOOQaHledyM_rUQW927WgUYXahrbKH2czosY</ht:news_item_picture>
+				<ht:news_item_source>MBC 뉴스</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -161,14 +161,14 @@
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
 			<pubDate>Mon, 28 Jul 2025 00:30:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlDp0VcEr9-S5XI5Lt0vlMnCTj4Zye5WF2QSu2zNbO5RuY4piYE9Mz_hu0QJU</ht:picture>
-			<ht:picture_source>조선일보</ht:picture_source>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-TecIKA50DFe5U6DdgTU4HUhjRnsSUUCK79qXNmJKhO4PGi07VAgxefgiz00</ht:picture>
+			<ht:picture_source>MBC 뉴스</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>당 대표된 다음날 압수수색 당한 이준석 “특검 오해살 일 말라”</ht:news_item_title>
+				<ht:news_item_title>이준석 &quot;특검, 오해살 일 안 했으면&quot;‥최대 정치 위기 직면?</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.chosun.com/national/court_law/2025/07/28/MXQFX36BVVFDLLXXOHSEWNXPUU/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlDp0VcEr9-S5XI5Lt0vlMnCTj4Zye5WF2QSu2zNbO5RuY4piYE9Mz_hu0QJU</ht:news_item_picture>
-				<ht:news_item_source>조선일보</ht:news_item_source>
+				<ht:news_item_url>https://imnews.imbc.com/replay/2025/nwdesk/article/6740252_36799.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-TecIKA50DFe5U6DdgTU4HUhjRnsSUUCK79qXNmJKhO4PGi07VAgxefgiz00</ht:news_item_picture>
+				<ht:news_item_source>MBC 뉴스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
 				<ht:news_item_title>김건희 특검, 이준석 대표 압수수색···‘명태균 공천개입’ 피의자 적시</ht:news_item_title>
@@ -261,11 +261,11 @@
 				<ht:news_item_source>뉴시스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>보람상조, 장례식장 수익 환원… 지역과 상생</ht:news_item_title>
+				<ht:news_item_title>보람상조, 반려동물 장례식장 &apos;페어웰(Parewell)&apos;과 펫상조 서비스 강화</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.fnnews.com/news/202507271839290262</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4yzI1o3u26GAadHqXnsbs8BZ_f6GBcj5EsHzg6_hc0FeBylhKlXd8pJsxA3Y</ht:news_item_picture>
-				<ht:news_item_source>파이낸셜뉴스</ht:news_item_source>
+				<ht:news_item_url>https://news.nate.com/view/20250728n13729</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfNd92KzEMIiWmFPrgdmyJvtBnMpMf6pbYaBF-Xr67zloc_qHDR3GQz0Ak8hI</ht:news_item_picture>
+				<ht:news_item_source>네이트</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
 				<ht:news_item_title>&quot;체질 개선 중…전환 상품 확대·재무 안정성 제고 나서&quot; 초고령사회 진입 본격화…상조업계, 고객 경험 중심 서비스로 진화</ht:news_item_title>
@@ -291,18 +291,18 @@
 				<ht:news_item_source>뉴스1</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>◇오늘의 경기(27일)</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.yna.co.kr/view/AKR20250726025600007</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPMu1dwobQnXbqADe01tG3o44tuj6H5nvpjgnsleMQ93mt-I5-_BSoClKGX3g</ht:news_item_picture>
-				<ht:news_item_source>연합뉴스</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
 				<ht:news_item_title>희비 갈린 ‘엘롯기’…상승세 LG·롯데, 연패 빠진 기아</ht:news_item_title>
 				<ht:news_item_snippet/>
 				<ht:news_item_url>https://www.hani.co.kr/arti/sports/baseball/1210330.html</ht:news_item_url>
 				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR445ztm8d2gAPCTYxwNK4tdoSfUPp7Up2mth-obRqviL0Qjr05ZfBBtNYPByI</ht:news_item_picture>
 				<ht:news_item_source>한겨레</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>◇오늘의 경기(26일)</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.yna.co.kr/view/AKR20250725152400007</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPMu1dwobQnXbqADe01tG3o44tuj6H5nvpjgnsleMQ93mt-I5-_BSoClKGX3g</ht:news_item_picture>
+				<ht:news_item_source>연합뉴스</ht:news_item_source>
 			</ht:news_item>
 		</item>
 	</channel>
