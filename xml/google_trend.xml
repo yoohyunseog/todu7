@@ -28,11 +28,11 @@
 				<ht:news_item_source>연합뉴스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>서울 38도·안성 40도 ‘극한더위’···40도 폭염 ‘뉴노멀’ 되나</ht:news_item_title>
+				<ht:news_item_title>[날씨] 내일도 이어지는 찜통더위...밤사이 대부분 지역에서 열대야</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.khan.co.kr/article/202507271838001</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQR8wjpcNC4YNDn0SFjiP2X2-Kdxeoh57Sp-eR7O4TEU4a2t-ChDEjSxpLKTo4</ht:news_item_picture>
-				<ht:news_item_source>경향신문</ht:news_item_source>
+				<ht:news_item_url>https://www.ytn.co.kr/_ln/0108_202507281924530321</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZfFv1AnDzSX7nUq1dgYDuitp65HdBI7KVme_vGynubGW_AKZ0dKDkUGQFUPs</ht:news_item_picture>
+				<ht:news_item_source>YTN</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -261,18 +261,18 @@
 				<ht:news_item_source>뉴시스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>보람상조, 반려동물 장례식장 &apos;페어웰(Parewell)&apos;과 펫상조 서비스 강화</ht:news_item_title>
+				<ht:news_item_title>보람상조, 장례식장 수익 환원… 지역과 상생</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.nate.com/view/20250728n13729</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfNd92KzEMIiWmFPrgdmyJvtBnMpMf6pbYaBF-Xr67zloc_qHDR3GQz0Ak8hI</ht:news_item_picture>
-				<ht:news_item_source>네이트</ht:news_item_source>
+				<ht:news_item_url>https://www.fnnews.com/news/202507271839290262</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4yzI1o3u26GAadHqXnsbs8BZ_f6GBcj5EsHzg6_hc0FeBylhKlXd8pJsxA3Y</ht:news_item_picture>
+				<ht:news_item_source>파이낸셜뉴스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>&quot;체질 개선 중…전환 상품 확대·재무 안정성 제고 나서&quot; 초고령사회 진입 본격화…상조업계, 고객 경험 중심 서비스로 진화</ht:news_item_title>
+				<ht:news_item_title>장동하 교원 2세의 반려동물 사랑…새먹거리도 ‘펫 상조· 펫 호텔’</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>http://www.osen.co.kr/article/G1112620964</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNSKxxMjr-L-EHOxufnHHw2HLwRDFprH1G748RI6RjHzeMShdnyBDwFt6wmpA</ht:news_item_picture>
-				<ht:news_item_source>OSEN</ht:news_item_source>
+				<ht:news_item_url>https://www.insightkorea.co.kr/news/articleView.html?idxno=228692</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR58s36bv7RmixIaJ0oaBbEoZksk5eH5zj1YJY-VIhW_Iy8oTnet1Dzw-BzhQE</ht:news_item_picture>
+				<ht:news_item_source>인사이트코리아</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -291,18 +291,18 @@
 				<ht:news_item_source>뉴스1</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
+				<ht:news_item_title>◇오늘의 경기(27일)</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.yna.co.kr/view/AKR20250726025600007</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPMu1dwobQnXbqADe01tG3o44tuj6H5nvpjgnsleMQ93mt-I5-_BSoClKGX3g</ht:news_item_picture>
+				<ht:news_item_source>연합뉴스</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
 				<ht:news_item_title>희비 갈린 ‘엘롯기’…상승세 LG·롯데, 연패 빠진 기아</ht:news_item_title>
 				<ht:news_item_snippet/>
 				<ht:news_item_url>https://www.hani.co.kr/arti/sports/baseball/1210330.html</ht:news_item_url>
 				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR445ztm8d2gAPCTYxwNK4tdoSfUPp7Up2mth-obRqviL0Qjr05ZfBBtNYPByI</ht:news_item_picture>
 				<ht:news_item_source>한겨레</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>◇오늘의 경기(26일)</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.yna.co.kr/view/AKR20250725152400007</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPMu1dwobQnXbqADe01tG3o44tuj6H5nvpjgnsleMQ93mt-I5-_BSoClKGX3g</ht:news_item_picture>
-				<ht:news_item_source>연합뉴스</ht:news_item_source>
 			</ht:news_item>
 		</item>
 	</channel>
