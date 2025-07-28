@@ -21,18 +21,18 @@
 				<ht:news_item_source>조선일보</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>‘이중 솜이불’ 하나는 걷혔지만…내일도 최고 37도 불볕더위 계속</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.hani.co.kr/arti/society/environment/1210384.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTBnP5RIs7ONBcVKWuaTAEuaZC_0-sCmUlqLj7d2xxEu2k5yScyx_4m1Bh0R3w</ht:news_item_picture>
-				<ht:news_item_source>한겨레</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
 				<ht:news_item_title>[날씨] 낮 최고 37도 폭염 계속…경기·강원 일부 소나기</ht:news_item_title>
 				<ht:news_item_snippet/>
 				<ht:news_item_url>https://www.yna.co.kr/view/AKR20250728133300004</ht:news_item_url>
 				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeBNJY9IvkueOYOUKFtZBHLv-4l_tybslwKdJ1RiSL9_ZD6h5kghlfhokOdz4</ht:news_item_picture>
 				<ht:news_item_source>연합뉴스</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>역대 3번째 더운 서울의 &apos;7월 28일&apos;‥이 시각 반포한강공원</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://imnews.imbc.com/replay/2025/nwdesk/article/6740260_36799.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBjY3dBrKhgO9D1XP3_tgQaY5MYSe2ziOzHBLt25f0p8iPJ6vhy5wcLO1HQO0</ht:news_item_picture>
+				<ht:news_item_source>MBC 뉴스</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -51,18 +51,18 @@
 				<ht:news_item_source>MBC 뉴스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>윤상현 “‘김영선 공천’ 윤석열 전화 받았다” 특검서 ‘공천 개입’ 진술</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.hani.co.kr/arti/society/society_general/1210326.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIEoM4cLzFCbhuzsqfJ3V1axKaZ43l1OCfVUkKJmxo6dOW3N88Wa_wH-rZdCE</ht:news_item_picture>
-				<ht:news_item_source>한겨레</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
 				<ht:news_item_title>[단독]윤상현 “장제원 ‘김영선 공천, 윤석열 뜻’ 통화 내용, 한기호에 전달”</ht:news_item_title>
 				<ht:news_item_snippet/>
 				<ht:news_item_url>https://www.khan.co.kr/article/202507281952001</ht:news_item_url>
 				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_B0DWWJsj7n1DoqSezOeBMT-Uyyw372eMDuNlSmMsPWq9yQCFiuAVbsRRUr0</ht:news_item_picture>
 				<ht:news_item_source>경향신문</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>윤상현 “‘김영선 공천’ 윤석열 전화 받았다” 특검서 ‘공천 개입’ 진술</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.hani.co.kr/arti/society/society_general/1210326.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIEoM4cLzFCbhuzsqfJ3V1axKaZ43l1OCfVUkKJmxo6dOW3N88Wa_wH-rZdCE</ht:news_item_picture>
+				<ht:news_item_source>한겨레</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -161,14 +161,14 @@
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=KR</link>
 			<pubDate>Mon, 28 Jul 2025 00:30:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQg4FP9mPByNImVrOozi6RQnMxTmjQMFz-JIG_u0tKlrdf03T1CPqfz5fYHz2s</ht:picture>
-			<ht:picture_source>KBS 뉴스</ht:picture_source>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlDp0VcEr9-S5XI5Lt0vlMnCTj4Zye5WF2QSu2zNbO5RuY4piYE9Mz_hu0QJU</ht:picture>
+			<ht:picture_source>조선일보</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>첫 회의날, 특검 압수수색에 이준석이 내놓은 반응 [지금뉴스]</ht:news_item_title>
+				<ht:news_item_title>당 대표된 다음날 압수수색 당한 이준석 “특검 오해살 일 말라”</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.kbs.co.kr/news/view.do?ncd=8315133</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQg4FP9mPByNImVrOozi6RQnMxTmjQMFz-JIG_u0tKlrdf03T1CPqfz5fYHz2s</ht:news_item_picture>
-				<ht:news_item_source>KBS 뉴스</ht:news_item_source>
+				<ht:news_item_url>https://www.chosun.com/national/court_law/2025/07/28/MXQFX36BVVFDLLXXOHSEWNXPUU/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlDp0VcEr9-S5XI5Lt0vlMnCTj4Zye5WF2QSu2zNbO5RuY4piYE9Mz_hu0QJU</ht:news_item_picture>
+				<ht:news_item_source>조선일보</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
 				<ht:news_item_title>김건희 특검, 이준석 대표 압수수색···‘명태균 공천개입’ 피의자 적시</ht:news_item_title>
@@ -178,11 +178,11 @@
 				<ht:news_item_source>경향신문</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>정청래·박찬대, 이준석 압수수색에 &quot;체포동의안 오면 즉시 처리&quot;</ht:news_item_title>
+				<ht:news_item_title>경찰, ‘이준석 여론조사비 대납 의혹’ 수사 착수…강혜경 씨 출석 조율 중</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://imnews.imbc.com/news/2025/politics/article/6740224_36711.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAxYVZhxERzNFCEf3bI3olD9QIjFVM5OJ-KbwopbcijWZFBCowB4AsMS8xcFA</ht:news_item_picture>
-				<ht:news_item_source>MBC 뉴스</ht:news_item_source>
+				<ht:news_item_url>https://news.kbs.co.kr/news/view.do?ncd=8315555</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2K1aTk700PY7sPymsc8hIdE5ZEdfrGsYjabyQg9V9tFsQ10sdCqUeuR8SQhI</ht:news_item_picture>
+				<ht:news_item_source>KBS 뉴스</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -268,11 +268,11 @@
 				<ht:news_item_source>파이낸셜뉴스</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>장동하 교원 2세의 반려동물 사랑…새먹거리도 ‘펫 상조· 펫 호텔’</ht:news_item_title>
+				<ht:news_item_title>&quot;체질 개선 중…전환 상품 확대·재무 안정성 제고 나서&quot; 초고령사회 진입 본격화…상조업계, 고객 경험 중심 서비스로 진화</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.insightkorea.co.kr/news/articleView.html?idxno=228692</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR58s36bv7RmixIaJ0oaBbEoZksk5eH5zj1YJY-VIhW_Iy8oTnet1Dzw-BzhQE</ht:news_item_picture>
-				<ht:news_item_source>인사이트코리아</ht:news_item_source>
+				<ht:news_item_url>http://www.osen.co.kr/article/G1112620964</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNSKxxMjr-L-EHOxufnHHw2HLwRDFprH1G748RI6RjHzeMShdnyBDwFt6wmpA</ht:news_item_picture>
+				<ht:news_item_source>OSEN</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -291,18 +291,18 @@
 				<ht:news_item_source>뉴스1</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
+				<ht:news_item_title>◇오늘의 경기(27일)</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.yna.co.kr/view/AKR20250726025600007</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPMu1dwobQnXbqADe01tG3o44tuj6H5nvpjgnsleMQ93mt-I5-_BSoClKGX3g</ht:news_item_picture>
+				<ht:news_item_source>연합뉴스</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
 				<ht:news_item_title>희비 갈린 ‘엘롯기’…상승세 LG·롯데, 연패 빠진 기아</ht:news_item_title>
 				<ht:news_item_snippet/>
 				<ht:news_item_url>https://www.hani.co.kr/arti/sports/baseball/1210330.html</ht:news_item_url>
 				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR445ztm8d2gAPCTYxwNK4tdoSfUPp7Up2mth-obRqviL0Qjr05ZfBBtNYPByI</ht:news_item_picture>
 				<ht:news_item_source>한겨레</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>&apos;2025 KBO 프로야구&apos; 오늘(26일)의 경기 일정</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://news.nate.com/view/20250726n05289</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5DVMPKtD4KR8jYCRGSj91JEhKu3ySBzut2-deX1HFc49-8upGdh6VJp00SQM</ht:news_item_picture>
-				<ht:news_item_source>네이트</ht:news_item_source>
 			</ht:news_item>
 		</item>
 	</channel>
